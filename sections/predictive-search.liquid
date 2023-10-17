@@ -1,0 +1,36 @@
+{%- if predictive_search.performed -%}
+  
+  <div id="predictive-search-results">
+    {%- if predictive_search.resources.products.size > 0 -%}
+      <div class="predictive-search-title">
+        <h3 id="predictive-search-products" class="predictive-search-title__content">
+          Products
+        </h3>
+        <span class="predictive-search-title__loading-spinner"></span>
+      </div>
+      <ul id="predictive-search-results" role="listbox" class="predictive-search__list">
+        {%- for product in predictive_search.resources.products -%}
+          <li id="search-result-0" role="option" class="predictive-search-item">
+            <a href="{{ product.url }}" class="predictive-search-item__link" tabindex="-1">
+              <div class="predictive-search__column predictive-search__column--image" data-image-with-placeholder-wrapper>
+                <div class="placeholder-background placeholder-background--animation hide" data-image-placeholder aria-hidden="true">
+                </div>
+                {{ product | image_url: width: 50 | image_tag }}
+              </div>
+              <div class=" predictive-search__column--content predictive-search__column--center">
+                <span class="predictive-search-item__title"> 
+                  <span class="predictive-search-item__title-text">{{ product.title }}</span>
+                </span>
+                  <span class="visually-hidden">,</span>
+                  <span class="visually-hidden">1 of 4</span>
+              </div>
+            </a>
+          </li>
+        {%- endfor -%}
+      </ul>
+    {%- endif -%}
+    <button class="predictive-search-view-all__button">
+      Search for “{{ predictive_search.terms }}”
+    </button>
+  </div>
+{%- endif -%}

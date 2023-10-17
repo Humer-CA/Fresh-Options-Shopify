@@ -1,0 +1,60 @@
+{% comment %}
+ Wishlist Hero Snippets -  V 1.0.0
+{% endcomment %}
+<!-- Font icon for header icons -->
+<link href="https://de454z9efqcli.cloudfront.net/safe-icons/css/wishlisthero-icons.css" rel="stylesheet"/>
+<!-- Style for floating buttons and others -->
+<style type="text/css">
+    .wishlisthero-floating {
+        position: absolute;
+        right: 5px;
+        top: 5px;
+        z-index: 23;
+        border-radius: 100%;
+    }
+
+    .wishlisthero-floating:hover {
+        background-color: rgb(0, 0, 0, 0.05);
+    }
+
+    .wishlisthero-floating button {
+        font-size: 20px !important;
+        width: 40px !important;
+        padding: 0.125em 0 0 !important;
+    }
+
+    /****************************************************************************************/
+    /* For some theme shared view need some spacing */
+    /*
+    #wishlist-hero-shared-list-view {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+#wishlist-hero-shared-list-view h1 {
+  padding-left: 5px;
+}
+
+#wishlisthero-product-page-button-container {
+  padding-top: 15px;
+}
+*/
+    /****************************************************************************************/
+    /* #wishlisthero-product-page-button-container button {
+  padding-left: 1px !important;
+} */
+    /****************************************************************************************/
+    /* Customize the indicator when wishlist has items AND the normal indicator not working */
+    /* span.wishlist-hero-items-count {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  width: 5px;
+  height: 5px;
+  background-color: red; 
+    border-radius: 100%;
+}
+*/
+</style>
+{% assign wishlistHero = shop.metafields.wishlistHero %} {% assign key = 'WishListHero_setting' %}<script type='text/javascript'>try{
+ {% unless wishlistHero.WishListHero_setting %}  window.WishListHero_setting = null; {% else %}  window.WishListHero_setting = {{ wishlistHero.WishListHero_setting | json }};  
+ {% endunless %} }catch(e){ console.error('Error loading config',e); } </script>

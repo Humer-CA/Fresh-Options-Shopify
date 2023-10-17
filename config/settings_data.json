@@ -1,0 +1,1083 @@
+{
+  "current": {
+    "color_text": "#3a3a3a",
+    "color_body_text": "#000000",
+    "color_sale_text": "#fa4545",
+    "color_button": "#2cae5d",
+    "color_button_text": "#ffffff",
+    "color_small_button_text_border": "#3a3a3a",
+    "color_text_field_text": "#000000",
+    "color_text_field_border": "#cccccc",
+    "color_text_field": "#ffffff",
+    "color_image_overlay_text": "#ffffff",
+    "color_image_overlay": "#685858",
+    "image_overlay_opacity": 45,
+    "color_borders": "#ebebeb",
+    "color_body_bg": "#ffffff",
+    "type_header_font": "montserrat_n4",
+    "type_header_base_size": 26,
+    "type_base_font": "montserrat_n4",
+    "type_base_size": 15,
+    "predictive_search_enabled": true,
+    "predictive_search_show_vendor": false,
+    "predictive_search_show_price": false,
+    "share_image": "",
+    "share_facebook": true,
+    "share_twitter": false,
+    "share_pinterest": false,
+    "social_twitter_link": "",
+    "social_facebook_link": "https:\/\/www.facebook.com\/FreshOptions\/",
+    "social_pinterest_link": "",
+    "social_instagram_link": "https:\/\/www.instagram.com\/freshoptionsph\/",
+    "social_tumblr_link": "",
+    "social_snapchat_link": "",
+    "social_youtube_link": "https:\/\/www.youtube.com\/channel\/UCkCsltnIUXMytGuKa43tptg",
+    "social_vimeo_link": "",
+    "favicon": "shopify:\/\/shop_images\/fo_logo_hi.png",
+    "enable_ajax": true,
+    "checkout_header_image": "",
+    "checkout_logo_image": "shopify:\/\/shop_images\/96085084_651372018760974_7216682029612531712_n.jpg",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#fff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_accent_color": "#197bbd",
+    "checkout_button_color": "#197bbd",
+    "checkout_error_color": "#e32c2b",
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+          "align_logo": "left",
+          "logo": "shopify:\/\/shop_images\/96085084_651372018760974_7216682029612531712_n.jpg",
+          "logo_max_width": 150,
+          "main_linklist": "main-menu",
+          "message": false,
+          "home_page_only": false,
+          "message_text": "",
+          "message_link": "",
+          "color_bg": "#2cae5d",
+          "color_text": "#ffffff"
+        }
+      },
+      "hero-1": {
+        "type": "hero",
+        "disabled": true,
+        "settings": {
+          "alignment": "center",
+          "hero_layout": "full_width",
+          "hero_size": "large",
+          "text_size": "large",
+          "title": "Image with text overlay",
+          "text": "<p>Use overlay text to give your customers insight into your brand. Select imagery and text that relates to your style and story.<\/p>",
+          "button_label": "",
+          "button_link": ""
+        }
+      },
+      "feature-columns": {
+        "type": "feature-columns",
+        "blocks": {
+          "feature-columns-0": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "title": "Add a title or tagline",
+              "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "feature-columns-1": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "title": "Add a title or tagline",
+              "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "feature-columns-2": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "title": "Add a title or tagline",
+              "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+              "button_label": "",
+              "button_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "feature-columns-0",
+          "feature-columns-1",
+          "feature-columns-2"
+        ],
+        "disabled": true,
+        "settings": {
+          "title": "",
+          "align_text": "left"
+        }
+      },
+      "collection": {
+        "type": "collection",
+        "settings": {
+          "title": "TOP PRODUCTS",
+          "collection": "featured-products",
+          "grid": 5,
+          "rows": 2,
+          "show_vendor": false,
+          "show_view_all": false
+        }
+      },
+      "hero-2": {
+        "type": "hero",
+        "disabled": true,
+        "settings": {
+          "alignment": "center",
+          "hero_layout": "full_width",
+          "hero_size": "medium",
+          "text_size": "large",
+          "title": "Image with text overlay",
+          "text": "<p>Use overlay text to give your customers insight into your brand. Select imagery and text that relates to your style and story.<\/p>",
+          "button_label": "",
+          "button_link": ""
+        }
+      },
+      "quotes": {
+        "type": "quotes",
+        "blocks": {
+          "1588818064537": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p>Fresh meat and good processed products. My order was delivered earlier than expected. Delivery man was jolly and respectful.<\/p>",
+              "author": "Myrna Siapno Galang"
+            }
+          },
+          "1588818051146": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p>Great Customer Service! Fast Delivery! Been ordering since start of quarantine. Expect loyal customers in us. Keep it up!<\/p>",
+              "author": "Tala Gem"
+            }
+          },
+          "1588818087926": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p>Fresh products. The meat is tender. I love their beef pares, beef caldereta and Rapsarap beef tapa. Will definitely order again.<\/p>",
+              "author": "Nolay de Claro"
+            }
+          },
+          "quotes-1": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p>Maganda at malinis ang lugar, bago ang mga karne, malinamnam pag niluluto at marami kang pagpipilian na ready to cook ulam. Excellent!<\/p>",
+              "author": "Rhose Seculan"
+            }
+          },
+          "quotes-2": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p>Responsive and accommodating staff! They inform you of status of your order by messenger, text and\/or call. And deliver when they say they will. I’m a satisfied repeat customer.<\/p>",
+              "author": "Ching dela Peña"
+            }
+          },
+          "1588818101370": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p>Very accommodating staff! Despite the surge, they still find time in responding to customers concerns. Received our orders. Thanks!<\/p>",
+              "author": "Reizel Vibal"
+            }
+          },
+          "1588818117392": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p>Super-efficient! I am able to order for my mom who lives in the province. Delivery takes less than 24hrs. They call if some items are not available and check if delivery has been made.<\/p>",
+              "author": "Kimberly Napao Ocampo"
+            }
+          },
+          "1588818134742": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p>I ordered online and they responded and we waited on their validation call. But upon having the validation call my order was delivered within the same day.<\/p>",
+              "author": "Idel Saavedra- Esagunde"
+            }
+          }
+        },
+        "block_order": [
+          "1588818064537",
+          "1588818051146",
+          "1588818087926",
+          "quotes-1",
+          "quotes-2",
+          "1588818101370",
+          "1588818117392",
+          "1588818134742"
+        ],
+        "settings": {
+          "title": "Know why our customers love us!"
+        }
+      },
+      "image-bar": {
+        "type": "image-bar",
+        "blocks": {
+          "image-bar-0": {
+            "type": "image",
+            "settings": {
+              "alignment": "center",
+              "link": "shopify:\/\/products\/rapsarap-beef-tapa-220g",
+              "cta_label": ""
+            }
+          },
+          "image-bar-1": {
+            "type": "image",
+            "settings": {
+              "alignment": "center",
+              "link": "",
+              "cta_label": ""
+            }
+          },
+          "image-bar-2": {
+            "type": "image",
+            "settings": {
+              "alignment": "center",
+              "link": "",
+              "cta_label": ""
+            }
+          }
+        },
+        "block_order": [
+          "image-bar-0",
+          "image-bar-1",
+          "image-bar-2"
+        ],
+        "disabled": true,
+        "settings": {
+          "section_height": "medium"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "1588904669777": {
+            "type": "text",
+            "settings": {
+              "title": "About Us",
+              "text": "<p><a href=\"\/pages\/about-us\" title=\"<div><img src=&quot;https:\/\/cdn.shopify.com\/s\/files\/1\/0273\/4161\/9287\/files\/rdf_logo_480x480.jpg?v=1590465495&quot; alt=&quot;&quot; width=&quot;204px&quot; height=&quot;110px&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; \/><\/div>Our Company\">Our Company<\/a><a href=\"\/pages\/twisted-recipes\" title=\"Twisted Recipes\"><br\/><\/a><\/p><p><a href=\"\/pages\/quality-points\" title=\"Quality Points\">Quality Points<\/a><br\/><br\/><a href=\"\/blogs\/news\" title=\"News\">News<br\/><br\/><\/a><a href=\"\/pages\/contact-us\" title=\"Contact Us\">Contact Us<\/a><\/p><p><\/p><p><a href=\"\/pages\/retail-partnership\" title=\"Retail Partnership\">Retail Partnership<\/a><\/p>"
+            }
+          },
+          "1588904884000": {
+            "type": "text",
+            "settings": {
+              "title": "Terms & Conditions",
+              "text": "<p><a href=\"\/pages\/terms-of-privacy\" title=\"Terms of Privacy\">Make sure you read and agree with our terms.<\/a><\/p>"
+            }
+          },
+          "footer-1": {
+            "type": "newsletter",
+            "settings": {
+              "title": "Newsletter"
+            }
+          }
+        },
+        "block_order": [
+          "1588904669777",
+          "1588904884000",
+          "footer-1"
+        ],
+        "settings": {
+          "show_payment_icons": true,
+          "color_footer_bg": "#f6f6f6",
+          "color_footer_text": "#333232",
+          "show_locale_selector": true,
+          "show_currency_selector": true
+        }
+      },
+      "1588342486976": {
+        "type": "rich-text",
+        "disabled": true,
+        "settings": {
+          "full_width": false,
+          "section_title": "",
+          "text": "",
+          "text_size": "small"
+        }
+      },
+      "1588343176004": {
+        "type": "collection-list",
+        "blocks": {
+          "1acfd8e1-26ae-45fb-abc7-23724c01da3e": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "all-promos"
+            }
+          },
+          "1588343176004-1": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "all-products"
+            }
+          },
+          "1588343176004-2": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "chicken"
+            }
+          },
+          "1588343176004-0": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "pork"
+            }
+          },
+          "040c0f75-194b-414a-8df9-ac22bbdbdc00": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "beef"
+            }
+          },
+          "657abc64-b739-4134-a55f-9430f91f7789": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "ready-to-cook"
+            }
+          },
+          "daedc20f-9dfd-4d40-b866-8f03cf27fa6e": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "ready-to-heat"
+            }
+          },
+          "b4235fb5-b2f5-45b1-94b0-b34d2d3f9929": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "breakfast"
+            }
+          },
+          "7597887d-2800-4771-9a36-9a5170a306f3": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "special"
+            }
+          },
+          "544a6534-4d81-4645-ba78-1165f8b53dd9": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "brown-eggs"
+            }
+          },
+          "a1f7609e-7977-40c0-8f47-ee82e748e25f": {
+            "type": "featured_collection",
+            "disabled": true,
+            "settings": {
+              "collection": ""
+            }
+          }
+        },
+        "block_order": [
+          "1acfd8e1-26ae-45fb-abc7-23724c01da3e",
+          "1588343176004-1",
+          "1588343176004-2",
+          "1588343176004-0",
+          "040c0f75-194b-414a-8df9-ac22bbdbdc00",
+          "657abc64-b739-4134-a55f-9430f91f7789",
+          "daedc20f-9dfd-4d40-b866-8f03cf27fa6e",
+          "b4235fb5-b2f5-45b1-94b0-b34d2d3f9929",
+          "7597887d-2800-4771-9a36-9a5170a306f3",
+          "544a6534-4d81-4645-ba78-1165f8b53dd9",
+          "a1f7609e-7977-40c0-8f47-ee82e748e25f"
+        ],
+        "settings": {
+          "title": "Shop by Category",
+          "grid": 4
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "layout": "grid",
+          "grid": 4,
+          "rows": 2,
+          "show_collection_image": false,
+          "show_vendor": false,
+          "sort_enable": true,
+          "tags_enable": true
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "show_quantity_selector": true,
+          "show_variant_labels": true,
+          "show_vendor": false,
+          "enable_payment_button": true,
+          "show_share_buttons": true,
+          "media_size": "medium",
+          "enable_image_zoom": true,
+          "enable_video_looping": false
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "show_product_recommendations": true,
+          "heading": "You may also like",
+          "show_vendor": false
+        }
+      },
+      "cart-template": {
+        "type": "cart-template",
+        "settings": {
+          "cart_ajax_enable": true,
+          "cart_notes_enable": true
+        }
+      },
+      "1588383304827": {
+        "type": "video",
+        "settings": {
+          "image_position": "center center",
+          "video_link": "https:\/\/www.youtube.com\/watch?v=GPIH18xPDDM",
+          "show_overlay": true,
+          "style": "background",
+          "height": "medium",
+          "video_title": "",
+          "text_size": "medium"
+        }
+      },
+      "1588817627374": {
+        "type": "feature-columns",
+        "blocks": {
+          "1588817627374-1": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/pork_final.png",
+              "title": "Premium Pork",
+              "text": "<p>Fresh Options® offers the best quality hogs daily from the RDF pig farms and processed in our AAA slaughtering facility and cutting plant – guaranteed freshly chilled to keep freshness straight from the farm to your fork.<\/p>",
+              "button_label": "SHOP PORK",
+              "button_link": "shopify:\/\/collections\/pork"
+            }
+          },
+          "1588817627374-0": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/chicken_final.png",
+              "title": "Fresh Chicken",
+              "text": "<p>Fresh Options® Chicken features only the best home-grown chicken from our company-owned farms, fed with high-quality feeds from our ISO-certified feed mill, dressed in AA-accredited dressing plants, processed under strict compliance to ensure freshness and safety, and distributed to stores through our own logistics system. All of these processes happen in less than 24 hours, making Fresh Options® Chicken NMIS-approved and HACCP-certified.<\/p>",
+              "button_label": "SHOP CHICKEN",
+              "button_link": "shopify:\/\/collections\/chicken"
+            }
+          },
+          "1588817627374-2": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/Beef_final.png",
+              "title": "High Quality Beef",
+              "text": "<p>From steaks to roasts, and everything in between! Fresh Options® is the authority when it comes to superior beef. Sourced only from premium Australian heifers, our beef products are strictly monitored by expert veterinarians to ensure that the meat is fresh, tender, and most importantly, flavorful.<\/p>",
+              "button_label": "SHOP BEEF",
+              "button_link": "shopify:\/\/collections\/beef"
+            }
+          },
+          "1589330338277": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/Perfect_for_your_Almusal_Website_Banner_2.jpg",
+              "title": "Value-Added Meats",
+              "text": "<p>A wide selection of processed, marinated, and ready-to-heat meals to cater to the needs of home managers with a hectic lifestyle. These are made from fresh meats and ingredients that are carefully selected to help you serve healthy, easy and satisfying food for your family.<\/p>",
+              "button_label": "SHOP VAM",
+              "button_link": "shopify:\/\/collections\/value-added-meat"
+            }
+          },
+          "63495c4a-6406-4e7b-b73e-1f9e0a503168": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/21.097IN_X_6.597IN_BANNER_THE_HEALTHY_YOLK_c753acad-0f45-447b-b3b2-2d5926e9f21d.jpg",
+              "title": "Brown Eggs \"The Healthy Yolk",
+              "text": "<p>Fresh Options Brown Eggs the “The Healthy Yolk” is packed with organic selenium and carotenoid content which boosts your immune system, keeps your skin glowing and healthy, good for eye health, great source of cholesterol and improves muscle strength<\/p>",
+              "button_label": "shop egg",
+              "button_link": "https:\/\/freshoptions.ph\/collections\/featured-products\/products\/brown-eggs-large-12s-1"
+            }
+          }
+        },
+        "block_order": [
+          "1588817627374-1",
+          "1588817627374-0",
+          "1588817627374-2",
+          "1589330338277",
+          "63495c4a-6406-4e7b-b73e-1f9e0a503168"
+        ],
+        "disabled": true,
+        "settings": {
+          "title": "SHOP AT FRESH OPTIONS",
+          "align_text": "left"
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "settings": {
+          "layout": "list",
+          "blog_show_author": false,
+          "blog_show_date": false
+        }
+      },
+      "article-template": {
+        "type": "article-template",
+        "settings": {
+          "blog_show_author": false,
+          "blog_show_date": false,
+          "show_share_buttons": true
+        }
+      },
+      "1606782588f28f5afe": {
+        "type": "collection",
+        "disabled": true,
+        "settings": {
+          "title": "PRODUCT SALES",
+          "collection": "featured-products",
+          "grid": 3,
+          "rows": 2,
+          "show_vendor": false,
+          "show_view_all": true
+        }
+      },
+      "9c819cf0-e8df-4ede-8127-bfea36f9231c": {
+        "type": "custom-content",
+        "blocks": {
+          "9c819cf0-e8df-4ede-8127-bfea36f9231c-1680052955cb849ace-0": {
+            "type": "text",
+            "settings": {
+              "title": "Talk about your brand",
+              "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+              "width": "50%",
+              "alignment": "center",
+              "align_text": "left"
+            }
+          },
+          "9c819cf0-e8df-4ede-8127-bfea36f9231c-1680052955cb849ace-1": {
+            "type": "image",
+            "settings": {
+              "width": "50%",
+              "alignment": "center"
+            }
+          }
+        },
+        "block_order": [
+          "9c819cf0-e8df-4ede-8127-bfea36f9231c-1680052955cb849ace-0",
+          "9c819cf0-e8df-4ede-8127-bfea36f9231c-1680052955cb849ace-1"
+        ],
+        "disabled": true,
+        "settings": {
+          "title": "Custom content"
+        }
+      },
+      "134fdfdc-2375-42d3-94aa-6de109dec81d": {
+        "type": "powr-popup",
+        "disabled": true,
+        "settings": {
+        }
+      },
+      "bc57da36-e75a-49f9-b0b5-e142b8712b8e": {
+        "type": "slideshow",
+        "blocks": {
+          "bc57da36-e75a-49f9-b0b5-e142b8712b8e-1684396550c8659a15-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Made_from_Fresh_Meats_Website_Banner_E-Commerce_1519_x_475px_FO_3_85187d0c-6373-484b-b34b-c247065ebe67.jpg",
+              "alignment": "center center",
+              "slide_title": "",
+              "subheading": "",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "bc57da36-e75a-49f9-b0b5-e142b8712b8e-1684396550c8659a15-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/All_Day_Breakfast_E-Commerce_1519_x_475px_FO_1.jpg",
+              "alignment": "center center",
+              "slide_title": "",
+              "subheading": "",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "113750e8-fc22-41d6-8f98-c8b19ddff0f9": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/All_Day_Breakfast_E-Commerce_1519_x_475px_FO_3.jpg",
+              "alignment": "center center",
+              "slide_title": "",
+              "subheading": "",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "d3b564af-d14a-4d22-bffd-0fc516a8b4ac": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/All_Day_Breakfast_E-Commerce_1519_x_475px_FO_2.jpg",
+              "alignment": "center center",
+              "slide_title": "",
+              "subheading": "",
+              "button_label": "",
+              "button_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "bc57da36-e75a-49f9-b0b5-e142b8712b8e-1684396550c8659a15-0",
+          "bc57da36-e75a-49f9-b0b5-e142b8712b8e-1684396550c8659a15-1",
+          "113750e8-fc22-41d6-8f98-c8b19ddff0f9",
+          "d3b564af-d14a-4d22-bffd-0fc516a8b4ac"
+        ],
+        "settings": {
+          "slideshow_height": "adapt",
+          "text_size": "medium",
+          "text_alignment": "center center",
+          "show_overlay": false,
+          "autorotate": true,
+          "autorotate_speed": 3
+        }
+      }
+    },
+    "content_for_index": [
+      "134fdfdc-2375-42d3-94aa-6de109dec81d",
+      "1588342486976",
+      "9c819cf0-e8df-4ede-8127-bfea36f9231c",
+      "bc57da36-e75a-49f9-b0b5-e142b8712b8e",
+      "collection",
+      "1588343176004",
+      "quotes",
+      "image-bar",
+      "feature-columns",
+      "1606782588f28f5afe",
+      "1588817627374",
+      "hero-1",
+      "1588383304827",
+      "hero-2"
+    ],
+    "blocks": {
+      "6356562593472692345": {
+        "type": "shopify:\/\/apps\/contact-us-form-with-captcha\/blocks\/app-embed\/a9c778db-ef3e-4d3b-8775-c01d242fd46f",
+        "disabled": true,
+        "settings": {
+        }
+      }
+    }
+  },
+  "presets": {
+    "Default": {
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+          }
+        },
+        "hero-1": {
+          "type": "hero",
+          "settings": {
+            "hero_size": "large",
+            "text_size": "large"
+          }
+        },
+        "feature-row": {
+          "type": "feature-row",
+          "settings": {
+          }
+        },
+        "feature-columns": {
+          "type": "feature-columns",
+          "blocks": {
+            "feature-columns-0": {
+              "type": "text_block",
+              "settings": {
+              }
+            },
+            "feature-columns-1": {
+              "type": "text_block",
+              "settings": {
+              }
+            },
+            "feature-columns-2": {
+              "type": "text_block",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "feature-columns-0",
+            "feature-columns-1",
+            "feature-columns-2"
+          ],
+          "settings": {
+            "title": ""
+          }
+        },
+        "collection": {
+          "type": "collection",
+          "settings": {
+            "grid": 4
+          }
+        },
+        "hero-2": {
+          "type": "hero",
+          "settings": {
+            "text_size": "large"
+          }
+        },
+        "quotes": {
+          "type": "quotes",
+          "blocks": {
+            "quotes-0": {
+              "type": "quote",
+              "settings": {
+              }
+            },
+            "quotes-1": {
+              "type": "quote",
+              "settings": {
+              }
+            },
+            "quotes-2": {
+              "type": "quote",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "quotes-0",
+            "quotes-1",
+            "quotes-2"
+          ],
+          "settings": {
+            "title": ""
+          }
+        },
+        "image-bar": {
+          "type": "image-bar",
+          "blocks": {
+            "image-bar-0": {
+              "type": "image",
+              "settings": {
+              }
+            },
+            "image-bar-1": {
+              "type": "image",
+              "settings": {
+              }
+            },
+            "image-bar-2": {
+              "type": "image",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "image-bar-0",
+            "image-bar-1",
+            "image-bar-2"
+          ],
+          "settings": {
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-0": {
+              "type": "link_list",
+              "settings": {
+              }
+            },
+            "footer-1": {
+              "type": "newsletter",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "footer-0",
+            "footer-1"
+          ],
+          "settings": {
+            "show_payment_icons": true
+          }
+        }
+      },
+      "content_for_index": [
+        "hero-1",
+        "feature-row",
+        "feature-columns",
+        "collection",
+        "hero-2",
+        "quotes",
+        "image-bar"
+      ]
+    },
+    "Light": {
+      "color_text": "#162950",
+      "color_body_text": "#6d6d6d",
+      "color_sale_text": "#DA2F0C",
+      "color_borders": "#e4e4e4",
+      "color_button": "#DA2F0C",
+      "color_button_text": "#ffffff",
+      "color_small_button_text_border": "#162950",
+      "color_text_field": "#ffffff",
+      "color_text_field_text": "#162950",
+      "color_text_field_border": "#909090",
+      "color_image_overlay_text": "#ffffff",
+      "color_image_overlay": "#3d3d3d",
+      "image_overlay_opacity": 40,
+      "color_body_bg": "#f8f8f8",
+      "type_header_font": "muli_n6",
+      "type_header_base_size": 26,
+      "type_base_font": "muli_n4",
+      "type_base_size": 18,
+      "share_facebook": true,
+      "share_twitter": true,
+      "share_pinterest": true,
+      "social_twitter_link": "",
+      "social_facebook_link": "",
+      "social_pinterest_link": "",
+      "social_instagram_link": "",
+      "social_tumblr_link": "",
+      "social_snapchat_link": "",
+      "social_youtube_link": "",
+      "social_vimeo_link": "",
+      "favicon": "",
+      "checkout_header_image": "",
+      "checkout_logo_image": "",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "small",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#ffffff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#e8f3f6",
+      "checkout_heading_font": "Roboto",
+      "checkout_body_font": "Source Sans Pro",
+      "checkout_accent_color": "#1990c6",
+      "checkout_button_color": "#23314e",
+      "checkout_error_color": "#ff6d6d",
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "align_logo": "left",
+            "logo": "",
+            "logo_max_width": 135,
+            "main_linklist": "main-menu",
+            "message": true,
+            "color_bg": "#162950",
+            "color_text": "#ffffff"
+          }
+        },
+        "hero": {
+          "type": "hero",
+          "settings": {
+            "alignment": "center",
+            "hero_size": "x-large",
+            "text_size": "large"
+          }
+        },
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "slideshow-0": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "alignment": "center center"
+              }
+            },
+            "1492095993817": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "alignment": "center"
+              }
+            }
+          },
+          "block_order": [
+            "slideshow-0",
+            "1492095993817"
+          ],
+          "settings": {
+            "slideshow_height": "medium",
+            "text_size": "medium",
+            "autorotate": false,
+            "autorotate_speed": 5
+          }
+        },
+        "featured-collections": {
+          "type": "collection",
+          "settings": {
+            "grid": 3,
+            "rows": 1,
+            "show_vendor": true,
+            "show_view_all": true
+          }
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {
+            "show_quantity_selector": false,
+            "show_variant_labels": true,
+            "show_vendor": false,
+            "show_share_buttons": true,
+            "media_size": "medium",
+            "enable_image_zoom": true,
+            "enable_video_looping": false
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "layout": "grid",
+            "grid": 2,
+            "rows": 2,
+            "show_collection_image": true,
+            "show_vendor": false,
+            "sort_enable": true,
+            "tags_enable": true
+          }
+        },
+        "1492033809691": {
+          "type": "map",
+          "settings": {
+          }
+        },
+        "1492033877875": {
+          "type": "quotes",
+          "blocks": {
+            "1492033877875-0": {
+              "type": "quote",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "1492033877875-0"
+          ],
+          "settings": {
+          }
+        },
+        "1492033924902": {
+          "type": "custom-content",
+          "blocks": {
+            "1492033924902-0": {
+              "type": "text",
+              "settings": {
+                "width": "100%",
+                "alignment": "center",
+                "align_text": "center"
+              }
+            }
+          },
+          "block_order": [
+            "1492033924902-0"
+          ],
+          "settings": {
+            "title": ""
+          }
+        },
+        "1492096252560": {
+          "type": "collection-list",
+          "blocks": {
+            "1492096252560-0": {
+              "type": "featured_collection",
+              "settings": {
+              }
+            },
+            "1492096252560-1": {
+              "type": "featured_collection",
+              "settings": {
+              }
+            },
+            "1492096252560-2": {
+              "type": "featured_collection",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "1492096252560-0",
+            "1492096252560-1",
+            "1492096252560-2"
+          ],
+          "settings": {
+            "grid": 3
+          }
+        },
+        "blog-template": {
+          "type": "blog-template",
+          "settings": {
+            "layout": "grid",
+            "blog_show_author": true,
+            "blog_show_date": false
+          }
+        },
+        "article-template": {
+          "type": "article-template",
+          "settings": {
+            "blog_show_author": true,
+            "blog_show_date": true,
+            "show_share_buttons": true
+          }
+        },
+        "cart-template": {
+          "type": "cart-template",
+          "settings": {
+            "cart_notes_enable": false
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "link_list": {
+              "type": "link_list",
+              "settings": {
+              }
+            },
+            "text": {
+              "type": "text",
+              "settings": {
+              }
+            },
+            "newsletter": {
+              "type": "newsletter",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "link_list",
+            "text",
+            "newsletter"
+          ],
+          "settings": {
+            "color_footer_bg": "#f8f8f8",
+            "color_footer_text": "#6d6d6d"
+          }
+        }
+      },
+      "content_for_index": [
+        "hero",
+        "featured-collections",
+        "slideshow",
+        "1492033924902",
+        "1492096252560",
+        "1492033877875",
+        "1492033809691"
+      ]
+    }
+  }
+}

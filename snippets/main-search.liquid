@@ -1,0 +1,29 @@
+<script src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
+
+<div class="search-form__container" data-search-form-container="">
+<predictive-search style="width: 100%;">
+  <div class="search-form__input-wrapper">
+    <form action="{{ routes.search_url }}" method="get" role="search" class="search-form search-bar__form" style="max-width: 100%;">
+        <input
+          autocomplete="off"
+          id="Search"
+          placeholder="🔍︎  Search"
+          type="search"
+          name="q"
+          value="{{ search.terms | escape }}"
+          role="combobox"
+          aria-expanded="false"
+          aria-owns="predictive-search-results"
+          aria-controls="predictive-search-results"
+          aria-haspopup="listbox"
+          aria-autocomplete="list"
+          class="search-form__input search-bar__input"
+          style="border-radius: 15px; min-height: 35px; padding: 5px 10px;"
+        >
+        <input name="options[prefix]" type="hidden" value="last">
+
+        <div id="predictive-search" class="predictive-search-wrapper predictive-search-wrapper--drawer" tabindex="-1" data-predictive-search-mount="Search" style="max-height: 600px; text-align: left; border-radius: 10px; padding: 0; margin: 2px;"></div>
+    </form>
+  </div>
+</predictive-search>
+</div>
