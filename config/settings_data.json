@@ -127,9 +127,9 @@
       "collection": {
         "type": "collection",
         "settings": {
-          "title": "TOP PRODUCTS",
-          "collection": "featured-products",
-          "grid": 5,
+          "title": "WHAT'S NEW",
+          "collection": "whats-new",
+          "grid": 4,
           "rows": 2,
           "show_vendor": false,
           "show_view_all": false
@@ -370,13 +370,6 @@
             "settings": {
               "collection": "brown-eggs"
             }
-          },
-          "a1f7609e-7977-40c0-8f47-ee82e748e25f": {
-            "type": "featured_collection",
-            "disabled": true,
-            "settings": {
-              "collection": ""
-            }
           }
         },
         "block_order": [
@@ -389,8 +382,7 @@
           "daedc20f-9dfd-4d40-b866-8f03cf27fa6e",
           "b4235fb5-b2f5-45b1-94b0-b34d2d3f9929",
           "7597887d-2800-4771-9a36-9a5170a306f3",
-          "544a6534-4d81-4645-ba78-1165f8b53dd9",
-          "a1f7609e-7977-40c0-8f47-ee82e748e25f"
+          "544a6534-4d81-4645-ba78-1165f8b53dd9"
         ],
         "settings": {
           "title": "Shop by Category",
@@ -647,6 +639,28 @@
           "autorotate": true,
           "autorotate_speed": 3
         }
+      },
+      "f33a02d2-eb52-48b7-8d0a-66ced687088f": {
+        "type": "collection",
+        "settings": {
+          "title": "BEST SELLERS",
+          "collection": "featured-products",
+          "grid": 5,
+          "rows": 2,
+          "show_vendor": false,
+          "show_view_all": false
+        }
+      },
+      "4faa8b0e-7789-416d-ab7c-73223ed4a458": {
+        "type": "collection",
+        "settings": {
+          "title": "FRESH DEALS",
+          "collection": "all-promos",
+          "grid": 5,
+          "rows": 2,
+          "show_vendor": false,
+          "show_view_all": false
+        }
       }
     },
     "content_for_index": [
@@ -655,6 +669,8 @@
       "9c819cf0-e8df-4ede-8127-bfea36f9231c",
       "bc57da36-e75a-49f9-b0b5-e142b8712b8e",
       "collection",
+      "4faa8b0e-7789-416d-ab7c-73223ed4a458",
+      "f33a02d2-eb52-48b7-8d0a-66ced687088f",
       "1588343176004",
       "quotes",
       "image-bar",
