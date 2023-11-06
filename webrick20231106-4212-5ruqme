@@ -1,0 +1,3344 @@
+<!doctype html>
+<html class="no-js" lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#2cae5d">
+     <!-- google-site-verification --> 
+  <meta name="google-site-verification" content="HSvGSbjoi1AVdIoho-ebwK5snsOSa2u70Gf24Gq4XIM" />
+  <meta name="google-site-verification" content="t6PdSEZkDfwXIx1z-ry-NZq9ohZXDQZCG8m2ba6FrjQ" />
+
+  <link rel="canonical" href="https://freshoptions.ph/cart">
+  
+  <!-- link in terms pop up -->
+  <link rel="stylesheet" type="text/css" href="//wpcc.io/lib/1.0.2/cookieconsent.min.css"/><link rel="shortcut icon" href="//freshoptionfnb.myshopify.com/cdn/shop/files/fo_logo_hi_32x32.png?v=1613584419" type="image/png"><title>Your Shopping Cart
+&ndash; Fresh Options</title><!-- /snippets/social-meta-tags.liquid -->
+
+
+
+
+<meta property="og:site_name" content="Fresh Options">
+<meta property="og:url" content="https://freshoptions.ph/cart">
+<meta property="og:title" content="Your Shopping Cart">
+<meta property="og:type" content="website">
+<meta property="og:description" content="Fresh Options Has a Wide Range of Meat Market Delivery, Beef, Chicken, Healthy Fresh Meat Philippines, and Fresh Meat Delivery Options Anywhere in the World.">
+
+
+
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Your Shopping Cart">
+<meta name="twitter:description" content="Fresh Options Has a Wide Range of Meat Market Delivery, Beef, Chicken, Healthy Fresh Meat Philippines, and Fresh Meat Delivery Options Anywhere in the World.">
+
+
+  <link href="//freshoptionfnb.myshopify.com/cdn/shop/t/20/assets/theme.scss.css?v=46197426352936080331699248932" rel="stylesheet" type="text/css" media="all" />
+
+  <script>
+    var theme = {
+      breakpoints: {
+        medium: 750,
+        large: 990,
+        widescreen: 1400
+      },
+      strings: {
+        addToCart: "Add to cart",
+        soldOut: "Sold out",
+        unavailable: "Unavailable",
+        regularPrice: "Regular price",
+        salePrice: "Sale price",
+        sale: "Sale",
+        fromLowestPrice: "from [price]",
+        vendor: "Vendor",
+        showMore: "Show More",
+        showLess: "Show Less",
+        searchFor: "Search for",
+        addressError: "Error looking up that address",
+        addressNoResults: "No results for that address",
+        addressQueryLimit: "You have exceeded the Google API usage limit. Consider upgrading to a \u003ca href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\"\u003ePremium Plan\u003c\/a\u003e.",
+        authError: "There was a problem authenticating your Google Maps account.",
+        newWindow: "Opens in a new window.",
+        external: "Opens external website.",
+        newWindowExternal: "Opens external website in a new window.",
+        removeLabel: "Remove [product]",
+        update: "Update",
+        quantity: "Quantity",
+        discountedTotal: "Discounted total",
+        regularTotal: "Regular total",
+        priceColumn: "See Price column for discount details.",
+        quantityMinimumMessage: "Quantity must be 1 or more",
+        cartError: "There was an error while updating your cart. Please try again.",
+        removedItemMessage: "Removed \u003cspan class=\"cart__removed-product-details\"\u003e([quantity]) [link]\u003c\/span\u003e from your cart.",
+        unitPrice: "Unit price",
+        unitPriceSeparator: "per",
+        oneCartCount: "1 item",
+        otherCartCount: "[count] items",
+        quantityLabel: "Quantity: [count]",
+        products: "Products",
+        loading: "Loading",
+        number_of_results: "[result_number] of [results_count]",
+        number_of_results_found: "[results_count] results found",
+        one_result_found: "1 result found"
+      },
+      moneyFormat: "₱{{amount}}",
+      moneyFormatWithCurrency: "₱{{amount}}",
+      settings: {
+        predictiveSearchEnabled: true,
+        predictiveSearchShowPrice: false,
+        predictiveSearchShowVendor: false
+      }
+    }
+
+    document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+  </script><script src="/assets/lazysizes.js?v=94224023136283657951699248922" async="async"></script>
+  <script src="/assets/vendor.js?v=85833464202832145531699248940" defer="defer"></script>
+  <script src="/assets/theme.js?v=38368603431761821591699248946" defer="defer"></script>
+
+  <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta name="facebook-domain-verification" content="4yrmtjwa79jjzh0r93x15rs8vr1e02">
+<meta name="facebook-domain-verification" content="1hz5ttpy9grlgz9vxehzrb5dbf12ip">
+<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/27341619287/digital_wallets/dialog">
+<script async="async" src="/checkouts/internal/preloads.js?locale=en-PH"></script><script id="shopify-features" type="application/json">{"accessToken":"95b77604d6dc418e766683d67410a9e3","betas":["rich-media-storefront-analytics"],"domain":"freshoptionfnb.myshopify.com","predictiveSearch":true,"shopId":27341619287,"smart_payment_buttons_url":"https:\/\/freshoptionfnb.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/freshoptionfnb.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","optimusEnabled":true,"optimusHidden":false,"betterDynamicCheckoutRecommendationVariant":"control","shopPromisePDPV3Enabled":false}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "freshoptionfnb.myshopify.com";
+Shopify.locale = "en";
+Shopify.currency = {"active":"PHP","rate":"1.0"};
+Shopify.country = "PH";
+Shopify.theme = {"name":"Development (edb561-MIS-HMALTARES-L)","id":134364266675,"theme_store_id":null,"role":"development"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "freshoptionfnb.myshopify.com/cdn";
+Shopify.routes = Shopify.routes || {};
+Shopify.routes.root = "/";</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script>(function() {
+  function asyncLoad() {
+    var urls = ["https:\/\/contactform.hulkapps.com\/skeletopapp.js?shop=freshoptionfnb.myshopify.com","https:\/\/embed.tawk.to\/widget-script\/5eae400d10362a7578be7d4a\/default.js?shop=freshoptionfnb.myshopify.com","https:\/\/cdn.autoketing.org\/sdk-cdn\/facebook-chat\/dist\/fb-chat-embed.js?t=1608087975062327021\u0026shop=freshoptionfnb.myshopify.com","\/\/cdn.wishpond.net\/connect.js?merchantId=1586195\u0026writeKey=725241523d02\u0026shop=freshoptionfnb.myshopify.com","\/\/www.powr.io\/powr.js?powr-token=freshoptionfnb.myshopify.com\u0026external-type=shopify\u0026shop=freshoptionfnb.myshopify.com","https:\/\/chimpstatic.com\/mcjs-connected\/js\/users\/fdffc9cfe5dbc6e854f9a99b4\/e262037a84f24852a148ee209.js?shop=freshoptionfnb.myshopify.com","https:\/\/cdn1.judge.me\/assets\/installed.js?shop=freshoptionfnb.myshopify.com","\/\/cdn.shopify.com\/s\/files\/1\/0257\/0108\/9360\/t\/85\/assets\/usf-license.js?shop=freshoptionfnb.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":27341619287,"offset":28800,"reqid":"b4301cbb-79a1-4fa2-b303-618718fa3b61","pageurl":"freshoptionfnb.myshopify.com\/cart?_fd=0\u0026pb=0","t":"prospect","u":"7284be4e63af","p":"cart"};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script>!function(o){o.addEventListener("DOMContentLoaded",function(){window.Shopify=window.Shopify||{},window.Shopify.recaptchaV3=window.Shopify.recaptchaV3||{siteKey:"6LcCR2cUAAAAANS1Gpq_mDIJ2pQuJphsSQaUEuc9"};var t=['form[action*="/contact"] input[name="form_type"][value="contact"]','form[action*="/comments"] input[name="form_type"][value="new_comment"]','form[action*="/account"] input[name="form_type"][value="customer_login"]','form[action*="/account"] input[name="form_type"][value="recover_customer_password"]','form[action*="/account"] input[name="form_type"][value="create_customer"]','form[action*="/contact"] input[name="form_type"][value="customer"]'].join(",");function n(e){e=e.target;null==e||null!=(e=function e(t,n){if(null==t.parentElement)return null;if("FORM"!=t.parentElement.tagName)return e(t.parentElement,n);for(var o=t.parentElement.action,r=0;r<n.length;r++)if(-1!==o.indexOf(n[r]))return t.parentElement;return null}(e,["/contact","/comments","/account"]))&&null!=e.querySelector(t)&&((e=o.createElement("script")).setAttribute("src","https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.6/index.js"),o.body.appendChild(e),o.removeEventListener("focus",n,!0),o.removeEventListener("change",n,!0),o.removeEventListener("click",n,!0))}o.addEventListener("click",n,!0),o.addEventListener("change",n,!0),o.addEventListener("focus",n,!0)})}(document);</script>
+<script integrity="sha256-h4dvokWvGcvRSqiG7VnGqoonxF0k3NeoHPLSMjUGIz4=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//freshoptionfnb.myshopify.com/cdn/shopifycloud/shopify/assets/storefront/load_feature-87876fa245af19cbd14aa886ed59c6aa8a27c45d24dcd7a81cf2d2323506233e.js" crossorigin="anonymous"></script>
+<script integrity="sha256-HAs5a9TQVLlKuuHrahvWuke+s1UlxXohfHeoYv8G2D8=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//freshoptionfnb.myshopify.com/cdn/shopifycloud/shopify/assets/storefront/features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js" crossorigin="anonymous"></script>
+
+
+<script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+ 
+<!-- "snippets/pagefly-header.liquid" was not rendered, the associated app was uninstalled -->
+   <script src="https://shopoe.net/app.js"></script>
+  
+<!-- Start of Judge.me Core -->
+<link rel="dns-prefetch" href="https://cdn.judge.me/">
+<script data-cfasync='false' class='jdgm-settings-script'>window.jdgmSettings={"pagination":5,"disable_web_reviews":false,"badge_no_review_text":"No reviews","badge_n_reviews_text":"{{ n }} review/reviews","badge_star_color":"#ffe600","hide_badge_preview_if_no_reviews":true,"badge_hide_text":false,"enforce_center_preview_badge":false,"widget_title":"Customer Reviews","widget_open_form_text":"Write a review","widget_close_form_text":"Cancel review","widget_refresh_page_text":"Refresh page","widget_summary_text":"Based on {{ number_of_reviews }} review/reviews","widget_no_review_text":"Be the first to write a review","widget_name_field_text":"Name","widget_verified_name_field_text":"Verified Name (public)","widget_name_placeholder_text":"Enter your name (public)","widget_required_field_error_text":"This field is required.","widget_email_field_text":"Email","widget_verified_email_field_text":"Verified Email (private, can not be edited)","widget_email_placeholder_text":"Enter your email (private)","widget_email_field_error_text":"Please enter a valid email address.","widget_rating_field_text":"Rating","widget_review_title_field_text":"Review Title","widget_review_title_placeholder_text":"Give your review a title","widget_review_body_field_text":"Review","widget_review_body_placeholder_text":"Write your comments here","widget_pictures_field_text":"Picture/Video (optional)","widget_submit_review_text":"Submit Review","widget_submit_verified_review_text":"Submit Verified Review","widget_submit_success_msg_with_auto_publish":"Thank you! Please refresh the page in a few moments to see your review. You can remove or edit your review by logging into \u003ca href='https://judge.me/login' target='_blank' rel='nofollow noopener'\u003eJudge.me\u003c/a\u003e","widget_submit_success_msg_no_auto_publish":"Thank you! Your review will be published as soon as it is approved by the shop admin. You can remove or edit your review by logging into \u003ca href='https://judge.me/login' target='_blank' rel='nofollow noopener'\u003eJudge.me\u003c/a\u003e","widget_show_default_reviews_out_of_total_text":"Showing {{ n_reviews_shown }} out of {{ n_reviews }} reviews.","widget_show_all_link_text":"Show all","widget_show_less_link_text":"Show less","widget_author_said_text":"{{ reviewer_name }} said:","widget_days_text":"{{ n }} days ago","widget_weeks_text":"{{ n }} week/weeks ago","widget_months_text":"{{ n }} month/months ago","widget_years_text":"{{ n }} year/years ago","widget_yesterday_text":"Yesterday","widget_today_text":"Today","widget_replied_text":"\u003e\u003e {{ shop_name }} replied:","widget_read_more_text":"Read more","widget_rating_filter_see_all_text":"See all reviews","widget_sorting_most_recent_text":"Most Recent","widget_sorting_highest_rating_text":"Highest Rating","widget_sorting_lowest_rating_text":"Lowest Rating","widget_sorting_with_pictures_text":"Only Pictures","widget_sorting_most_helpful_text":"Most Helpful","widget_open_question_form_text":"Ask a question","widget_reviews_subtab_text":"Reviews","widget_questions_subtab_text":"Questions","widget_question_label_text":"Question","widget_answer_label_text":"Answer","widget_question_placeholder_text":"Write your question here","widget_submit_question_text":"Submit Question","widget_question_submit_success_text":"Thank you for your question! We will notify you once it gets answered.","widget_star_color":"#ffe600","verified_badge_text":"Verified","verified_badge_placement":"left-of-reviewer-name","widget_hide_border":false,"widget_social_share":false,"all_reviews_include_out_of_store_products":true,"all_reviews_out_of_store_text":"(out of store)","all_reviews_product_name_prefix_text":"about","enable_review_pictures":false,"widget_product_reviews_subtab_text":"Product Reviews","widget_shop_reviews_subtab_text":"Shop Reviews","widget_sorting_pictures_first_text":"Pictures First","floating_tab_button_name":"★ Judge.me Reviews","floating_tab_title":"Let customers speak for us","floating_tab_url":"https://freshoptions.ph/pages/reviews","all_reviews_text_badge_text":"Customers rate us {{ shop.metafields.judgeme.all_reviews_rating | round: 1 }}/5 based on {{ shop.metafields.judgeme.all_reviews_count }} reviews.","all_reviews_text_badge_url":"https://freshoptions.ph/pages/reviews","featured_carousel_title":"Let customers speak for us","featured_carousel_count_text":"from {{ n }} reviews","featured_carousel_url":"https://freshoptions.ph/pages/reviews","verified_count_badge_url":"https://freshoptions.ph/pages/reviews","picture_reminder_submit_button":"Upload Pictures","widget_sorting_videos_first_text":"Videos First","widget_review_pending_text":"Pending","remove_microdata_snippet":true,"preview_badge_no_question_text":"No questions","preview_badge_n_question_text":"{{ number_of_questions }} question/questions","widget_search_bar_placeholder":"Search reviews","widget_sorting_verified_only_text":"Verified only","all_reviews_page_load_more_text":"Load More Reviews","widget_public_name_text":"displayed publicly like","default_reviewer_name_has_non_latin":true,"widget_reviewer_anonymous":"Anonymous","medals_widget_title":"Judge.me Review Medals","widget_invalid_yt_video_url_error_text":"Not a YouTube video URL","widget_max_length_field_error_text":"Please enter no more than {0} characters.","widget_load_with_code_splitting":true,"widget_ugc_title":"Made by us, Shared by you","widget_ugc_subtitle":"Tag us to see your picture featured in our page","widget_ugc_primary_button_text":"Buy Now","widget_ugc_secondary_button_text":"Load More","widget_ugc_reviews_button_text":"View Reviews","widget_rating_metafield_value_type":true,"widget_summary_average_rating_text":"{{ average_rating }} out of 5","widget_media_grid_title":"Customer photos \u0026 videos","widget_media_grid_see_more_text":"See more","widget_verified_by_judgeme_text":"Verified by Judge.me","widget_verified_by_judgeme_text_in_store_medals":"Verified by Judge.me","widget_media_field_exceed_quantity_message":"Sorry, we can only accept {{ max_media }} for one review.","widget_media_field_exceed_limit_message":"{{ file_name }} is too large, please select a {{ media_type }} less than {{ size_limit }}MB.","widget_review_submitted_text":"Review Submitted!","widget_question_submitted_text":"Question Submitted!","widget_close_form_text_question":"Cancel","widget_write_your_answer_here_text":"Write your answer here","widget_show_collected_by_judgeme":false,"widget_collected_by_judgeme_text":"collected by Judge.me","widget_load_more_text":"Load More","widget_full_review_text":"Full Review","widget_read_more_reviews_text":"Read More Reviews","widget_read_questions_text":"Read Questions","widget_questions_and_answers_text":"Questions \u0026 Answers","widget_verified_by_text":"Verified by","widget_number_of_reviews_text":"{{ number_of_reviews }} reviews","widget_back_button_text":"Back","widget_next_button_text":"Next","custom_forms_style":"vertical","preview_badge_collection_page_install_preference":true,"preview_badge_home_page_install_preference":true,"preview_badge_product_page_install_preference":true,"review_widget_best_location":true,"platform":"shopify","branding_url":"https://judge.me/reviews/freshoptionfnb.myshopify.com","branding_text":"Powered by Judge.me","locale":"en","reply_name":"Fresh Options","widget_version":"2.1","footer":true,"autopublish":true,"review_dates":true,"enable_custom_form":false};</script> <style class='jdgm-settings-style'>.jdgm-xx{left:0}:not(.jdgm-prev-badge__stars)>.jdgm-star{color:#ffe600}.jdgm-histogram .jdgm-star.jdgm-star{color:#ffe600}.jdgm-preview-badge .jdgm-star.jdgm-star{color:#ffe600}.jdgm-prev-badge[data-average-rating='0.00']{display:none !important}.jdgm-author-all-initials{display:none !important}.jdgm-author-last-initial{display:none !important}.jdgm-rev-widg__title{visibility:hidden}.jdgm-rev-widg__summary-text{visibility:hidden}.jdgm-prev-badge__text{visibility:hidden}.jdgm-rev__replier:before{content:'freshoptions.ph'}.jdgm-rev__prod-link-prefix:before{content:'about'}.jdgm-rev__out-of-store-text:before{content:'(out of store)'}@media only screen and (min-width: 768px){.jdgm-rev__pics .jdgm-rev_all-rev-page-picture-separator,.jdgm-rev__pics .jdgm-rev__product-picture{display:none}}@media only screen and (max-width: 768px){.jdgm-rev__pics .jdgm-rev_all-rev-page-picture-separator,.jdgm-rev__pics .jdgm-rev__product-picture{display:none}}.jdgm-verified-count-badget[data-from-snippet="true"]{display:none !important}.jdgm-carousel-wrapper[data-from-snippet="true"]{display:none !important}.jdgm-all-reviews-text[data-from-snippet="true"]{display:none !important}.jdgm-medals-section[data-from-snippet="true"]{display:none !important}.jdgm-ugc-media-wrapper[data-from-snippet="true"]{display:none !important}
+</style>
+
+  
+  
+  
+  <style class='jdgm-miracle-styles'>
+  @-webkit-keyframes jdgm-spin{0%{-webkit-transform:rotate(0deg);-ms-transform:rotate(0deg);transform:rotate(0deg)}100%{-webkit-transform:rotate(359deg);-ms-transform:rotate(359deg);transform:rotate(359deg)}}@keyframes jdgm-spin{0%{-webkit-transform:rotate(0deg);-ms-transform:rotate(0deg);transform:rotate(0deg)}100%{-webkit-transform:rotate(359deg);-ms-transform:rotate(359deg);transform:rotate(359deg)}}@font-face{font-family:'JudgemeStar';src:url("data:application/x-font-woff;charset=utf-8;base64,d09GRgABAAAAAAScAA0AAAAABrAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGRlRNAAAEgAAAABoAAAAcbyQ+3kdERUYAAARgAAAAHgAAACAAMwAGT1MvMgAAAZgAAABGAAAAVi+vS9xjbWFwAAAB8AAAAEAAAAFKwBMjvmdhc3AAAARYAAAACAAAAAj//wADZ2x5ZgAAAkAAAAEJAAABdH33LXtoZWFkAAABMAAAAC0AAAA2BroQKWhoZWEAAAFgAAAAHAAAACQD5QHQaG10eAAAAeAAAAAPAAAAFAYAAABsb2NhAAACMAAAAA4AAAAOAO4AeG1heHAAAAF8AAAAHAAAACAASgAvbmFtZQAAA0wAAADeAAABkorWfVZwb3N0AAAELAAAACkAAABEp3ubLXgBY2BkYADhPPP4OfH8Nl8ZuJkYQODS2fRrCPr/aSYGxq1ALgcDWBoAO60LkwAAAHgBY2BkYGDc+v80gx4TAwgASaAICmABAFB+Arl4AWNgZGBgYGPQYWBiAAIwyQgWc2AAAwAHVQB6eAFjYGRiYJzAwMrAwejDmMbAwOAOpb8ySDK0MDAwMbByMsCBAAMCBKS5pjA4PGB4wMR44P8BBj3GrQymQGFGkBwAjtgK/gAAeAFjYoAAEA1jAwAAZAAHAHgB3crBCcAwDEPRZydkih567CDdf4ZskmLwFBV8xBfCaC4BXkOUmx4sU0h2ngNb9V0vQCxaRKIAevT7fGWuBrEAAAAAAAAAAAA0AHgAugAAeAF9z79Kw1AUx/FzTm7un6QmJtwmQ5Bg1abgEGr/BAqlU6Gju+Cgg1MkQ/sA7Vj7BOnmO/gUvo2Lo14NqIO6/IazfD8HEODtmQCfoANwNsyp2/GJt3WKQrd1NLiYYWx2PBqOsmJMEOznPOTzfSCrhAtbbLdmeFLJV9eKd63WLrZcIcuaEVdssWCKM6pLCfTVOYbz/0pNSMSZKLIZpvh78sAUH6PlMrreTCabP9r+Z/puPZ2ur/RqpQHgh+MIegCnXeM4MRAPjYN//5tj4ZtTjkFqEdmeMShlEJ7tVAly2TAkx6R68Fl4E/aVvn8JqHFQ4JS1434gXKcuL31dDhzs3YbsEOAd/IU88gAAAHgBfY4xTgMxEEVfkk0AgRCioKFxQYd2ZRtpixxgRU2RfhU5q5VWseQ4JdfgAJyBlmNwAM7ABRhZQ0ORwp7nr+eZAa54YwYg9zm3ynPOeFRe8MCrciXOh/KSS76UV5L/iDmrLiS5AeU519wrL3jmSbkS5115yR2fyivJv9kx0ZMZ2RLZw27q87iNQi8EBo5FSPIMw3HqBboi5lKTGAGDp8FKXWP+t9TU01Lj5His1Ba6uM9dTEMwvrFmbf5GC/q2drW3ruXUhhsCiQOjznFlCzYhHUZp4xp76vsvQh89CQAAeAFjYGJABowM6IANLMrEyMTIzMjCXpyRWJBqZshWXJJYBKOMAFHFBucAAAAAAAAB//8AAngBY2BkYGDgA2IJBhBgAvKZGViBJAuYxwAABJsAOgAAeAFjYGBgZACCk535hiD60tn0azAaAEqpB6wAAA==") format("woff");font-weight:normal;font-style:normal}.jdgm-star{font-family:'JudgemeStar';display:inline !important;text-decoration:none !important;padding:0 4px 0 0 !important;margin:0 !important;font-weight:bold;opacity:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.jdgm-star:hover{opacity:1}.jdgm-star:last-of-type{padding:0 !important}.jdgm-star.jdgm--on:before{content:"\e000"}.jdgm-star.jdgm--off:before{content:"\e001"}.jdgm-star.jdgm--half:before{content:"\e002"}.jdgm-widget *{margin:0;line-height:1.4;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;-webkit-overflow-scrolling:touch}.jdgm-hidden{display:none !important;visibility:hidden !important}.jdgm-temp-hidden{display:none}.jdgm-spinner{width:40px;height:40px;margin:auto;border-radius:50%;border-top:2px solid #eee;border-right:2px solid #eee;border-bottom:2px solid #eee;border-left:2px solid #ccc;-webkit-animation:jdgm-spin 0.8s infinite linear;animation:jdgm-spin 0.8s infinite linear}.jdgm-prev-badge{display:block !important}
+
+</style>
+
+
+  
+  
+   
+
+
+<script data-cfasync='false' class='jdgm-script'>
+!function(e){window.jdgm=window.jdgm||{},jdgm.CDN_HOST="https://cdn.judge.me/",
+jdgm.docReady=function(d){(e.attachEvent?"complete"===e.readyState:"loading"!==e.readyState)?
+setTimeout(d,0):e.addEventListener("DOMContentLoaded",d)},jdgm.loadCSS=function(d,t,o,s){
+!o&&jdgm.loadCSS.requestedUrls.indexOf(d)>=0||(jdgm.loadCSS.requestedUrls.push(d),
+(s=e.createElement("link")).rel="stylesheet",s.class="jdgm-stylesheet",s.media="nope!",
+s.href=d,s.onload=function(){this.media="all",t&&setTimeout(t)},e.body.appendChild(s))},
+jdgm.loadCSS.requestedUrls=[],jdgm.docReady(function(){(window.jdgmLoadCSS||e.querySelectorAll(
+".jdgm-widget, .jdgm-all-reviews-page").length>0)&&(jdgmSettings.widget_load_with_code_splitting?
+parseFloat(jdgmSettings.widget_version)>=3?jdgm.loadCSS(jdgm.CDN_HOST+"widget_v3/base.css"):
+jdgm.loadCSS(jdgm.CDN_HOST+"widget/base.css"):jdgm.loadCSS(jdgm.CDN_HOST+"shopify_v2.css"))})}(document);
+</script>
+<script async data-cfasync="false" type="text/javascript" src="https://cdn.judge.me/loader.js"></script>
+
+<noscript><link rel="stylesheet" type="text/css" media="all" href="https://cdn.judge.me/shopify_v2.css"></noscript>
+<!-- End of Judge.me Core -->
+
+
+
+<!-- Font icon for header icons -->
+<link href="https://de454z9efqcli.cloudfront.net/safe-icons/css/wishlisthero-icons.css" rel="stylesheet"/>
+<!-- Style for floating buttons and others -->
+<style type="text/css">
+    .wishlisthero-floating {
+        position: absolute;
+        right: 5px;
+        top: 5px;
+        z-index: 23;
+        border-radius: 100%;
+    }
+
+    .wishlisthero-floating:hover {
+        background-color: rgb(0, 0, 0, 0.05);
+    }
+
+    .wishlisthero-floating button {
+        font-size: 20px !important;
+        width: 40px !important;
+        padding: 0.125em 0 0 !important;
+    }
+
+    /****************************************************************************************/
+    /* For some theme shared view need some spacing */
+    /*
+    #wishlist-hero-shared-list-view {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+#wishlist-hero-shared-list-view h1 {
+  padding-left: 5px;
+}
+
+#wishlisthero-product-page-button-container {
+  padding-top: 15px;
+}
+*/
+    /****************************************************************************************/
+    /* #wishlisthero-product-page-button-container button {
+  padding-left: 1px !important;
+} */
+    /****************************************************************************************/
+    /* Customize the indicator when wishlist has items AND the normal indicator not working */
+    /* span.wishlist-hero-items-count {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  width: 5px;
+  height: 5px;
+  background-color: red; 
+    border-radius: 100%;
+}
+*/
+</style>
+ <script type='text/javascript'>try{
+   window.WishListHero_setting = null;  }catch(e){ console.error('Error loading config',e); } </script>  
+  <script src="https://shopifyorderlimits.s3.amazonaws.com/limits/freshoptionfnb.myshopify.com?v=58b&r=20200507011622&shop=freshoptionfnb.myshopify.com"></script>
+
+
+<script>
+if(document.documentElement.innerHTML.match(/https:\\\/\\\/mincart-react.molsoftapps.com\\\/js\\\/mincart.js/)){ 
+    var mincartSettings = {
+        texts : {}
+    };
+
+    var newCartItems = {};
+    var cartItems = {};
+
+
+document.addEventListener('DOMContentLoaded', function () {
+    mincartSettings.checkoutButtonsText = '[name="checkout"], [name="checkoutButton"], button[onclick="window.location=\'/checkout\'"], form[action^=\'/checkout\'] input[value=\'Checkout\'], .blockCheckout, [href^="/checkout"], [href^="checkout"], form[action^=\'/checkout\'] input[type=\'submit\'], .ConversionDriverCart--checkout, .checkout-button, form[action^=\'/checkout\'] button[type=\'submit\'], .mincart-state-unlocked, .mincart-state-refresh, .mincart-state-popup, .mincart-state-loading';
+    mincartSettings.checkoutButtons = document.querySelectorAll(mincartSettings.checkoutButtonsText);
+    mincartSettings.additionalCheckoutText = ".additional-checkout-buttons, .additional-checkout-button, #additional-checkout-buttons, #dynamic-checkout-cart";
+    mincartSettings.additionalCheckout = document.querySelectorAll(mincartSettings.additionalCheckoutText);
+
+        for(var i = 0; i < mincartSettings.checkoutButtons.length; i++){
+            mincartSettings.checkoutButtons[i].disabled = true;
+        }
+        for(var i = 0; i < mincartSettings.additionalCheckout.length; i++){
+            mincartSettings.additionalCheckout[i].classList.add('mincartDisabled');
+        }
+
+        
+
+        (function () {
+            var loadScript = function loadScript(url, callback) {
+
+                var script = document.createElement("script");
+                script.type = "text/javascript";
+
+                // If the browser is Internet Explorer.
+                if (script.readyState) {
+                    script.onreadystatechange = function () {
+                        if (script.readyState == "loaded" || script.readyState == "complete") {
+                            script.onreadystatechange = null;
+                            callback();
+                        }
+                    };
+                    // For any other browser.
+                } else {
+                    script.onload = function () {
+                        callback();
+                    };
+                }
+
+                script.src = url;
+                document.getElementsByTagName("head")[0].appendChild(script);
+            };
+
+            /* This is my app's JavaScript */
+            var myAppJavaScript = function myAppJavaScript($) {
+                mincartSettings.checkoutButtons = $(mincartSettings.checkoutButtonsText);
+                mincartSettings.additionalCheckout = $(mincartSettings.additionalCheckoutText);
+
+                mincartSettings.checkoutButtons.each(function(){
+                    if($(this).is('input')){
+                        mincartSettings.texts.checkoutText = $(this).val();
+                        return false;
+                    }
+                    else{
+                        mincartSettings.texts.checkoutText = $(this).html();
+                    }
+                });
+                
+                if(mincartSettings.checkoutButtons.is('input')){
+                    mincartSettings.checkoutButtons.addClass('mincartDisabled');
+                    mincartSettings.checkoutButtons.val("Loading");
+                }
+                else{
+                    mincartSettings.checkoutButtons.addClass('mincartDisabled');
+                    mincartSettings.checkoutButtons.html("Loading");
+                }
+
+                
+                
+                
+                mincartSettings.itemsInCart = [{
+                        "product_id": 7328077316275,
+                        "variant_id": 42236301213875,
+                        "Collection": [{"id":159293472855,"handle":"all-products","updated_at":"2023-11-06T13:55:06+08:00","published_at":"2020-05-20T12:46:02+08:00","sort_order":"manual","template_suffix":"","published_scope":"global","title":"All Products","body_html":"","image":{"created_at":"2021-03-25T17:16:01+08:00","alt":null,"width":543,"height":543,"src":"\/\/freshoptionfnb.myshopify.com\/cdn\/shop\/collections\/ALl_product.jpg?v=1616664632"}},{"id":158032101463,"handle":"featured-products","updated_at":"2023-11-06T13:15:17+08:00","published_at":"2020-05-01T15:29:15+08:00","sort_order":"manual","template_suffix":"","published_scope":"global","title":"Best Sellers","body_html":""},{"id":293204852915,"handle":"special","title":"Weekly Specials","updated_at":"2023-11-06T13:15:17+08:00","body_html":"","published_at":"2022-08-25T14:40:23+08:00","sort_order":"manual","template_suffix":"","disjunctive":false,"rules":[{"column":"tag","relation":"equals","condition":"Special"}],"published_scope":"global","image":{"created_at":"2022-12-05T14:10:59+08:00","alt":null,"width":624,"height":620,"src":"\/\/freshoptionfnb.myshopify.com\/cdn\/shop\/collections\/Capture.jpg?v=1671069545"}},{"id":299667685555,"handle":"whats-new","updated_at":"2023-11-06T13:15:17+08:00","published_at":"2023-10-17T15:26:32+08:00","sort_order":"manual","template_suffix":"","published_scope":"global","title":"What's New","body_html":""}],
+                        "Product Type": "",
+                        "Vendor": "Fresh Options",
+                        "Tag": ["Special","What's New"],
+                        "price": 51950,
+                        "quantity": 2,
+                        "weight": 0,
+                        "variant_title": "Chicken Karaage 450g",
+                        "product_title": "Chicken Karaage 450g",
+                        "id": 7328077316275
+                    }
+];
+
+                mincartSettings.currentProduct = {
+                    "product_id": null,
+                    "Collection": null,
+                    "product_type": null,
+                    "Vendor": null,
+                    "Tag": null,
+                    "variants": null,
+                    "price": null,
+                    "min": null,
+                    "max": null
+                };
+
+                mincartSettings.customer = null;
+
+                $("input[name^=updates]").each(function(){
+                    cartItems[$(this).attr('id')] = $(this).val();
+                    newCartItems[$(this).attr('id')] = $(this).val();
+
+                    $(this).bind("propertychange change keyup input paste", function(){
+                        $("input[name^=updates]").each(function(){
+                            newCartItems[$(this).attr('id')] = $(this).val();
+                        })
+                    })
+                });
+            };
+
+            if (typeof jQuery === 'undefined' || parseFloat(jQuery.fn.jquery) < 3.0 || !jQuery.ajax) {
+                loadScript('//mincart-react.molsoftapps.com/js/jquery.min.js', function () {
+                    var jQuery331 = jQuery.noConflict(true);
+                    myAppJavaScript(jQuery331);
+                });
+            } else {
+                myAppJavaScript(jQuery);
+            }
+        })();
+    });
+}
+</script>
+
+<style>
+    .mincartDisabled{
+        pointer-events: none !important;
+    }
+</style>
+
+<link href="/assets/ndnapps-easyfaqs.css?v=39038580690550956871699248931" rel="stylesheet" type="text/css" media="all" />
+<!-- "snippets/booster-common.liquid" was not rendered, the associated app was uninstalled -->
+
+<meta property="og:image" content="https://cdn.shopify.com/s/files/1/0273/4161/9287/files/96085084_651372018760974_7216682029612531712_n.jpg?height=628&pad_color=fff&v=1613585260&width=1200" />
+<meta property="og:image:secure_url" content="https://cdn.shopify.com/s/files/1/0273/4161/9287/files/96085084_651372018760974_7216682029612531712_n.jpg?height=628&pad_color=fff&v=1613585260&width=1200" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="628" />
+<link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 27341619287,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "cart"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script id="web-pixels-manager-setup">(function e(e,n,a,t,o,r,i){var s=null!==e,l=("function"==typeof BigInt&&BigInt.toString().indexOf("[native code]")?"modern":"legacy").substring(0,1),c=t.substring(0,1);if(s){window.Shopify=window.Shopify||{};var d=window.Shopify;d.analytics=d.analytics||{};var u=d.analytics;u.replayQueue=[],u.publish=function(e,n,a){u.replayQueue.push([e,n,a])};try{self.performance.mark("wpm:start")}catch(e){}}var p,f,y,h,v,m,w,g,b,_=[a,"/wpm","/",c,r,l,".js"].join("");f=(p={src:_,async:!0,onload:function(){if(e){var a=window.webPixelsManager.init(e);null==n||n(a);var t=window.Shopify.analytics;t.replayQueue.forEach((function(e){var n=e[0],t=e[1],o=e[2];a.publishCustomEvent(n,t,o)})),t.replayQueue=[],t.publish=a.publishCustomEvent,t.visitor=a.visitor}},onerror:function(){var n=(null==e?void 0:e.storefrontBaseUrl)?e.storefrontBaseUrl.replace(/\/$/,""):self.location.origin,a="".concat(n,"/.well-known/shopify/monorail/unstable/produce_batch"),t=JSON.stringify({metadata:{event_sent_at_ms:(new Date).getTime()},events:[{schema_id:"web_pixels_manager_load/2.0",payload:{version:o||"latest",page_url:self.location.href,status:"failed",error_msg:"".concat(_," has failed to load")},metadata:{event_created_at_ms:(new Date).getTime()}}]});try{if(self.navigator.sendBeacon.bind(self.navigator)(a,t))return!0}catch(e){}var r=new XMLHttpRequest;try{return r.open("POST",a,!0),r.setRequestHeader("Content-Type","text/plain"),r.send(t),!0}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")}return!1}}).src,y=p.async,h=void 0===y||y,v=p.onload,m=p.onerror,w=document.createElement("script"),g=document.head,b=document.body,w.async=h,w.src=f,v&&w.addEventListener("load",v),m&&w.addEventListener("error",m),g?g.appendChild(w):b?b.appendChild(w):console.error("Did not find a head or body element to append the script")})({shopId: 27341619287,storefrontBaseUrl: "https://freshoptions.ph",cdnBaseUrl: "https://freshoptionfnb.myshopify.com/cdn",surface: "storefront-renderer",enabledBetaFlags: ["web_pixels_async_pixel_refactor","web_pixels_visitor_api","web_pixels_manager_performance_improvement"],webPixelsConfigList: [{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0570","apiClientId":"shopify-pixel","type":"APP"},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0570","apiClientId":"shopify-pixel","type":"CUSTOM"}],initData: {"cart":{"cost":{"totalAmount":{"amount":519.5,"currencyCode":"PHP"}},"id":"c1-61c687556317c03ea57a7d99ca5fbbca","lines":[{"cost":{"totalAmount":{"amount":519.5,"currencyCode":"PHP"}},"merchandise":{"id":"42236301213875","image":{"src":"\/\/freshoptionfnb.myshopify.com\/cdn\/shop\/products\/Chicken-Karaage-with-Packaging.png?v=1670567450"},"price":{"amount":259.75,"currencyCode":"PHP"},"product":{"id":"7328077316275","title":"Chicken Karaage 450g","untranslatedTitle":"Chicken Karaage 450g","url":"\/products\/chicken-karaage-450g","vendor":"Fresh Options","type":""},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"},"quantity":2}],"totalQuantity":2},"checkout":null,"customer":null,"productVariants":[]},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed");webPixelsManagerAPI.publish("cart_viewed", {"cart":{"cost":{"totalAmount":{"amount":519.5,"currencyCode":"PHP"}},"id":"c1-61c687556317c03ea57a7d99ca5fbbca","lines":[{"cost":{"totalAmount":{"amount":519.5,"currencyCode":"PHP"}},"merchandise":{"id":"42236301213875","image":{"src":"\/\/freshoptionfnb.myshopify.com\/cdn\/shop\/products\/Chicken-Karaage-with-Packaging.png?v=1670567450"},"price":{"amount":259.75,"currencyCode":"PHP"},"product":{"id":"7328077316275","title":"Chicken Karaage 450g","untranslatedTitle":"Chicken Karaage 450g","url":"\/products\/chicken-karaage-450g","vendor":"Fresh Options","type":""},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"},"quantity":2}],"totalQuantity":2}});},"https://freshoptionfnb.myshopify.com/cdn","browser","0.0.401","eb4f5166w976fb8a9p5cb5e374m8bcba713",["web_pixels_async_pixel_refactor","web_pixels_visitor_api","web_pixels_manager_performance_improvement"]);</script>  <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'PHP';
+var meta = {"page":{"pageType":"cart"}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  <!-- Google tag (gtag.js) -->
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-4WB4HN7FZT');
+};
+</script>
+<script class="analytics">(window.gaDevIds=window.gaDevIds||[]).push('BwiEti');
+
+
+(function () {
+    var customDocumentWrite = function(content) {
+      var jquery = null;
+
+      if (window.jQuery) {
+        jquery = window.jQuery;
+      } else if (window.Checkout && window.Checkout.$) {
+        jquery = window.Checkout.$;
+      }
+
+      if (jquery) {
+        jquery('body').append(content);
+      }
+    };
+
+    var hasLoggedConversion = function(token) {
+      if (token) {
+        return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+      }
+      return false;
+    }
+
+    var setCookieIfConversion = function(token) {
+      if (token) {
+        var twoMonthsFromNow = new Date(Date.now());
+        twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+        document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+      }
+    }
+
+    var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+    if (trekkie.integrations) {
+      return;
+    }
+    trekkie.methods = [
+      'identify',
+      'page',
+      'ready',
+      'track',
+      'trackForm',
+      'trackLink'
+    ];
+    trekkie.factory = function(method) {
+      return function() {
+        var args = Array.prototype.slice.call(arguments);
+        args.unshift(method);
+        trekkie.push(args);
+        return trekkie;
+      };
+    };
+    for (var i = 0; i < trekkie.methods.length; i++) {
+      var key = trekkie.methods[i];
+      trekkie[key] = trekkie.factory(key);
+    }
+    trekkie.load = function(config) {
+      trekkie.config = config || {};
+      trekkie.config.initialDocumentCookie = document.cookie;
+      var first = document.getElementsByTagName('script')[0];
+      var script = document.createElement('script');
+      script.type = 'text/javascript';
+      script.onerror = function(e) {
+        var scriptFallback = document.createElement('script');
+        scriptFallback.type = 'text/javascript';
+        scriptFallback.onerror = function(error) {
+                var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+
+        } // XHR beacon
+
+        var xhr = new XMLHttpRequest();
+
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.1',
+      {shop_id: 27341619287,
+      theme_id: 134364266675,
+      app_name: "storefront",
+      context_url: window.location.href,
+      source_url: "//freshoptionfnb.myshopify.com/cdn/s/trekkie.storefront.f33399a7b9d8c1007209860fbdd63bb24633ae9f.min.js"});
+
+        };
+        scriptFallback.async = true;
+        scriptFallback.src = '//freshoptionfnb.myshopify.com/cdn/s/trekkie.storefront.f33399a7b9d8c1007209860fbdd63bb24633ae9f.min.js';
+        first.parentNode.insertBefore(scriptFallback, first);
+      };
+      script.async = true;
+      script.src = '//freshoptionfnb.myshopify.com/cdn/s/trekkie.storefront.f33399a7b9d8c1007209860fbdd63bb24633ae9f.min.js';
+      first.parentNode.insertBefore(script, first);
+    };
+    trekkie.load(
+      {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":27341619287,"isMerchantRequest":null,"themeId":134364266675,"themeCityHash":"10772101332677326527","contentLanguage":"en","currency":"PHP"},"isServerSideCookieWritingEnabled":true,"monorailRegion":"shop_domain"},"Google Analytics":{"trackingId":"UA-172113743-1","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true,"includeSearch":true},"Facebook Pixel":{"pixelIds":["913884949115523"],"agent":"plshopify1.2"},"Session Attribution":{},"S2S":{"facebookCapiEnabled":false,"source":"trekkie-storefront-renderer"}}
+    );
+
+    var loaded = false;
+    trekkie.ready(function() {
+      if (loaded) return;
+      loaded = true;
+
+      window.ShopifyAnalytics.lib = window.trekkie;
+
+        ga('require', 'linker');
+      function addListener(element, type, callback) {
+        if (element.addEventListener) {
+          element.addEventListener(type, callback);
+        }
+        else if (element.attachEvent) {
+          element.attachEvent('on' + type, callback);
+        }
+      }
+      function decorate(event) {
+        event = event || window.event;
+        var target = event.target || event.srcElement;
+        if (target && (target.getAttribute('action') || target.getAttribute('href'))) {
+          ga(function (tracker) {
+            var linkerParam = tracker.get('linkerParam');
+            document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
+          });
+        }
+      }
+      addListener(window, 'load', function(){
+        for (var i=0; i < document.forms.length; i++) {
+          var action = document.forms[i].getAttribute('action');
+          if(action && action.indexOf('/cart') >= 0) {
+            addListener(document.forms[i], 'submit', decorate);
+          }
+        }
+        for (var i=0; i < document.links.length; i++) {
+          var href = document.links[i].getAttribute('href');
+          if(href && href.indexOf('/checkout') >= 0) {
+            addListener(document.links[i], 'click', decorate);
+          }
+        }
+      });
+    
+
+      var originalDocumentWrite = document.write;
+      document.write = customDocumentWrite;
+      try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+      document.write = originalDocumentWrite;
+
+      window.ShopifyAnalytics.lib.page(null,{"pageType":"cart"});
+
+      var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+      var token = match? match[1]: undefined;
+      if (!hasLoggedConversion(token)) {
+        setCookieIfConversion(token);
+        
+      }
+    });
+
+
+        var eventsListenerScript = document.createElement('script');
+        eventsListenerScript.async = true;
+        eventsListenerScript.src = "//freshoptionfnb.myshopify.com/cdn/shopifycloud/shopify/assets/shop_events_listener-a7c63dba65ccddc484f77541dc8ca437e60e1e9e297fe1c3faebf6523a0ede9b.js";
+        document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+
+})();</script>
+<script class="boomerang">
+(function () {
+  if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+    return;
+  }
+  window.BOOMR = window.BOOMR || {};
+  window.BOOMR.snippetStart = new Date().getTime();
+  window.BOOMR.snippetExecuted = true;
+  window.BOOMR.snippetVersion = 12;
+  window.BOOMR.application = "storefront-renderer";
+  window.BOOMR.themeName = "Debut";
+  window.BOOMR.themeVersion = "16.5.4";
+  window.BOOMR.shopId = 27341619287;
+  window.BOOMR.themeId = 134364266675;
+  window.BOOMR.renderRegion = "gcp-us-central1";
+  window.BOOMR.url =
+    "https://freshoptionfnb.myshopify.com/cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+  var where = document.currentScript || document.getElementsByTagName("script")[0];
+  var parentNode = where.parentNode;
+  var promoted = false;
+  var LOADER_TIMEOUT = 3000;
+  function promote() {
+    if (promoted) {
+      return;
+    }
+    var script = document.createElement("script");
+    script.id = "boomr-scr-as";
+    script.src = window.BOOMR.url;
+    script.async = true;
+    parentNode.appendChild(script);
+    promoted = true;
+  }
+  function iframeLoader(wasFallback) {
+    promoted = true;
+    var dom, bootstrap, iframe, iframeStyle;
+    var doc = document;
+    var win = window;
+    window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+    bootstrap = function(parent, scriptId) {
+      var script = doc.createElement("script");
+      script.id = scriptId || "boomr-if-as";
+      script.src = window.BOOMR.url;
+      BOOMR_lstart = new Date().getTime();
+      parent = parent || doc.body;
+      parent.appendChild(script);
+    };
+    if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
+      window.BOOMR.snippetMethod = "s";
+      bootstrap(parentNode, "boomr-async");
+      return;
+    }
+    iframe = document.createElement("IFRAME");
+    iframe.src = "about:blank";
+    iframe.title = "";
+    iframe.role = "presentation";
+    iframe.loading = "eager";
+    iframeStyle = (iframe.frameElement || iframe).style;
+    iframeStyle.width = 0;
+    iframeStyle.height = 0;
+    iframeStyle.border = 0;
+    iframeStyle.display = "none";
+    parentNode.appendChild(iframe);
+    try {
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    } catch (e) {
+      dom = document.domain;
+      iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    }
+    if (dom) {
+      doc._boomrl = function() {
+        this.domain = dom;
+        bootstrap();
+      };
+      doc.write("<body onload='document._boomrl();'>");
+    } else {
+      win._boomrl = function() {
+        bootstrap();
+      };
+      if (win.addEventListener) {
+        win.addEventListener("load", win._boomrl, false);
+      } else if (win.attachEvent) {
+        win.attachEvent("onload", win._boomrl);
+      }
+    }
+    doc.close();
+  }
+  var link = document.createElement("link");
+  if (link.relList &&
+    typeof link.relList.supports === "function" &&
+    link.relList.supports("preload") &&
+    ("as" in link)) {
+    window.BOOMR.snippetMethod = "p";
+    link.href = window.BOOMR.url;
+    link.rel = "preload";
+    link.as = "script";
+    link.addEventListener("load", promote);
+    link.addEventListener("error", function() {
+      iframeLoader(true);
+    });
+    setTimeout(function() {
+      if (!promoted) {
+        iframeLoader(true);
+      }
+    }, LOADER_TIMEOUT);
+    BOOMR_lstart = new Date().getTime();
+    parentNode.appendChild(link);
+  } else {
+    iframeLoader(false);
+  }
+  function boomerangSaveLoadTime(e) {
+    window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+  }
+  if (window.addEventListener) {
+    window.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (window.attachEvent) {
+    window.attachEvent("onload", boomerangSaveLoadTime);
+  }
+  if (document.addEventListener) {
+    document.addEventListener("onBoomerangLoaded", function(e) {
+      e.detail.BOOMR.init({
+        ResourceTiming: {
+          enabled: true,
+          trackedResourceTypes: ["script", "img", "css"]
+        },
+      });
+      e.detail.BOOMR.t_end = new Date().getTime();
+    });
+  } else if (document.attachEvent) {
+    document.attachEvent("onpropertychange", function(e) {
+      if (!e) e=event;
+      if (e.propertyName === "onBoomerangLoaded") {
+        e.detail.BOOMR.init({
+          ResourceTiming: {
+            enabled: true,
+            trackedResourceTypes: ["script", "img", "css"]
+          },
+        });
+        e.detail.BOOMR.t_end = new Date().getTime();
+      }
+    });
+  }
+})();</script>
+</head> 
+
+
+<body class="template-cart">
+
+  <a class="in-page-link visually-hidden skip-link" href="#MainContent">Skip to content</a><style data-shopify>
+
+  .cart-popup {
+    box-shadow: 1px 1px 10px 2px rgba(235, 235, 235, 0.5);
+  }</style><div class="cart-popup-wrapper cart-popup-wrapper--hidden" role="dialog" aria-modal="true" aria-labelledby="CartPopupHeading" data-cart-popup-wrapper>
+  <div class="cart-popup" data-cart-popup tabindex="-1">
+    <div class="cart-popup__header">
+      <h2 id="CartPopupHeading" class="cart-popup__heading">Just added to your cart</h2>
+      <button class="cart-popup__close" aria-label="Close" data-cart-popup-close><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 40 40"><path d="M23.868 20.015L39.117 4.78c1.11-1.108 1.11-2.77 0-3.877-1.109-1.108-2.773-1.108-3.882 0L19.986 16.137 4.737.904C3.628-.204 1.965-.204.856.904c-1.11 1.108-1.11 2.77 0 3.877l15.249 15.234L.855 35.248c-1.108 1.108-1.108 2.77 0 3.877.555.554 1.248.831 1.942.831s1.386-.277 1.94-.83l15.25-15.234 15.248 15.233c.555.554 1.248.831 1.941.831s1.387-.277 1.941-.83c1.11-1.109 1.11-2.77 0-3.878L23.868 20.015z" class="layer"/></svg></button>
+    </div>
+    <div class="cart-popup-item">
+      <div class="cart-popup-item__image-wrapper hide" data-cart-popup-image-wrapper>
+        <div class="cart-popup-item__image cart-popup-item__image--placeholder" data-cart-popup-image-placeholder>
+          <div data-placeholder-size></div>
+          <div class="placeholder-background placeholder-background--animation"></div>
+        </div>
+      </div>
+      <div class="cart-popup-item__description">
+        <div>
+          <div class="cart-popup-item__title" data-cart-popup-title></div>
+          <ul class="product-details" aria-label="Product details" data-cart-popup-product-details></ul>
+        </div>
+        <div class="cart-popup-item__quantity">
+          <span class="visually-hidden" data-cart-popup-quantity-label></span>
+          <span aria-hidden="true">Qty:</span>
+          <span aria-hidden="true" data-cart-popup-quantity></span>
+        </div>
+      </div>
+    </div>
+
+    <a href="/cart" class="cart-popup__cta-link btn btn--secondary-accent">
+      View cart (<span data-cart-popup-cart-quantity></span>)
+    </a>
+
+    <div class="cart-popup__dismiss">
+      <button class="cart-popup__dismiss-button text-link text-link--accent" data-cart-popup-dismiss>
+        Continue shopping
+      </button>
+    </div>
+  </div>
+</div>
+
+<div id="shopify-section-header" class="shopify-section">
+
+<div class="shopify-section-search">
+<div id="SearchDrawer" class="search-bar drawer drawer--top" role="dialog" aria-modal="true" aria-label="Search" data-predictive-search-drawer>
+  <div class="search-bar__interior">
+    <div class="search-form__container" data-search-form-container>
+      <form class="search-form search-bar__form" action="/search" method="get" role="search">
+        <div class="search-form__input-wrapper">
+          <input
+            type="text"
+            name="q"
+            placeholder="Search"
+            role="combobox"
+            aria-autocomplete="list"
+            aria-owns="predictive-search-results"
+            aria-expanded="false"
+            aria-label="Search"
+            aria-haspopup="listbox"
+            class="search-form__input search-bar__input"
+            data-predictive-search-drawer-input
+          />
+          <input type="hidden" name="options[prefix]" value="last" aria-hidden="true" />
+          <div class="predictive-search-wrapper predictive-search-wrapper--drawer" data-predictive-search-mount="drawer"></div>
+        </div>
+
+        <button class="search-bar__submit search-form__submit"
+          type="submit"
+          data-search-form-submit>
+          <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-search" viewBox="0 0 37 40"><path d="M35.6 36l-9.8-9.8c4.1-5.4 3.6-13.2-1.3-18.1-5.4-5.4-14.2-5.4-19.7 0-5.4 5.4-5.4 14.2 0 19.7 2.6 2.6 6.1 4.1 9.8 4.1 3 0 5.9-1 8.3-2.8l9.8 9.8c.4.4.9.6 1.4.6s1-.2 1.4-.6c.9-.9.9-2.1.1-2.9zm-20.9-8.2c-2.6 0-5.1-1-7-2.9-3.9-3.9-3.9-10.1 0-14C9.6 9 12.2 8 14.7 8s5.1 1 7 2.9c3.9 3.9 3.9 10.1 0 14-1.9 1.9-4.4 2.9-7 2.9z"/></svg>
+          <span class="icon__fallback-text">Submit</span>
+        </button>
+      </form>
+
+      <div class="search-bar__actions">
+        <button type="button" class="btn--link search-bar__close js-drawer-close">
+          <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 40 40"><path d="M23.868 20.015L39.117 4.78c1.11-1.108 1.11-2.77 0-3.877-1.109-1.108-2.773-1.108-3.882 0L19.986 16.137 4.737.904C3.628-.204 1.965-.204.856.904c-1.11 1.108-1.11 2.77 0 3.877l15.249 15.234L.855 35.248c-1.108 1.108-1.108 2.77 0 3.877.555.554 1.248.831 1.942.831s1.386-.277 1.94-.83l15.25-15.234 15.248 15.233c.555.554 1.248.831 1.941.831s1.387-.277 1.941-.83c1.11-1.109 1.11-2.77 0-3.878L23.868 20.015z" class="layer"/></svg>
+          <span class="icon__fallback-text">Close search</span>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+
+<div data-section-id="header" data-section-type="header-section" data-header-section>
+  
+
+  <header class="site-header border-bottom logo--left" role="banner">
+    <div class="grid grid--no-gutters grid--table site-header__mobile-nav" style="display: flex; flex-direction: column;">
+      
+
+      <div class="header-mobile-search">
+        <div class="grid__item medium-up--one-quarter logo-align--left" style="flex: 1;">
+          
+          
+            <div class="h2 site-header__logo">
+          
+            
+<a href="/" class="site-header__logo-image">
+                
+                <img class="lazyload js"
+                    src="//freshoptionfnb.myshopify.com/cdn/shop/files/96085084_651372018760974_7216682029612531712_n_300x300.jpg?v=1613585260"
+                    data-src="//freshoptionfnb.myshopify.com/cdn/shop/files/96085084_651372018760974_7216682029612531712_n_{width}x.jpg?v=1613585260"
+                    data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]"
+                    data-aspectratio="3.716878402903811"
+                    data-sizes="auto"
+                    alt="Fresh Options"
+                    style="max-width: 150px">
+                <noscript>
+                  
+                  <img src="//freshoptionfnb.myshopify.com/cdn/shop/files/96085084_651372018760974_7216682029612531712_n_150x.jpg?v=1613585260"
+                      srcset="//freshoptionfnb.myshopify.com/cdn/shop/files/96085084_651372018760974_7216682029612531712_n_150x.jpg?v=1613585260 1x, //freshoptionfnb.myshopify.com/cdn/shop/files/96085084_651372018760974_7216682029612531712_n_150x@2x.jpg?v=1613585260 2x"
+                      alt="Fresh Options"
+                      style="max-width: 150px;">
+                </noscript>
+              </a>
+            
+          
+            </div>
+          
+        </div>
+
+        
+          <nav class="grid__item medium-up--one-half small--hide" id="AccessibleNav" role="navigation" style="flex: 1; margin-right: -20px;" >
+            
+<ul class="site-nav list--inline" id="SiteNav" style="min-width: 250px;">
+  
+
+
+
+    
+      <li >
+        <a href="/"
+          class="site-nav__link site-nav__link--main"
+          
+        >
+          <span class="site-nav__label">Home</span>
+        </a>
+      </li>
+    
+  
+
+
+
+    
+      <li class="site-nav--has-dropdown" data-has-dropdowns>
+        <button class="site-nav__link site-nav__link--main site-nav__link--button" type="button" aria-expanded="false" aria-controls="SiteNavLabel-shop">
+          <span class="site-nav__label">Shop</span><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-chevron-down" viewBox="0 0 9 9"><path d="M8.542 2.558a.625.625 0 0 1 0 .884l-3.6 3.6a.626.626 0 0 1-.884 0l-3.6-3.6a.625.625 0 1 1 .884-.884L4.5 5.716l3.158-3.158a.625.625 0 0 1 .884 0z" fill="#fff"/></svg>
+        </button>
+
+        <div class="site-nav__dropdown" id="SiteNavLabel-shop">
+          
+            <ul>
+              
+                <li>
+                  <a href="/collections/whats-new"
+                  class="site-nav__link site-nav__child-link"
+                  
+                >
+                    <span class="site-nav__label">What&#39;s New</span>
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/collections/all-promos"
+                  class="site-nav__link site-nav__child-link"
+                  
+                >
+                    <span class="site-nav__label">Fresh Deals</span>
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/collections/featured-products"
+                  class="site-nav__link site-nav__child-link"
+                  
+                >
+                    <span class="site-nav__label">Best Sellers</span>
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/collections/all-products"
+                  class="site-nav__link site-nav__child-link"
+                  
+                >
+                    <span class="site-nav__label">All Products</span>
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/collections/chicken"
+                  class="site-nav__link site-nav__child-link"
+                  
+                >
+                    <span class="site-nav__label">Chicken</span>
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/collections/pork"
+                  class="site-nav__link site-nav__child-link"
+                  
+                >
+                    <span class="site-nav__label">Pork</span>
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/collections/beef"
+                  class="site-nav__link site-nav__child-link"
+                  
+                >
+                    <span class="site-nav__label">Beef</span>
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/collections/ready-to-heat"
+                  class="site-nav__link site-nav__child-link"
+                  
+                >
+                    <span class="site-nav__label">Ready-to-Heat</span>
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/collections/ready-to-cook"
+                  class="site-nav__link site-nav__child-link"
+                  
+                >
+                    <span class="site-nav__label">Ready-to-Cook</span>
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/collections/special"
+                  class="site-nav__link site-nav__child-link"
+                  
+                >
+                    <span class="site-nav__label">Weekly Specials</span>
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/collections/breakfast"
+                  class="site-nav__link site-nav__child-link"
+                  
+                >
+                    <span class="site-nav__label">Breakfast</span>
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/collections/brown-eggs"
+                  class="site-nav__link site-nav__child-link site-nav__link--last"
+                  
+                >
+                    <span class="site-nav__label">Fresh Brown Eggs</span>
+                  </a>
+                </li>
+              
+            </ul>
+          
+        </div>
+      </li>
+    
+  
+
+
+
+    
+      <li >
+        <a href="/blogs/freshcipes"
+          class="site-nav__link site-nav__link--main"
+          
+        >
+          <span class="site-nav__label">Freshcipes</span>
+        </a>
+      </li>
+    
+  
+
+
+
+    
+      <li >
+        <a href="/blogs/twisted-recipes"
+          class="site-nav__link site-nav__link--main"
+          
+        >
+          <span class="site-nav__label">Twisted Recipes</span>
+        </a>
+      </li>
+    
+  
+
+
+
+    
+      <li >
+        <a href="/pages/easy-faqs"
+          class="site-nav__link site-nav__link--main"
+          
+        >
+          <span class="site-nav__label">FAQs</span>
+        </a>
+      </li>
+    
+  
+</ul>
+
+          </nav>
+        
+
+        <div class="grid__item medium-up--one-quarter text-right site-header__icons site-header__icons--plus" style="flex: 1; margin-left: 20px;">
+          <div class="site-header__icons-wrapper">
+
+            <button type="button" class="btn--link site-header__icon site-header__search-toggle js-drawer-open-top responsive__search-old" >
+              <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-search" viewBox="0 0 37 40"><path d="M35.6 36l-9.8-9.8c4.1-5.4 3.6-13.2-1.3-18.1-5.4-5.4-14.2-5.4-19.7 0-5.4 5.4-5.4 14.2 0 19.7 2.6 2.6 6.1 4.1 9.8 4.1 3 0 5.9-1 8.3-2.8l9.8 9.8c.4.4.9.6 1.4.6s1-.2 1.4-.6c.9-.9.9-2.1.1-2.9zm-20.9-8.2c-2.6 0-5.1-1-7-2.9-3.9-3.9-3.9-10.1 0-14C9.6 9 12.2 8 14.7 8s5.1 1 7 2.9c3.9 3.9 3.9 10.1 0 14-1.9 1.9-4.4 2.9-7 2.9z"/></svg>
+              <span class="icon__fallback-text">Search</span>
+            </button> 
+
+            <div class="responsive__search-header">
+              <script src="/assets/predictive-search.js?v=105769503766650641621699248934" defer="defer"></script>
+
+<div class="search-form__container" data-search-form-container="">
+<predictive-search style="width: 100%;">
+  <div class="search-form__input-wrapper">
+    <form action="/search" method="get" role="search" class="search-form search-bar__form" style="max-width: 100%;">
+        <input
+          autocomplete="off"
+          id="Search"
+          placeholder="🔍︎  Search"
+          type="search"
+          name="q"
+          value=""
+          role="combobox"
+          aria-expanded="false"
+          aria-owns="predictive-search-results"
+          aria-controls="predictive-search-results"
+          aria-haspopup="listbox"
+          aria-autocomplete="list"
+          class="search-form__input search-bar__input"
+          style="border-radius: 15px; min-height: 35px; padding: 5px 10px;"
+        >
+        <input name="options[prefix]" type="hidden" value="last">
+
+        <div id="predictive-search" class="predictive-search-wrapper predictive-search-wrapper--drawer" tabindex="-1" data-predictive-search-mount="Search" style="max-height: 600px; text-align: left; border-radius: 10px; padding: 0; margin: 2px;"></div>
+    </form>
+  </div>
+</predictive-search>
+</div>
+
+            </div>
+
+            
+              
+                <a href="/account/login" class="site-header__icon site-header__account">
+                  <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-login" viewBox="0 0 28.33 37.68"><path d="M14.17 14.9a7.45 7.45 0 1 0-7.5-7.45 7.46 7.46 0 0 0 7.5 7.45zm0-10.91a3.45 3.45 0 1 1-3.5 3.46A3.46 3.46 0 0 1 14.17 4zM14.17 16.47A14.18 14.18 0 0 0 0 30.68c0 1.41.66 4 5.11 5.66a27.17 27.17 0 0 0 9.06 1.34c6.54 0 14.17-1.84 14.17-7a14.18 14.18 0 0 0-14.17-14.21zm0 17.21c-6.3 0-10.17-1.77-10.17-3a10.17 10.17 0 1 1 20.33 0c.01 1.23-3.86 3-10.16 3z"/></svg>
+                  <span class="icon__fallback-text">Log in</span>
+                </a>
+              
+            
+
+            <a href="/cart" class="site-header__icon site-header__cart">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-cart" viewBox="0 0 37 40"><path d="M36.5 34.8L33.3 8h-5.9C26.7 3.9 23 .8 18.5.8S10.3 3.9 9.6 8H3.7L.5 34.8c-.2 1.5.4 2.4.9 3 .5.5 1.4 1.2 3.1 1.2h28c1.3 0 2.4-.4 3.1-1.3.7-.7 1-1.8.9-2.9zm-18-30c2.2 0 4.1 1.4 4.7 3.2h-9.5c.7-1.9 2.6-3.2 4.8-3.2zM4.5 35l2.8-23h2.2v3c0 1.1.9 2 2 2s2-.9 2-2v-3h10v3c0 1.1.9 2 2 2s2-.9 2-2v-3h2.2l2.8 23h-28z"/></svg>
+              <span class="icon__fallback-text">Cart</span>
+              <div id="CartCount" class="site-header__cart-count" data-cart-count-bubble>
+                <span data-cart-count>2</span>
+                <span class="icon__fallback-text medium-up--hide">items</span>
+              </div>
+            </a>
+
+            
+              <button type="button" class="btn--link site-header__icon site-header__menu js-mobile-nav-toggle mobile-nav--open" aria-controls="MobileNav"  aria-expanded="false" aria-label="Menu">
+                <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-hamburger" viewBox="0 0 37 40"><path d="M33.5 25h-30c-1.1 0-2-.9-2-2s.9-2 2-2h30c1.1 0 2 .9 2 2s-.9 2-2 2zm0-11.5h-30c-1.1 0-2-.9-2-2s.9-2 2-2h30c1.1 0 2 .9 2 2s-.9 2-2 2zm0 23h-30c-1.1 0-2-.9-2-2s.9-2 2-2h30c1.1 0 2 .9 2 2s-.9 2-2 2z"/></svg>
+                <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 40 40"><path d="M23.868 20.015L39.117 4.78c1.11-1.108 1.11-2.77 0-3.877-1.109-1.108-2.773-1.108-3.882 0L19.986 16.137 4.737.904C3.628-.204 1.965-.204.856.904c-1.11 1.108-1.11 2.77 0 3.877l15.249 15.234L.855 35.248c-1.108 1.108-1.108 2.77 0 3.877.555.554 1.248.831 1.942.831s1.386-.277 1.94-.83l15.25-15.234 15.248 15.233c.555.554 1.248.831 1.941.831s1.387-.277 1.941-.83c1.11-1.109 1.11-2.77 0-3.878L23.868 20.015z" class="layer"/></svg>
+              </button>
+            
+          </div>
+        </div>
+      </div>
+
+      <div class="responsive__search-mobile">
+        <script src="/assets/predictive-search.js?v=105769503766650641621699248934" defer="defer"></script>
+
+<div class="search-form__container" data-search-form-container="">
+<predictive-search style="width: 100%;">
+  <div class="search-form__input-wrapper">
+    <form action="/search" method="get" role="search" class="search-form search-bar__form" style="max-width: 100%;">
+        <input
+          autocomplete="off"
+          id="Search"
+          placeholder="🔍︎  Search"
+          type="search"
+          name="q"
+          value=""
+          role="combobox"
+          aria-expanded="false"
+          aria-owns="predictive-search-results"
+          aria-controls="predictive-search-results"
+          aria-haspopup="listbox"
+          aria-autocomplete="list"
+          class="search-form__input search-bar__input"
+          style="border-radius: 15px; min-height: 35px; padding: 5px 10px;"
+        >
+        <input name="options[prefix]" type="hidden" value="last">
+
+        <div id="predictive-search" class="predictive-search-wrapper predictive-search-wrapper--drawer" tabindex="-1" data-predictive-search-mount="Search" style="max-height: 600px; text-align: left; border-radius: 10px; padding: 0; margin: 2px;"></div>
+    </form>
+  </div>
+</predictive-search>
+</div>
+
+      </div> 
+    </div>
+     
+    <nav class="mobile-nav-wrapper medium-up--hide" role="navigation">
+      <ul id="MobileNav" class="mobile-nav">
+        
+<li class="mobile-nav__item border-bottom">
+            
+              <a href="/"
+                class="mobile-nav__link"
+                
+              >
+                <span class="mobile-nav__label">Home</span>
+              </a>
+            
+          </li>
+        
+<li class="mobile-nav__item border-bottom">
+            
+              
+              <button type="button" class="btn--link js-toggle-submenu mobile-nav__link" data-target="shop-2" data-level="1" aria-expanded="false">
+                <span class="mobile-nav__label">Shop</span>
+                <div class="mobile-nav__icon">
+                  <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-chevron-right" viewBox="0 0 14 14"><path d="M3.871.604c.44-.439 1.152-.439 1.591 0l5.515 5.515s-.049-.049.003.004l.082.08c.439.44.44 1.153 0 1.592l-5.6 5.6a1.125 1.125 0 0 1-1.59-1.59L8.675 7 3.87 2.195a1.125 1.125 0 0 1 0-1.59z" fill="#fff"/></svg>
+                </div>
+              </button>
+              <ul class="mobile-nav__dropdown" data-parent="shop-2" data-level="2">
+                <li class="visually-hidden" tabindex="-1" data-menu-title="2">Shop Menu</li>
+                <li class="mobile-nav__item border-bottom">
+                  <div class="mobile-nav__table">
+                    <div class="mobile-nav__table-cell mobile-nav__return">
+                      <button class="btn--link js-toggle-submenu mobile-nav__return-btn" type="button" aria-expanded="true" aria-label="Shop">
+                        <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-chevron-left" viewBox="0 0 14 14"><path d="M10.129.604a1.125 1.125 0 0 0-1.591 0L3.023 6.12s.049-.049-.003.004l-.082.08c-.439.44-.44 1.153 0 1.592l5.6 5.6a1.125 1.125 0 0 0 1.59-1.59L5.325 7l4.805-4.805c.44-.439.44-1.151 0-1.59z" fill="#fff"/></svg>
+                      </button>
+                    </div>
+                    <span class="mobile-nav__sublist-link mobile-nav__sublist-header mobile-nav__sublist-header--main-nav-parent">
+                      <span class="mobile-nav__label">Shop</span>
+                    </span>
+                  </div>
+                </li>
+
+                
+                  <li class="mobile-nav__item border-bottom">
+                    
+                      <a href="/collections/whats-new"
+                        class="mobile-nav__sublist-link"
+                        
+                      >
+                        <span class="mobile-nav__label">What&#39;s New</span>
+                      </a>
+                    
+                  </li>
+                
+                  <li class="mobile-nav__item border-bottom">
+                    
+                      <a href="/collections/all-promos"
+                        class="mobile-nav__sublist-link"
+                        
+                      >
+                        <span class="mobile-nav__label">Fresh Deals</span>
+                      </a>
+                    
+                  </li>
+                
+                  <li class="mobile-nav__item border-bottom">
+                    
+                      <a href="/collections/featured-products"
+                        class="mobile-nav__sublist-link"
+                        
+                      >
+                        <span class="mobile-nav__label">Best Sellers</span>
+                      </a>
+                    
+                  </li>
+                
+                  <li class="mobile-nav__item border-bottom">
+                    
+                      <a href="/collections/all-products"
+                        class="mobile-nav__sublist-link"
+                        
+                      >
+                        <span class="mobile-nav__label">All Products</span>
+                      </a>
+                    
+                  </li>
+                
+                  <li class="mobile-nav__item border-bottom">
+                    
+                      <a href="/collections/chicken"
+                        class="mobile-nav__sublist-link"
+                        
+                      >
+                        <span class="mobile-nav__label">Chicken</span>
+                      </a>
+                    
+                  </li>
+                
+                  <li class="mobile-nav__item border-bottom">
+                    
+                      <a href="/collections/pork"
+                        class="mobile-nav__sublist-link"
+                        
+                      >
+                        <span class="mobile-nav__label">Pork</span>
+                      </a>
+                    
+                  </li>
+                
+                  <li class="mobile-nav__item border-bottom">
+                    
+                      <a href="/collections/beef"
+                        class="mobile-nav__sublist-link"
+                        
+                      >
+                        <span class="mobile-nav__label">Beef</span>
+                      </a>
+                    
+                  </li>
+                
+                  <li class="mobile-nav__item border-bottom">
+                    
+                      <a href="/collections/ready-to-heat"
+                        class="mobile-nav__sublist-link"
+                        
+                      >
+                        <span class="mobile-nav__label">Ready-to-Heat</span>
+                      </a>
+                    
+                  </li>
+                
+                  <li class="mobile-nav__item border-bottom">
+                    
+                      <a href="/collections/ready-to-cook"
+                        class="mobile-nav__sublist-link"
+                        
+                      >
+                        <span class="mobile-nav__label">Ready-to-Cook</span>
+                      </a>
+                    
+                  </li>
+                
+                  <li class="mobile-nav__item border-bottom">
+                    
+                      <a href="/collections/special"
+                        class="mobile-nav__sublist-link"
+                        
+                      >
+                        <span class="mobile-nav__label">Weekly Specials</span>
+                      </a>
+                    
+                  </li>
+                
+                  <li class="mobile-nav__item border-bottom">
+                    
+                      <a href="/collections/breakfast"
+                        class="mobile-nav__sublist-link"
+                        
+                      >
+                        <span class="mobile-nav__label">Breakfast</span>
+                      </a>
+                    
+                  </li>
+                
+                  <li class="mobile-nav__item">
+                    
+                      <a href="/collections/brown-eggs"
+                        class="mobile-nav__sublist-link"
+                        
+                      >
+                        <span class="mobile-nav__label">Fresh Brown Eggs</span>
+                      </a>
+                    
+                  </li>
+                
+              </ul>
+            
+          </li>
+        
+<li class="mobile-nav__item border-bottom">
+            
+              <a href="/blogs/freshcipes"
+                class="mobile-nav__link"
+                
+              >
+                <span class="mobile-nav__label">Freshcipes</span>
+              </a>
+            
+          </li>
+        
+<li class="mobile-nav__item border-bottom">
+            
+              <a href="/blogs/twisted-recipes"
+                class="mobile-nav__link"
+                
+              >
+                <span class="mobile-nav__label">Twisted Recipes</span>
+              </a>
+            
+          </li>
+        
+<li class="mobile-nav__item">
+            
+              <a href="/pages/easy-faqs"
+                class="mobile-nav__link"
+                
+              >
+                <span class="mobile-nav__label">FAQs</span>
+              </a>
+            
+          </li>
+        
+      </ul>
+    </nav>
+
+    
+ 
+  </header>
+
+  
+</div>
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "Fresh Options",
+  
+    
+    "logo": "https:\/\/freshoptionfnb.myshopify.com\/cdn\/shop\/files\/96085084_651372018760974_7216682029612531712_n_4096x.jpg?v=1613585260",
+  
+  "sameAs": [
+    "",
+    "https:\/\/www.facebook.com\/FreshOptions\/",
+    "",
+    "https:\/\/www.instagram.com\/freshoptionsph\/",
+    "",
+    "",
+    "https:\/\/www.youtube.com\/channel\/UCkCsltnIUXMytGuKa43tptg",
+    ""
+  ],
+  "url": "https:\/\/freshoptions.ph"
+}
+</script>
+
+
+
+
+</div>
+
+  <div class="page-container drawer-page-content" id="PageContainer">
+
+    <main class="main-content js-focus-hidden" id="MainContent" role="main" tabindex="-1" style="background-color: #f4f4f4;">
+      
+
+<div id="shopify-section-cart-template" class="shopify-section"><div class="page-width" data-section-id="cart-template" data-section-type="cart-template" data-ajax-enabled="true">
+
+  <div data-cart-wrapper>
+    <div class="cart-header">
+      <h1 class="cart-header__title">Your cart</h1>
+      <a href="/collections/all" class="text-link text-link--accent">
+        Continue shopping
+      </a>
+    </div>
+
+    <form action="/cart" method="post" novalidate class="cart">
+      <table>
+        <thead class="cart__row cart__row--heading">
+          <th scope="col">Product</th>
+          <th class="text-right" scope="col">Price</th>
+          <th class="text-right small--hide" scope="col">Quantity</th>
+          <th class="text-right small--hide" scope="col">Total</th>
+        </thead>
+        <tbody data-cart-line-items><tr class="cart__row" data-cart-item data-cart-item-key="42236301213875:f4fd822c87e70f906f7836f1999a7223" data-cart-item-url="/products/chicken-karaage-450g?variant=42236301213875" data-cart-item-title="Chicken Karaage 450g" data-cart-item-index="1" data-cart-item-quantity="2">
+              <td class="cart__meta small--text-left" data-cart-table-cell>
+                <div class="cart__product-information">
+                  <div class="cart__image-wrapper">
+                    <img class="cart__image" src="//freshoptionfnb.myshopify.com/cdn/shop/products/Chicken-Karaage-with-Packaging_x190.png?v=1670567450" alt="" data-cart-item-image>
+                  </div>
+                  <div>
+                    <div class="list-view-item__title">
+                      <a href="/products/chicken-karaage-450g?variant=42236301213875" class="cart__product-title" data-cart-item-title>
+                        Chicken Karaage 450g
+                      </a>
+                    </div><ul class="product-details hide" data-cart-item-details aria-label="Product details"><li class="product-details__item product-details__item--variant-option hide" data-cart-item-option>: </li><li class="product-details__item product-details__item--property hide" data-cart-item-property>
+                            <span class="product-details__item-label" data-cart-item-property-name>t: </span><span data-cart-item-property-value>e
+</span>
+                          </li></ul>
+
+                    <p class="cart__remove">
+                      <a href="/cart/change?line=1&amp;quantity=0" class="text-link text-link--accent" aria-label="Remove Chicken Karaage 450g" data-cart-remove>Remove</a>
+                    </p>
+                  </div>
+                </div>
+              </td>
+              <td class="cart__price text-right"><div data-cart-item-price>
+                  <dl data-cart-item-price-list><div class="hide" data-cart-item-discounted-price-group>
+                      <dt>
+                        <span class="visually-hidden">Regular price</span>
+                      </dt>
+                      <dd>
+                        <s data-cart-item-original-price>₱259.75</s>
+                      </dd>
+                      <dt>
+                        <span class="visually-hidden">Sale price</span>
+                      </dt>
+                      <dd>
+                        <span class="order-discount" data-cart-item-final-price>₱259.75</span>
+                      </dd>
+                    </div><div data-cart-item-regular-price-group>
+                      <dt>
+                        <span class="visually-hidden">Regular price</span>
+                      </dt>
+                      <dd data-cart-item-regular-price>
+                        ₱259.75
+                      </dd>
+                    </div><div class="hide" data-unit-price-group>
+                      <dt>
+                        <span class="visually-hidden visually-hidden--inline">Unit price</span>
+                      </dt>
+                      <dd>
+                        <span class="price-unit-price"><span data-unit-price></span><span aria-hidden="true">/</span><span class="visually-hidden">per&nbsp;</span><span data-unit-price-base-unit>
+</span>
+                        </span>
+                      </dd>
+                    </div>
+                  </dl>
+                </div><ul class="order-discount order-discount--list order-discount--title order-discount--cart hide" aria-label="Discount" data-cart-item-discount-list><li class="order-discount__item" data-cart-item-discount>
+                      <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-saletag"><path d="M10 3a1 1 0 1 1 0-2 1 1 0 0 1 0 2zm0-3H7a1 1 0 0 0-.71.29l-6 6a1 1 0 0 0 0 1.42l4 4a1 1 0 0 0 1.42 0c.19-.2 5.8-5.81 6-6A1 1 0 0 0 12 5V2a2 2 0 0 0-2-2z" fill="#231F20"/></svg>
+                      <span data-cart-item-discount-title></span> (-<span data-cart-item-discount-amount></span>)
+                    </li></ul>
+
+                <div class="cart__qty medium-up--hide">
+                  <label for="updates_42236301213875:f4fd822c87e70f906f7836f1999a7223" class="cart__qty-label" aria-label="Quantity" data-quantity-label-mobile>
+                    Qty
+                  </label>
+                  <input id="updates_42236301213875:f4fd822c87e70f906f7836f1999a7223" class="cart__qty-input" type="number"
+                    value="2" min="0" pattern="[0-9]*"
+                    data-quantity-input data-quantity-item="1" data-quantity-input-mobile>
+                </div>
+                <div class="cart__qty-error-message-wrapper cart__qty-error-message-wrapper--mobile hide" role="alert" data-cart-quantity-error-message-wrapper>
+                  <span class="visually-hidden">Error </span>
+                  <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-error" viewBox="0 0 14 14"><g fill="none" fill-rule="evenodd"><path d="M7 0a7 7 0 0 1 7 7 7 7 0 1 1-7-7z"/><path class="icon-error__symbol" d="M6.328 8.396l-.252-5.4h1.836l-.24 5.4H6.328zM6.04 10.16c0-.528.432-.972.96-.972s.972.444.972.972c0 .516-.444.96-.972.96a.97.97 0 0 1-.96-.96z"/></g></svg>
+                  <span class="cart__qty-error-message" data-cart-quantity-error-message></span>
+                </div>
+              </td>
+              <td class="cart__quantity-td text-right small--hide">
+                <div class="cart__qty">
+                  <label for="updates_large_42236301213875:f4fd822c87e70f906f7836f1999a7223" class="cart__qty-label" data-quantity-label-desktop>Quantity</label>
+                  <input id="updates_large_42236301213875:f4fd822c87e70f906f7836f1999a7223" class="cart__qty-input" type="number"
+                    name="updates[]" value="2" min="0" pattern="[0-9]*"
+                    data-quantity-input data-quantity-item="1" data-quantity-input-desktop>
+                </div>
+                <div class="cart__qty-error-message-wrapper cart__qty-error-message-wrapper--desktop hide" role="alert" data-cart-quantity-error-message-wrapper>
+                  <span class="visually-hidden">Error </span>
+                  <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-error" viewBox="0 0 14 14"><g fill="none" fill-rule="evenodd"><path d="M7 0a7 7 0 0 1 7 7 7 7 0 1 1-7-7z"/><path class="icon-error__symbol" d="M6.328 8.396l-.252-5.4h1.836l-.24 5.4H6.328zM6.04 10.16c0-.528.432-.972.96-.972s.972.444.972.972c0 .516-.444.96-.972.96a.97.97 0 0 1-.96-.96z"/></g></svg>
+                  <span class="cart__qty-error-message" data-cart-quantity-error-message></span>
+                </div>
+              </td>
+              <td class="cart__final-price text-right small--hide" data-cart-item-line-price><dl class="hide" data-cart-item-discounted-price-group>
+                  <dt>
+                    <span class="visually-hidden">Regular total</span>
+                  </dt>
+                  <dd>
+                    <s data-cart-item-original-price>₱519.50</s>
+                  </dd>
+                  <dt>
+                    <span class="visually-hidden">Discounted total</span>
+                  </dt>
+                  <dd>
+                    <span class="order-discount" data-cart-item-final-price>₱519.50</span>
+                  </dd>
+                </dl ><div data-cart-item-regular-price-group>
+                  <span data-cart-item-regular-price>₱519.50</span>
+                </div>
+              </td>
+            </tr></tbody>
+      </table>
+
+      <div class="cart__footer">
+        <div class="grid"><div class="grid__item text-right small--text-center"><div class="hide" data-cart-discount-wrapper>
+              <div class="order-discount-card-wrapper" data-cart-discount><span class="order-discount order-discount--title order-discount--cart">
+                    <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-saletag"><path d="M10 3a1 1 0 1 1 0-2 1 1 0 0 1 0 2zm0-3H7a1 1 0 0 0-.71.29l-6 6a1 1 0 0 0 0 1.42l4 4a1 1 0 0 0 1.42 0c.19-.2 5.8-5.81 6-6A1 1 0 0 0 12 5V2a2 2 0 0 0-2-2z" fill="#231F20"/></svg><span class="visually-hidden">Discount:</span><span data-cart-discount-title></span>
+                  </span>
+                  <span class="order-discount order-discount--cart order-discount--cart-total">
+                    -<span data-cart-discount-amount></span>
+                  </span></div>
+            </div>
+
+            <div class="cart-subtotal">
+              <span class="cart-subtotal__title">Subtotal</span>
+              <span class="cart-subtotal__price cust-cart-total" data-cart-subtotal>₱519.50</span>
+            </div><!-- Taxes and shipping calculated at checkout
+ old code in div below -->
+            <div class="cart__shipping rte" style="text-align:justify">Initial bill and shipping calculated at checkout. Prices may also vary when weighed in the store. Our representative will call you to confirm your total bill.</div>
+            <div class="cart__buttons-container">
+              
+              <p id="chk-term" style="float: none; text-align: right; clear: both; margin: 10px 0;">
+                <input style="float:none; vertical-align: middle;" type="checkbox" id="agree" />
+                <label style="display:inline; float:none" for="agree">
+                  I agree with the <a href="/pages/terms-of-privacy" style="color: #2cae5d;">terms and conditions</a>.
+                </label>
+              </p>
+              
+              <div class="cart__submit-controls"><input type="submit" name="checkout"
+                  class="cart__submit btn btn--small-wide"
+                  value="Check out">
+              </div>
+
+              <div class="cart__error-message-wrapper hide" role="alert" data-cart-error-message-wrapper>
+                <span class="visually-hidden">Error </span>
+                <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-error" viewBox="0 0 14 14"><g fill="none" fill-rule="evenodd"><path d="M7 0a7 7 0 0 1 7 7 7 7 0 1 1-7-7z"/><path class="icon-error__symbol" d="M6.328 8.396l-.252-5.4h1.836l-.24 5.4H6.328zM6.04 10.16c0-.528.432-.972.96-.972s.972.444.972.972c0 .516-.444.96-.972.96a.97.97 0 0 1-.96-.96z"/></g></svg>
+                <span class="cart__error-message" data-cart-error-message></span>
+              </div></div>
+          </div>
+        </div>
+      </div>
+    </form>
+
+    <p class="visually-hidden" data-cart-status
+      aria-live="polite"
+      role="status"
+    ></p>
+  </div>
+
+  <div class="empty-page-content hide text-center" data-empty-page-content>
+    <h1>Your cart</h1>
+    <p class="cart--empty-message">Your cart is currently empty.</p>
+    <div class="cookie-message">
+      <p>Enable cookies to use the shopping cart</p>
+    </div>
+    <a href="/" class="btn btn--has-icon-after cart__continue-btn">Continue shopping<svg aria-hidden="true" focusable="false" role="presentation" class="icon icon--wide icon-arrow-right" viewBox="0 0 20 8"><path d="M15.186.445c.865.944 1.614 1.662 2.246 2.154.631.491 1.227.857 1.787 1.098v.44a9.933 9.933 0 0 0-1.875 1.196c-.606.485-1.328 1.196-2.168 2.134h-.752c.612-1.309 1.253-2.315 1.924-3.018H.77v-.986h15.577c-.495-.632-.84-1.1-1.035-1.406-.196-.306-.486-.843-.87-1.612h.743z" fill="#000" fill-rule="evenodd"/></svg></a>
+  </div>
+</div>
+
+
+
+
+</div>
+
+
+<script src="https://cdn.pagefly.io/static/assets/pf-custom-shopify-cart.min.js" defer></script>
+
+    </main>
+
+    <div id="shopify-section-footer" class="shopify-section">
+<style>
+  .site-footer__hr {
+    border-bottom: 1px solid #dddddd;
+  }
+
+  .site-footer p,
+  .site-footer__linklist-item a,
+  .site-footer__rte a,
+  .site-footer h4,
+  .site-footer small,
+  .site-footer__copyright-content a,
+  .site-footer__newsletter-error,
+  .site-footer__social-icons .social-icons__link {
+    color: #333232;
+  }
+
+  .site-footer {
+    color: #333232;
+    background-color: #f6f6f6;
+  }
+
+  .site-footer__rte a {
+    border-bottom: 1px solid #333232;
+  }
+
+  .site-footer__rte a:hover,
+  .site-footer__linklist-item a:hover,
+  .site-footer__copyright-content a:hover {
+    color: #5a5858;
+    border-bottom: 1px solid #5a5858;
+  }
+
+  .site-footer__social-icons .social-icons__link:hover {
+    color: #5a5858;
+  }
+</style><footer class="site-footer" role="contentinfo" data-section-id="footer" data-section-type="footer-section">
+  <div class="page-width">
+    <div class="site-footer__content"><div class="site-footer__item
+                    
+                    site-footer__item--one-quarter
+                    "
+             >
+          <div class="site-footer__item-inner site-footer__item-inner--text"><p class="h4">About Us</p><div class="site-footer__rte
+                              ">
+                      <p><a href="/pages/about-us" title="<div><img src=&quot;https://cdn.shopify.com/s/files/1/0273/4161/9287/files/rdf_logo_480x480.jpg?v=1590465495&quot; alt=&quot;&quot; width=&quot;204px&quot; height=&quot;110px&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /></div>Our Company">Our Company</a><a href="/pages/twisted-recipes" title="Twisted Recipes"><br/></a></p><p><a href="/pages/quality-points" title="Quality Points">Quality Points</a><br/><br/><a href="/blogs/news" title="News">News<br/><br/></a><a href="/pages/contact-us" title="Contact Us">Contact Us</a></p><p></p><p><a href="/pages/retail-partnership" title="Retail Partnership">Retail Partnership</a></p>
+                  </div></div>
+        </div><div class="site-footer__item
+                    
+                    site-footer__item--one-quarter
+                    "
+             >
+          <div class="site-footer__item-inner site-footer__item-inner--text"><p class="h4">Terms &amp; Conditions</p><div class="site-footer__rte
+                              ">
+                      <p><a href="/pages/terms-of-privacy" title="Terms of Privacy">Make sure you read and agree with our terms.</a></p>
+                  </div></div>
+        </div><div class="site-footer__item
+                    
+                    site-footer__item--one-quarter
+                    site-footer-newsletter__one-half"
+             >
+          <div class="site-footer__item-inner site-footer__item-inner--newsletter"><p class="h4">Newsletter</p><div class="site-footer__newsletter
+                          "><form method="post" action="/contact#ContactFooter" id="ContactFooter" accept-charset="UTF-8" class="contact-form" novalidate="novalidate"><input type="hidden" name="form_type" value="customer" /><input type="hidden" name="utf8" value="✓" />
+<input type="hidden" name="contact[tags]" value="newsletter">
+                    <div class="input-group ">
+                      <input type="email"
+                        name="contact[email]"
+                        id="ContactFooter-email"
+                        class="input-group__field newsletter__input"
+                        value=""
+                        placeholder="Email address"
+                        aria-label="Email address"
+                        aria-required="true"
+                        required
+                        autocorrect="off"
+                        autocapitalize="off"
+                        >
+                      <span class="input-group__btn">
+                        <button type="submit" class="btn newsletter__submit" name="commit" id="Subscribe">
+                          <span class="newsletter__submit-text--large">Subscribe</span>
+                        </button>
+                      </span>
+                    </div>
+                    
+                  </form>
+                </div></div>
+        </div></div>
+  </div>
+
+  <hr class="site-footer__hr"><div class="page-width">
+    <div class="grid grid--no-gutters small--text-center grid--footer-float-right"><div class="grid__item small--hide one-half "></div><div class="grid__item  small--one-whole site-footer-item-tall"><ul class="list--inline site-footer__social-icons social-icons site-footer__icon-list"><li class="social-icons__item">
+                  <a class="social-icons__link" href="https://www.facebook.com/FreshOptions/" aria-describedby="a11y-external-message"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-facebook" viewBox="0 0 20 20"><path fill="#444" d="M18.05.811q.439 0 .744.305t.305.744v16.637q0 .439-.305.744t-.744.305h-4.732v-7.221h2.415l.342-2.854h-2.757v-1.83q0-.659.293-1t1.073-.342h1.488V3.762q-.976-.098-2.171-.098-1.634 0-2.635.964t-1 2.72V9.47H7.951v2.854h2.415v7.221H1.413q-.439 0-.744-.305t-.305-.744V1.859q0-.439.305-.744T1.413.81H18.05z"/></svg><span class="icon__fallback-text">Facebook</span>
+                  </a>
+                </li><li class="social-icons__item">
+                  <a class="social-icons__link" href="https://www.instagram.com/freshoptionsph/" aria-describedby="a11y-external-message"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-instagram" viewBox="0 0 512 512"><path d="M256 49.5c67.3 0 75.2.3 101.8 1.5 24.6 1.1 37.9 5.2 46.8 8.7 11.8 4.6 20.2 10 29 18.8s14.3 17.2 18.8 29c3.4 8.9 7.6 22.2 8.7 46.8 1.2 26.6 1.5 34.5 1.5 101.8s-.3 75.2-1.5 101.8c-1.1 24.6-5.2 37.9-8.7 46.8-4.6 11.8-10 20.2-18.8 29s-17.2 14.3-29 18.8c-8.9 3.4-22.2 7.6-46.8 8.7-26.6 1.2-34.5 1.5-101.8 1.5s-75.2-.3-101.8-1.5c-24.6-1.1-37.9-5.2-46.8-8.7-11.8-4.6-20.2-10-29-18.8s-14.3-17.2-18.8-29c-3.4-8.9-7.6-22.2-8.7-46.8-1.2-26.6-1.5-34.5-1.5-101.8s.3-75.2 1.5-101.8c1.1-24.6 5.2-37.9 8.7-46.8 4.6-11.8 10-20.2 18.8-29s17.2-14.3 29-18.8c8.9-3.4 22.2-7.6 46.8-8.7 26.6-1.3 34.5-1.5 101.8-1.5m0-45.4c-68.4 0-77 .3-103.9 1.5C125.3 6.8 107 11.1 91 17.3c-16.6 6.4-30.6 15.1-44.6 29.1-14 14-22.6 28.1-29.1 44.6-6.2 16-10.5 34.3-11.7 61.2C4.4 179 4.1 187.6 4.1 256s.3 77 1.5 103.9c1.2 26.8 5.5 45.1 11.7 61.2 6.4 16.6 15.1 30.6 29.1 44.6 14 14 28.1 22.6 44.6 29.1 16 6.2 34.3 10.5 61.2 11.7 26.9 1.2 35.4 1.5 103.9 1.5s77-.3 103.9-1.5c26.8-1.2 45.1-5.5 61.2-11.7 16.6-6.4 30.6-15.1 44.6-29.1 14-14 22.6-28.1 29.1-44.6 6.2-16 10.5-34.3 11.7-61.2 1.2-26.9 1.5-35.4 1.5-103.9s-.3-77-1.5-103.9c-1.2-26.8-5.5-45.1-11.7-61.2-6.4-16.6-15.1-30.6-29.1-44.6-14-14-28.1-22.6-44.6-29.1-16-6.2-34.3-10.5-61.2-11.7-27-1.1-35.6-1.4-104-1.4z"/><path d="M256 126.6c-71.4 0-129.4 57.9-129.4 129.4s58 129.4 129.4 129.4 129.4-58 129.4-129.4-58-129.4-129.4-129.4zm0 213.4c-46.4 0-84-37.6-84-84s37.6-84 84-84 84 37.6 84 84-37.6 84-84 84z"/><circle cx="390.5" cy="121.5" r="30.2"/></svg><span class="icon__fallback-text">Instagram</span>
+                  </a>
+                </li><li class="social-icons__item">
+                  <a class="social-icons__link" href="https://www.youtube.com/channel/UCkCsltnIUXMytGuKa43tptg" aria-describedby="a11y-external-message"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-youtube" viewBox="0 0 21 20"><path fill="#444" d="M-.196 15.803q0 1.23.812 2.092t1.977.861h14.946q1.165 0 1.977-.861t.812-2.092V3.909q0-1.23-.82-2.116T17.539.907H2.593q-1.148 0-1.969.886t-.82 2.116v11.894zm7.465-2.149V6.058q0-.115.066-.18.049-.016.082-.016l.082.016 7.153 3.806q.066.066.066.164 0 .066-.066.131l-7.153 3.806q-.033.033-.066.033-.066 0-.098-.033-.066-.066-.066-.131z"/></svg><span class="icon__fallback-text">YouTube</span>
+                  </a>
+                </li></ul></div><div class="grid__item medium-up--hide one-half small--one-whole"></div><div class="grid__item small--one-whole  site-footer-item-align-right" style="padding: 10px;">
+        <small class="site-footer__copyright-content">&copy; 2023, <a href="/" title="">Fresh Options</a></small>
+        <small class="site-footer__copyright-content site-footer__copyright-content--powered-by"><a target="_blank" rel="nofollow" href="https://www.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore">Powered by Shopify</a></small>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+
+
+</div>
+
+    <div id="slideshow-info" class="visually-hidden" aria-hidden="true">Use left/right arrows to navigate the slideshow or swipe left/right if using a mobile device</div>
+
+  </div>
+
+  <ul hidden>
+    <li id="a11y-refresh-page-message">Choosing a selection results in a full page refresh.</li>
+    <li id="a11y-selection-message">Press the space key then arrow keys to make a selection.</li>
+  </ul>
+<script type='text/javascript' src='https://cart.apphero.co/app.php?shop=freshoptionfnb.myshopify.com' ></script><script src='/assets/ndnapps-easyfaqs.js?v=67316984643200495391699248934' defer='defer'></script> 
+
+<style type="text/css">
+  
+  button > * {
+    pointer-events: none;
+  }
+</style>
+<script type="text/javascript">
+//Isolate script scope
+(function (){
+  window.baMsg = {
+     "remote_id": "27341619287",
+     "shopify_domain": "freshoptionfnb.myshopify.com",
+     "fb_page_id": "100757078305014",
+     "locale": "en_US",
+     "app_id": 369783430202516,
+     "use_stm_callback": "",
+     "user_ref": 'ba_27341619287_' + Math.random().toString(36).substring(5) + '_' + Math.floor(Math.random() * (9999999 - 1000000)),
+     "atc_preference": "fb",
+     "active_fb_atc_shown": false,
+     "active_sms_atc_shown": false,
+     "app_url": "/apps/ba_fb_app",
+     "page_url": window.location.href,
+     "is_preview": (window.location.href.indexOf("ba-preview") != -1),
+     "is_generating": (window.location.href.indexOf("ba_action=generate") != -1),
+     "fb_active": true,
+     "sms_active": false,
+     "push_active": false,
+     "ab_active": false
+  };
+
+  baMsg.debug = function (enabled) {
+    if (enabled === false) {
+      baMet.destroyCookie("baMsg_debug");
+    } else {
+      baMet.setCookie("baMsg_debug", "t", 365 * 24 * 60);
+    }
+    return true;
+  };
+
+  baMsg.log = function(message){
+    if (baMet.getCookie("baMsg_debug")) {
+      window.console.log(message);
+    }
+  }
+
+
+  function getParameterByName(name, url) {
+    if (!url) url = window.location.href;
+    name = name.replace(/[\[\]]/g, '\\$&');
+    var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+        results = regex.exec(url);
+    if (!results) return null;
+    if (!results[2]) return '';
+    return decodeURIComponent(results[2].replace(/\+/g, ' '));
+  }
+
+  function getUrlParam(paramName) {
+    var params = {};
+    window.location.search.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(str,key,value) {
+      params[key] = value;
+    });
+    return params[paramName];
+  }
+
+  function hasFlag(flag){
+    return window.baMsg.settings.flags[flag] == true
+  }
+
+  function getAtcButton(){
+    var addToCartBtn = document.querySelector('[name=add]');
+    if (!addToCartBtn || addToCartBtn.length === 0){
+      addToCartBtn = document.getElementsByClassName("btn-addtocart")[0];
+    }
+    if (!addToCartBtn || addToCartBtn.length === 0){
+      addToCartBtn = document.getElementsByClassName("button-cart")[0];
+    }
+    if (!addToCartBtn || addToCartBtn.length === 0){
+      addToCartBtn = document.getElementsByClassName("product-add")[0];
+    }
+    if (!addToCartBtn || addToCartBtn.length === 0){
+      addToCartBtn = document.getElementsByClassName("add-to-cart")[0] !== undefined ? document.getElementsByClassName("add-to-cart")[0].getElementsByTagName('input')[0] : null;
+    }
+    return addToCartBtn;
+  }
+
+  function canDisplayByDevice(devices) {
+    if (devices !== 'all') {
+      var isMobile = (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent));
+      if (devices === 'desktop' && isMobile){ return false;}
+      if (devices === 'mobile' && !isMobile){ return false;}
+    }
+    return true;
+  }
+
+  function getProductForm() {
+    var form = document.getElementById('add-item-form');
+    if (!form || form.length === 0){
+        form = document.getElementsByClassName("product-form")[1];
+    }
+    if (!form || form.length === 0){
+        form = document.querySelector("form[action='/cart/add']");
+    }
+    if (!form || form.length === 0){
+        form = document.querySelector("form[action^='/cart/add']");
+    }
+    if (!form || form.length === 0){
+        form = document.querySelector("form[action$='/cart/add']");
+    }
+    if (!form || form.length === 0){
+        form = document.querySelector("form[action='/cart/add.js']");
+    }
+    if (!form || form.length === 0){
+        form = document.querySelector("form[action='/cart/add?return=/']");
+    }
+    if (!form || form.length === 0){
+        form = document.getElementsByClassName("product-form")[0];
+    }
+    if (!form || form.length === 0){
+        form = document.getElementsByClassName("btn-addtocart")[0];
+    }
+    return form
+  }
+
+  function canDisplayByRules(rules) {
+    var pageURL = window.location.href;
+    var url = new URL(pageURL);
+    var pathname = (url.pathname.length === 1) ? '' : url.pathname.length;
+    var urlWOParams = url.origin + pathname;
+
+    var canDisplay = rules.length === 0;
+
+    for (var i = 0; i < rules.length; i++) {
+      var rule = rules[i];
+
+      if (rule.rule === 'match') {
+        if (rule.operator === 'true') {
+          if (rule.string === pageURL || rule.string === urlWOParams) {
+            canDisplay = true;
+          }
+        } else if (rule.string === pageURL || rule.string === urlWOParams) {
+          canDisplay = false;
+          break;
+        }
+      }
+
+      if (rule.rule === 'begin_with') {
+        var stringLength = rule.string.length;
+
+        if (rule.operator === 'true') {
+          if (rule.string === pageURL.substr(0, stringLength) || rule.string === urlWOParams.substr(0, stringLength)) {
+            canDisplay = true;
+          }
+        } else if (rule.string === pageURL.substr(0, stringLength) || rule.string === urlWOParams.substr(0, stringLength)) {
+          canDisplay = false;
+          break;
+        }
+      }
+
+      if (rule.rule === 'contains') {
+        if (rule.operator === 'true') {
+          if (pageURL.indexOf(rule.string) !== -1 || urlWOParams.indexOf(rule.string) !== -1) {
+            canDisplay = true;
+          }
+        } else if (pageURL.indexOf(rule.string) !== -1 || urlWOParams.indexOf(rule.string) !== -1) {
+          canDisplay = false;
+          break;
+        }
+      }
+    }
+
+    return canDisplay;
+  }
+
+  function updateSubscriberHash(updateHash){
+    var updatedSubscriberHash = window.baMsg.subscriber_hash;
+    for (var prop in updateHash) {
+      updatedSubscriberHash[prop] = updateHash[prop];
+    }
+    var subscriberKey = "ba_msg_subscriber_" + baMet.getVisitorToken();
+    localStorage.setItem(subscriberKey, JSON.stringify(updatedSubscriberHash));
+    window.BoosterApps.can_update_cart = true;
+  }
+
+  function applyMet(metName){
+    eventHash = {}
+    //baMet.apply(metName, eventHash, "ba_msg");
+  }
+
+  function getCartSessionId(){
+    return baMet.getCookie("baMet_cs_id");
+  }
+
+  function isHidden(el) {
+    return (el.offsetParent === null)
+  }
+
+  function handleAtcClick(event){
+    var subscriberHash = window.baMsg.subscriber_hash;
+    var atcPref = window.baMsg.atc_preference;
+    if (atcPref == 'fb'){
+      window.baMsg.showFbAtcModal(event);
+    } else if (atcPref == 'sms'){
+      window.baMsg.showSmsAtcModal(event);
+    }
+  }
+
+  function listentoAtc(){
+    window.baMet.onBaEv("click", ".product-form__cart-submit, .product-form__cart-submit span, #AddToCart-product-template, .product-atc-btn, .product-menu-button.product-menu-button-atc, .button-cart, .product-add, .add-to-cart input, .btn-addtocart, [name=add]", function (e){
+      baMsg.log(e)
+      var addToCartBtn = (e.target);
+      window.baMsg.active_atc = addToCartBtn;
+      addToCartBtn.classList.add('ba-click-ready');
+      if (window.baMsg.fb_active && window.baMsg.fb_page_id){
+        try {
+          handleAtcClick(e)
+        } catch(err){
+          console.log(err);
+        }
+      }
+    });
+  }
+
+  function documentReady(callback) {
+    document.readyState === "interactive" || document.readyState === "complete" ? callback() : document.addEventListener("DOMContentLoaded", callback);
+  }
+
+documentReady(function() {
+  var baFbPresent = (document.getElementsByTagName('head')[0].innerHTML.search("ba_fb_" + window.baMsg.remote_id) > 0);
+  if (!baFbPresent){return;}
+
+  window.baMsg.visitor_token = window.baMet.getVisitorToken();
+  window.baMsg.session_token = window.baMet.getVisitToken();
+  window.baMsg.cart_uid  = baMet.getCookie('baMet_cs_id');
+  window.baMsg.browser_info = window.baMet.getBrowserInfo();
+
+  var baSubscriberKey = "ba_msg_subscriber_" + window.baMsg.visitor_token;
+  var rawSubscriber   = localStorage.getItem(baSubscriberKey);
+  var baSubscriberHash = JSON.parse(rawSubscriber || "{}");
+  window.baMsg.subscriber_hash = baSubscriberHash;
+  if (rawSubscriber){
+    window.BoosterApps.can_update_cart = true;
+  } else {
+    window.BoosterApps.can_update_cart = false;
+  }
+
+  var baId = window.baMet.getCookie("baid");
+  var ba_fb_opted_in_cookie = window.baMet.getCookie("ba_opted_in");
+
+  if(baId && ba_fb_opted_in_cookie && !rawSubscriber){
+    window.baMsg.handle_legacy = true;
+    //This is a V1 subscriber. Upgrade to V2
+    var fbchk_opted_in_cookie = window.baMet.getCookie("fbchk_opted_in");
+    var ba_modal_opted_in_cookie = window.baMet.getCookie("ba_modal_opted_in");
+    var ba_atc_popup_opted_in_cookie = window.baMet.getCookie("ba_atc_popup_opted_in");
+    var rightNow = parseInt(new Date().getTime());
+    var updateHash = {legacy: true};
+    if (ba_fb_opted_in_cookie){
+      updateHash["ba_fb_opted_in"] = rightNow;
+    }
+    if (fbchk_opted_in_cookie){
+      updateHash["ba_fbchk_opted_in"] = rightNow;
+    }
+    if (ba_modal_opted_in_cookie){
+      updateHash["ba_fb_modal_opted_in"] = rightNow;
+    }
+    if (ba_atc_popup_opted_in_cookie){
+      updateHash["ba_fb_atc_popup_opted_in"] = rightNow;
+    }
+    updateSubscriberHash(updateHash);
+    var data = {
+      action_type: 'update_legacy_sub', session_token: baId,
+      visitor_token: window.baMsg.visitor_token, cart_uid: window.baMsg.cart_uid,
+      tz_offset: window.baMsg.browser_info.tz_offset, cart_token: window.baMet.getCookie('cart')
+    }
+    baMet.sendRequest(window.baMsg.app_url, data, function(resp) {
+      baMsg.log('legacy sub updated')
+      updateSubscriberHash({legacy_updated: rightNow});
+    });
+  }
+
+
+  if (window.BoosterApps.common.customer && !window.baMsg.subscriber_hash.customer_synced_at){
+    var data = {
+      action_type: 'sync_customer', visitor_token: window.baMsg.visitor_token,
+      sync_data: window.BoosterApps.common.customer
+    }
+    baMet.sendRequest(window.baMsg.app_url, data, function(resp) {
+      baMsg.log('sub sync updated')
+      rightNow = parseInt(new Date().getTime());
+      updateSubscriberHash({customer_synced_at: rightNow, cus_id: window.BoosterApps.common.customer.id});
+    });
+  }
+
+
+  window.baMsg.settings = {
+    fb_base: {
+      "id":48,
+      "shop_id":27341619287,
+      "active": 1,
+      "visible":1,
+      "type":"discount",
+      "text":"Get 10% discount",
+      "checked_text": "Your discount: %discountCode",
+      "placement": "under_cart",
+      "text_placement": "above",
+      "background_color": "#fff",
+      "icon_background_color": "#f7f7f7",
+      "color": "#000",
+      "checked_color": "#000",
+      "border_color":"#e5e5e5",
+      "font_size":14,
+      "font_style":"normal",
+      "margin_top":15,
+      "margin_bottom":10,
+      "icon":"discount_1",
+      "checked_icon":"check_1",
+      "border_width":1,
+      "border_style":"solid",
+      "border_radius":5,
+      "align":"left",
+      "button_text":"Get Discount Code",
+      "button_background_color":"",
+      "button_text_color":"#555555",
+      "button_font_size":14,
+      "button_font_style":"bold",
+      "button_border_color":"#eee",
+      "button_border_width":1,
+      "button_border_radius":5,
+      "discount_code":"<PUT YOUR DISCOUNT CODE HERE>",
+      "subtitle": ""
+    },
+    fb_modal: {
+      "shop_id":27341619287,
+      "active":1,
+      "title":"Hi! Opt-in and recieve a discount!",
+      "subtitle":"Just click on &quot;Send To Messenger&quot; and you will automatically be opted-in!",
+      "submitted_title":"Thanks for opt-ing in!",
+      "submitted_subtitle":"Your discount code is: %discountCode!&#39;",
+      "button_text":"View in Messenger",
+      "send_color":"blue",
+      "send_size":"large",
+      "background_color":"#fff",
+      "title_color":"#000",
+      "subtitle_color":"#808080",
+      "button_color":"#fff",
+      "button_text_color":"#000",
+      "border_color":"#eee",
+      "display":"immediately",
+      "delay":3,
+      "devices":"all",
+      "message":"Hi! Thanks for opt-ing in. Your discount code is: %discountCode! Enjoy!",
+      "image_name":"",
+      "submitted_image_name":"",
+      "image_placement":"above_title",
+      "submitted_image_placement":"above_title",
+      "discount_code":"DISCOUNT_CODE_HERE",
+      "rules": JSON.parse('[] ')
+    },
+    fb_atc_popup: {
+      "shop_id":27341619287,
+      "active":1,
+      "title":"Join us on Messenger",
+      "paragraph":"Sign up and gain access to new products, exclusive deals, and discounts before anybody else!",
+      "no_thanks_text":"No thanks",
+      "close_button":"1",
+      "plugin_type":"send_to_messenger",
+      "button_cta":"SEND_TO_MESSENGER",
+      "button_cta_color":"blue",
+      "header_bg_color":"#f4f6f8",
+      "body_bg_color":"#fff",
+      "header_text_color":"#626974",
+      "paragraph_text_color":"#626974",
+      "no_thanks_text_color":"#626974"
+    }
+  }
+
+  //update last seen at if subscriber active
+  if (window.baMsg.subscriber_hash.ba_fb_opted_in && window.baMsg.ab_active && window.baMsg.cart_uid && !window.baMsg.handle_legacy){
+    var data = {"action_type": 'heartbeat', visitor_token: window.baMsg.visitor_token, "cart_uid": window.baMsg.cart_uid}
+    baMet.sendRequest(window.baMsg.app_url, data, function(resp) {
+      baMsg.log('heartbeat recorded')
+    });
+  }
+
+  if (window.baMsg.is_generating == true){
+    var cartUid = getParameterByName('cart_uid');
+    var baId    = getParameterByName('baid');
+    if (cartUid || baId){
+      var abStep = getParameterByName('ab_step');
+      var baCheckoutUrl = getParameterByName('ba_checkout_url');
+      var baChannel = getParameterByName('channel');
+      var overlayWrapper = document.createElement('div');
+      overlayWrapper.id = 'ba-overlay';
+      overlayWrapper.setAttribute('style', 'position: fixed;display: block;width: 100%;height: 100%;top: 0;left: 0;right: 0;bottom: 0;background-color: rgba(0,0,0,0.8);z-index: 9999999999999;cursor: pointer;');
+      var overlayTextDiv = document.createElement('div');
+      overlayTextDiv.innerHTML = "Please wait... Generating cart";
+      overlayTextDiv.setAttribute('style', 'position: absolute;top: 50%;left: 50%;font-size: 22px;color: white;transform: translate(-50%,-50%);-ms-transform: translate(-50%,-50%);');
+      overlayWrapper.appendChild(overlayTextDiv);
+      document.getElementsByTagName('body')[0].appendChild(overlayWrapper);
+
+      //get the cart
+      var data = {"action_type": 'generate_cart', "ab_step": + abStep,
+        "cart_uid": window.baMsg.cart_uid, "baid": baId, "channel": baChannel
+      }
+      baMet.sendRequest(window.baMsg.app_url, data, function(resp) {
+        window.location = baCheckoutUrl + "?attributes[from]=Booster%20Apps%20Abandoned%20Cart%20Notification";
+      });
+      return;
+    }
+  }
+
+  function boosterFBLoader(){
+  this.load = function () {
+    (function (d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)){return;}
+      js = d.createElement(s);
+      js.id = id;
+      // js.src = "https://connect.facebook.net/" + locale + "/sdk.js";
+      js.src = "https://connect.facebook.net/" + window.baMsg.locale + "/sdk/xfbml.customerchat.js";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+
+    window.fbLoaded = (new Deferred());
+    window.fbAsyncInit = function () {
+      initFb();
+      window.fbScriptHasLoaded = true;
+    };
+
+    setTimeout(function () {
+      if (!window.fbScriptHasLoaded) {
+        if (typeof FB === 'undefined') {
+          setTimeout(function () {
+            initFb();
+          }, 2000);
+        } else {
+          initFb();
+        }
+      }
+    }, 3000);
+  };
+
+  function initFb() {
+    FB.init({
+      appId: window.baMsg.app_id,
+      autoLogAppEvents: true,
+      xfbml: true,
+      version: 'v3.0'
+    });
+    window.fbLoaded.resolve();
+  }
+
+  function Deferred() {
+    var self = this;
+    this.promise = new Promise(function (resolve, reject) {
+      self.reject = reject;
+      self.resolve = resolve;
+    });
+  }
+
+  this.loadChat = function (chatSettings) {
+    var isChatInPreview = (document.location.search.indexOf("ba-chat-preview") != -1)
+
+    if (chatSettings.active || isChatInPreview) {
+      window.fbLoaded.promise.then(function(){
+        var chatBox = document.createElement('div');
+        chatBox.classList = 'fb-customerchat';
+        chatBox.setAttribute('page_id', window.baMsg.fb_page_id);
+        chatBox.setAttribute('greeting_dialog_display', chatSettings.minimized ? 'hide' : 'show');
+        chatBox.setAttribute('theme_color', chatSettings.theme_color);
+        var dataRef = 'CUSTOMER_CHAT_PLUGIN:customer_chat_plugin:';
+
+        if (window.baMsg.visitor_token !== ''){
+          dataRef += window.baMsg.visitor_token;
+        }
+        chatBox.setAttribute('ref', dataRef);
+
+        if (chatSettings.logged_in_greeting !== null){chatBox.setAttribute('logged_in_greeting', chatSettings.logged_in_greeting);}
+        if (chatSettings.logged_out_greeting !== null){chatBox.setAttribute('logged_out_greeting', chatSettings.logged_out_greeting);}
+        document.body.appendChild(chatBox);
+      });
+    }
+  };
+
+  return this;
+}
+
+function hideFbOptIns(element){
+  if (element == 'atc_popup'){
+    document.getElementById('fb-messenger-checkbox').setAttribute('style', 'display:none;');
+  }
+}
+
+function trackFbOptIn(cartData, element){
+  var parsedCartData = JSON.parse(cartData);
+  var data = {
+    channel: 'fb',
+    element: element,
+    visitor_token: window.baMsg.visitor_token,
+    fb_pid: window.baMsg.fb_page_id,
+    cart_data: parsedCartData,
+    action_type: 'track_opt_in',
+    user_ref: window.baMsg.user_ref,
+    cart_uid: window.baMsg.cart_uid,
+    tz_offset: window.baMsg.browser_info.tz_offset,
+    os: window.baMsg.browser_info.os,
+    browser: window.baMsg.browser_info.browser
+  };
+  baMet.sendRequest(window.baMsg.app_url, data, function(){
+    baMsg.log(data);
+    hideFbOptIns(element);
+  });
+}
+
+
+function boosterFbCheckboxes() {
+  var self    = this;
+  this.alignWraper = function(wrapperElement,align)  {
+    //Default value is center
+    wrapperElement.style.marginRight = 'auto';
+    wrapperElement.style.marginLeft  = 'auto';
+    if (align === 'left')  {
+      wrapperElement.style.marginLeft = '0px';
+    }
+    if (align === 'right')  {
+      wrapperElement.style.marginRight = '0px';
+    }
+  }
+
+  
+
+      this.generate = function(settings){
+        if (window.baMsg.page_url.indexOf('products') !== -1) {
+          if (!window.baMsg.is_preview){
+            if (!settings.active){return;}
+            if (window.baMsg.subscriber_hash.ba_fbchk_opted_in){return;}
+            if (window.baMsg.subscriber_hash.ba_fb_opted_in){return;}
+          }
+          var form = getProductForm();
+          if (!form || form.length === 0 || (window.baMsg.subscriber_hash.ba_fbchk_opted_in && !window.baMsg.is_preview)){
+            return;
+          }
+          var addToCartBtn = getAtcButton();
+          var messengerWrapper = document.createElement('div');
+          messengerWrapper.classList.add('ba-fbchk-wrapper');
+          messengerWrapper.setAttribute('style', 'display:block;clear:both;min-width:270px;height:1px;');
+          messengerWrapper.style.color = settings.color;
+          messengerWrapper.style.fontSize = settings.font_size + 'px';
+          messengerWrapper.style.marginTop = settings.margin_top + 'px';
+          messengerWrapper.style.marginBottom = settings.margin_bottom + 'px';
+          messengerWrapper.style.opacity = '0';
+          if (settings.font_style === 'italic-bold') {
+            messengerWrapper.style.fontWeight = 'bold';
+            messengerWrapper.style.fontStyle = 'italic'
+          } else {
+            messengerWrapper.style.fontWeight = settings.font_style;
+            messengerWrapper.style.fontStyle = settings.font_style
+          }
+          var discountBox = document.createElement('div');
+          discountBox.classList.add('ba-discount-box');
+          discountBox.setAttribute('style', 'position:relative;height:76px;max-width:350px;min-width:270px;overflow:hidden;');
+          discountBox.style.boxShadow = '0 0 0 ' + settings.border_width + 'px ' + settings.border_color;
+          discountBox.style.borderRadius = settings.border_radius + 'px';
+          var cartBtn = addToCartBtn ? addToCartBtn : form.getElementsByTagName('button')[0];
+          var selects = form.getElementsByTagName('select');
+            //Cart width is smaller than 351
+          if (cartBtn.offsetWidth > 0 && cartBtn.offsetWidth < 351 && (selects.length === 0 || selects[0].offsetParent === null)) {
+              messengerWrapper.style.maxWidth = cartBtn.offsetWidth + 'px';
+              discountBox.style.maxWidth = cartBtn.offsetWidth + 'px';
+          } else {
+              messengerWrapper.style.maxWidth = '350px';
+              discountBox.style.maxWidth = '350px'
+          }
+          this.alignWraper(messengerWrapper,settings.align)
+          var iconDiv = document.createElement('div');
+          iconDiv.setAttribute('style', 'position:absolute;left:0;width:25%;padding:13px 0;height:100%;text-align:center;');
+          iconDiv.style.backgroundColor = settings.icon_background_color;
+          iconDiv.style.borderTopLeftRadius = settings.border_radius + 'px';
+          iconDiv.style.borderBottomLeftRadius = settings.border_radius + 'px';
+          var iconImg = document.createElement('img');
+          iconImg.src = 'https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/' + settings.icon + '.png?4295918388649998166';
+          iconImg.style.height = '48px';
+          iconDiv.appendChild(iconImg);
+          var checkboxWrapper = document.createElement('div');
+          checkboxWrapper.setAttribute('style', 'position:absolute;left:0;height:100%;margin-left:25%;width:75%;display:table;');
+          checkboxWrapper.style.borderLeft = settings.border_width + 'px dashed ' + settings.border_color;
+          checkboxWrapper.style.backgroundColor = settings.background_color;
+          var messengerDiv = document.createElement('div');
+          messengerDiv.classList = 'fb-messenger-checkbox';
+          messengerWrapper.id = 'fb-messenger-checkbox';
+          messengerDiv.setAttribute('style', 'display:inline-block!important;position:relative!important;max-width:180px;overflow:hidden;margin-top:3px;margin-left:15px;');
+          messengerDiv.setAttribute('origin', 'https://freshoptions.ph');
+          messengerDiv.setAttribute('page_id', window.baMsg.fb_page_id);
+          messengerDiv.setAttribute('messenger_app_id', window.baMsg.app_id);
+          messengerDiv.setAttribute('user_ref', window.baMsg.user_ref);
+          messengerDiv.setAttribute('prechecked', !0);
+          messengerDiv.setAttribute('allow_login', !0);
+          messengerDiv.setAttribute('size', 'large');
+          checkboxWrapper.appendChild(messengerDiv);
+          discountBox.appendChild(iconDiv);
+          discountBox.appendChild(checkboxWrapper);
+          var optInButton = document.createElement('div');
+          optInButton.classList.add('ba-opt-in-confirm');
+          optInButton.setAttribute('style', 'margin-top:10px;width:100%;border:none;min-width:250px;cursor:pointer;text-align:center;padding:3px');
+          optInButton.style.boxShadow = '0 0 0 ' + settings.button_border_width + 'px ' + settings.button_border_color;
+          optInButton.style.borderRadius = settings.button_border_radius + 'px';
+          optInButton.style.backgroundColor = settings.button_background_color;
+          optInButton.style.fontWeight = settings.button_font_style;
+          optInButton.style.fontStyle = settings.button_font_style;
+          optInButton.style.color = settings.button_text_color;
+          optInButton.innerHTML = settings.button_text;
+          optInButton.addEventListener('click', function() {
+            shakeBox(discountBox)
+          }, !1);
+          var baTitle = document.createElement('div');
+          baTitle.classList = 'ba-title';
+          baTitle.setAttribute('style', 'max-width:350px;min-width:250px;display:block;text-align:center;');
+          baTitle.innerHTML = settings.text;
+          var subtitle = document.createElement('div');
+          subtitle.classList = 'ba-subtitle';
+          subtitle.setAttribute('style', 'max-width:350px;min-width:250px;display:block;text-align:center;');
+          subtitle.innerHTML = settings.subtitle;
+          subtitle.style.fontSize = (settings.font_size - 2) + 'px';
+          if (settings.text_placement === 'above') {
+              baTitle.style.marginBottom = '11px';
+              subtitle.style.marginBottom = '11px';
+              messengerWrapper.appendChild(baTitle);
+              if (settings.subtitle !== '' && settings.subtitle !== null && settings.subtitle.length > 0) {
+                  baTitle.style.marginBottom = '5px';
+                  messengerWrapper.appendChild(subtitle)
+              }
+              messengerWrapper.appendChild(discountBox);
+              messengerWrapper.appendChild(optInButton)
+          } else {
+              messengerWrapper.appendChild(discountBox);
+              messengerWrapper.appendChild(optInButton);
+              messengerWrapper.appendChild(baTitle);
+              baTitle.style.marginTop = '11px';
+              messengerWrapper.appendChild(baTitle);
+              if (settings.subtitle !== '' && settings.subtitle !== null && settings.subtitle.length > 0) {
+                  subtitle.style.marginTop = '5px';
+                  messengerWrapper.appendChild(subtitle)
+              }
+          }
+          window.fbLoaded.promise.then(function(){
+            if (settings.placement === 'custom') {
+              var checkbox = document.getElementsByClassName('ba-checkbox');
+              if (checkbox.length > 0) {
+                checkbox = checkbox[0];
+                checkbox.appendChild(messengerWrapper)
+              }
+            } else{
+              form.parentNode.insertBefore(messengerWrapper, settings.placement === 'under_cart' ? form.nextSibling : form);
+            }
+            FB.Event.subscribe('xfbml.render', function(e) {
+              baMsg.log('rendered')
+              messengerWrapper.style.opacity = '1';
+              messengerWrapper.style.height = 'inherit';
+              applyMet('fb_chk_view');
+            });
+            FB.Event.subscribe('messenger_checkbox', function(e) {
+              if (e.event === 'checkbox') {
+                if (e.state === 'checked') {
+                  var optInButton = document.getElementsByClassName('ba-opt-in-confirm')[0];
+                  var optInButtonClone = optInButton.cloneNode(!0);
+                  optInButton.parentNode.replaceChild(optInButtonClone, optInButton);
+                  optInButtonClone.addEventListener('click', function(){
+                    confirmFbChkOptIn('discount', !0);
+                    messengerWrapper.style.opacity = 0;
+                    if (settings.checked_text.length > 0) {
+                      setTimeout(function() {
+                        iconImg.src = 'https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/' + settings.checked_icon + '.png?4295918388649998166';
+                        document.getElementsByClassName('ba-title')[0].style.display = 'none';
+                        messengerDiv.style.display = 'none';
+                        optInButtonClone.style.display = 'none';
+                        var checkedDiv = document.createElement('div');
+                        checkedDiv.setAttribute('style', 'padding-left: 10px;display:table-cell;vertical-align:middle;');
+                        checkedDiv.style.color = settings.checked_color;
+                        checkedDiv.innerHTML = settings.discount_code === null ? settings.checked_text : settings.checked_text.replace('%discountCode', settings.discount_code);
+
+                        var checkedButton = document.createElement('div');
+                        checkedButton.setAttribute('style', 'margin-top:10px;width:100%;border:none;min-width:250px;cursor:pointer;text-align:center;padding:3px');
+                        checkedButton.style.boxShadow = '0 0 0 ' + settings.button_border_width + 'px ' + settings.button_border_color;
+                        checkedButton.style.borderRadius = settings.button_border_radius + 'px';
+                        checkedButton.style.backgroundColor = settings.button_background_color;
+                        checkedButton.style.fontWeight = settings.button_font_style;
+                        checkedButton.style.fontStyle = settings.button_font_style;
+                        checkedButton.style.color = settings.button_text_color;
+                        checkedButton.innerHTML = 'Copy Discount Code'
+                        checkedButton.addEventListener('click', function() {
+                          var tempCopyInput = document.createElement('input');
+                          tempCopyInput.value = settings.discount_code;
+                          document.getElementsByTagName('body')[0].appendChild(tempCopyInput);
+                          tempCopyInput.select();
+                          document.execCommand("copy");
+                          document.body.removeChild(tempCopyInput);
+                        }, !1);
+
+                        setTimeout(function() {
+                          messengerWrapper.style.opacity = 1
+                        }, 1000);
+                        checkboxWrapper.appendChild(checkedDiv)
+                        messengerWrapper.appendChild(checkedButton)
+                      }, 1000)
+                    }
+                  })
+                } else {
+                  var optInButton = document.getElementsByClassName('ba-opt-in-confirm')[0];
+                  var optInButtonClone = optInButton.cloneNode(!0);
+                  optInButton.parentNode.replaceChild(optInButtonClone, optInButton);
+                  optInButtonClone.addEventListener('click', function() {
+                    shakeBox(discountBox)
+                  }, !1)
+                }
+              }
+            })
+          });
+          window.onresize = function() {
+            var cartBtn = addToCartBtn ? addToCartBtn : form.getElementsByTagName('button')[0];
+            if (cartBtn.offsetWidth > 0 && cartBtn.offsetWidth < 351 && (selects.length === 0 || selects[0].offsetParent === null)) {
+              messengerWrapper.style.maxWidth = cartBtn.offsetWidth + 'px';
+              discountBox.style.maxWidth = cartBtn.offsetWidth + 'px';
+            } else {
+              messengerWrapper.style.maxWidth = '350px';
+              discountBox.style.maxWidth = '350px'
+            }
+            self.alignWraper(messengerWrapper,settings.align)
+          }
+        }
+      };
+
+      function shakeBox(elem) {
+        shake(elem, 16);
+      }
+
+      var shake = function (element, magnitude) {
+        //A counter to count the number of shakes
+        var counter = 1;
+        //The total number of shakes (there will be 1 shake per frame)
+        var numberOfShakes = 10;
+        //Capture the element's position and angle so you can
+        //restore them after the shaking has finished
+        var startX = 0,
+          startY = 0;
+        // Divide the magnitude into 10 units so that you can
+        // reduce the amount of shake by 10 percent each frame
+        var magnitudeUnit = magnitude / numberOfShakes;
+        var randomInt = function(min, max){
+          return Math.floor(Math.random() * (max - min + 1)) + min;
+        };
+        upAndDownShake();
+        function upAndDownShake() {
+          //Shake the element while the `counter` is less than
+          //the `numberOfShakes`
+          if (counter < numberOfShakes) {
+            //Reset the element's position at the start of each shake
+            element.style.transform = 'translate(' + startX + 'px, ' + startY + 'px)';
+            //Reduce the magnitude
+            magnitude -= magnitudeUnit;
+            //Randomly change the element's position
+            var randomX = randomInt(-magnitude, magnitude);
+            var randomY = randomInt(-magnitude, magnitude);
+            element.style.transform = 'translate(' + randomX + 'px, ' + randomY + 'px)';
+            //Add 1 to the counter
+            counter += 1;
+            requestAnimationFrame(upAndDownShake);
+          }
+          //When the shaking is finished, restore the element to its original
+          //position and remove it from the `shakingElements` array
+          if (counter >= numberOfShakes) {
+            element.style.transform = 'translate(' + startX + ', ' + startY + ')';
+          }
+        }
+
+      };
+
+  
+
+  function confirmFbChkOptIn(chkType, optedIn) {
+    if (chkType == 'regular' && !checkboxChecked){
+      return;
+    } else if (chkType == 'discount' && (!optedIn || window.baMsg.subscriber_hash.ba_fbchk_opted_in)){
+      return;
+    }
+
+    baMet.getCartData(function(data){
+      var cartToken = JSON.parse(data).token;
+      if (!window.baMsg.subscriber_hash.ba_fbchk_opted_in){
+        var rightNow = parseInt(new Date().getTime());
+        var updateHash = {
+          ba_fbchk_opt_in_cart_token: cartToken,
+          ba_fbchk_opted_in: rightNow,
+          ba_fb_opted_in: rightNow
+        }
+        updateSubscriberHash(updateHash);
+        FB.AppEvents.logEvent('MessengerCheckboxUserConfirmation', null, {
+            'app_id': window.baMsg.app_id,
+            'page_id': window.baMsg.fb_page_id,
+            'user_ref': window.baMsg.user_ref,
+            'ref': cartToken + '|' + window.baMsg.visitor_token,
+        })
+        trackFbOptIn(data, 'checkbox');
+      }
+    });
+  }
+  return this;
+}
+
+
+
+function boosterFbModal() {
+  window.baLoaded = false;
+
+  this.generate = function (settings) {
+    if (window.baMsg.page_url.indexOf('/checkouts/') !== -1 && window.baMsg.page_url.indexOf('/thank_you') !== -1){
+      return;
+    }
+
+    if (window.baMsg.page_url.indexOf('ba-modal-preview') === -1) {
+      if (!settings.active){return;}
+      if (window.baMsg.subscriber_hash.ba_fb_modal_opted_in){return;}
+      if (window.baMsg.subscriber_hash.ba_fb_opted_in){return;}
+      if (window.baMsg.subscriber_hash.ba_fb_modal_closed){return;}
+      if (!canDisplayByDevice(settings.devices)){return;}
+      //TODO if (!canDisplayByRules(settings.rules)){return;}
+    }
+
+    var modalShade = document.createElement('div');
+    modalShade.classList = 'ba-modal-shade';
+    modalShade.setAttribute('style', 'position: fixed; z-index: 100000; background: rgba(0,0,0,.42); width:100%; height: 100%; opacity: 0;display:none;');
+    modalShade.style.overflow = 'none';
+    modalShade.style.transition = 'all 0.5s';
+
+    window.fbLoaded.promise.then(function(){
+      var s = document.body.firstChild;
+      s.parentNode.insertBefore(modalShade, s);
+    });
+
+    var modal = document.createElement('div');
+    modal.id = 'ba-send-to-messenger-modal';
+    modal.setAttribute('style', 'max-width: 430px; height: auto;z-index:2147483647; border-radius:5px;text-align:center;');
+    modal.style.position = 'relative';
+    modal.style.left = 0;
+    modal.style.right = 0;
+    modal.style.margin = '20px auto';
+    modal.style.marginTop = '10%';
+    modal.style.marginTop = '10vh';
+    modal.style.padding = '15px';
+    modal.style.overflow = 'hidden';
+    modal.style.backgroundColor = settings.background_color;
+
+    if (window.innerHeight < 600) {
+      modalShade.style.overflowY = 'scroll';
+      modalShade.style.zIndex = 2147483647;
+      modal.style.marginTop = '5%';
+      modal.style.marginTop = '5vh';
+    } else if (window.innerHeight < 700) {
+      modalShade.style.overflowY = 'scroll';
+      modalShade.style.zIndex = 2147483647;
+      modal.style.marginTop = '10%';
+      modal.style.marginTop = '10vh';
+    }
+
+    var exitIcon = document.createElement('span');
+    exitIcon.classList = 'ba-modal-close';
+    exitIcon.setAttribute('style', 'position: absolute;right: 10px;top: 5px;cursor: pointer;color: #000;opacity:0.3;font-size:30px;');
+    exitIcon.innerHTML = '&times;';
+
+    modal.appendChild(exitIcon);
+
+    var title = document.createElement('div');
+    title.setAttribute('id', 'ba-fb-modal-title');
+    title.setAttribute('style', 'text-align: center; padding: 20px 20px 15px;font-size: 20px; line-height:24px;');
+    title.style.color = settings.title_color;
+    title.innerHTML = settings.title;
+
+    modal.appendChild(title);
+
+    var description = document.createElement('div');
+    description.setAttribute('style', 'text-align: center;font-size:17px;padding:10px 20px 35px;');
+    description.style.color = settings.subtitle_color;
+    description.innerHTML = settings.subtitle;
+    description.setAttribute('id', 'ba-fb-modal-desc');
+    modal.appendChild(description);
+    var image = document.createElement('img');
+    if (settings.image_name !== null) {
+      image.style.width = '100%';
+      image.src = settings.image_name;
+      if (settings.image_placement === 'above_title') {
+        modal.style.paddingTop = '40px';
+        modal.insertBefore(image, modal.childNodes[0]);
+      } else if (settings.image_placement === 'under_title') {
+        modal.insertBefore(image, title.nextSibling);
+      } else {
+        modal.appendChild(image);
+      }
+    }
+    var width = 125;
+
+    if (settings.send_size === 'standard'){
+      width = 125;
+    } else if (settings.send_size === 'large'){
+      width = 155;
+    } else if (settings.send_size === 'xlarge'){
+      width = 180;
+    }
+
+    var optInBoxWrapper = document.createElement('div');
+    optInBoxWrapper.setAttribute('style', 'margin: 20px auto 30px;');
+    optInBoxWrapper.style.width = width + 'px';
+    modal.appendChild(optInBoxWrapper);
+
+    var dataRef = 'OPT_IN_FROM_SEND_TO_MESSENGER:modal:';
+    if (window.baMsg.visitor_token !== ''){
+      dataRef += window.baMsg.visitor_token;
+    }
+    var optInBox = document.createElement('div');
+    optInBox.classList = 'fb-send-to-messenger';
+    optInBox.setAttribute('messenger_app_id', window.baMsg.app_id);
+    optInBox.setAttribute('page_id', window.baMsg.fb_page_id);
+    optInBox.setAttribute('data-ref', dataRef);
+    optInBox.setAttribute('color', settings.send_color);
+    optInBox.setAttribute('size', settings.send_size);
+    modal.appendChild(optInBox);
+    optInBoxWrapper.appendChild(optInBox);
+    var buttonWrapper = document.createElement('div');
+    buttonWrapper.setAttribute('style', 'margin: 0 auto;padding-bottom: 20px;display:none;');
+    modal.appendChild(buttonWrapper);
+    var button = document.createElement('a');
+    button.setAttribute('target', '_blank');
+    button.href = 'https://m.me/' + window.baMsg.fb_page_id;
+    button.innerHTML = settings.button_text;
+    button.setAttribute('style', 'text-align:center;padding: 10px 20px; border-radius: 5px; margin-bottom: 15px;margin-top:10px;text-decoration: none;');
+    button.style.backgroundColor = settings.button_color;
+    button.style.color = settings.button_text_color;
+    button.style.border = '1px solid ' + settings.border_color;
+    button.onmouseover = function () {button.style.opacity = 0.8;};
+    button.onmouseout = function () {button.style.opacity = 1;};
+    button.onclick = function () {closeModal(false);};
+    buttonWrapper.appendChild(button);
+    modalShade.appendChild(modal);
+
+    switch (settings.display) {
+      case 'immediately':
+        showModal();
+        break;
+      case 'exit_intent':
+        document.addEventListener("mouseleave", function (e) {
+          if (e.clientY < 0) {
+            showModal();
+          }
+        }, false);
+        break;
+      case 'seconds_passed':
+        setTimeout(function () {
+          showModal();
+        }, settings.delay * 1000);
+        break;
+    }
+
+    exitIcon.onclick = function () {
+      closeModal(true);
+    };
+
+    function showModal(){
+      modalShade.style.display = 'block';
+      modalShade.style.opacity = 1;
+      window.baMsg.use_stm_callback = 'modal';
+      applyMet('fb_modal_view');
+    }
+
+    function closeModal(markAsClosed) {
+      modalShade.style.opacity = '0';
+      window.baMsg.use_stm_callback = '';
+      if (markAsClosed){
+        updateSubscriberHash({ba_fb_modal_closed: parseInt(new Date().getTime())});
+        applyMet('ba_fb_modal_close')
+      }
+      setTimeout(function () {
+        document.body.removeChild(modalShade);
+      }, 500);
+    }
+  };
+
+  return this;
+}
+
+function boosterFbAtcModal() {
+  window.baLoaded = false;
+  try{
+    var css = document.createElement('style');
+    css.type = 'text/css';
+    var styles = '@import url("https://fonts.googleapis.com/css?family=Roboto");';
+    css.appendChild(document.createTextNode(styles));
+    document.getElementsByTagName("head")[0].appendChild(css);
+  } catch (err){
+    console.log(err)
+  }
+
+  this.generate = function (settings) {
+    window.baMsg.showFbAtcModal = function(event){
+      if (window.baMsg.active_fb_atc_shown == false && window.baMsg.settings.fb_atc_popup.active){
+        if (window.baMsg.subscriber_hash.ba_fb_opted_in){return;}
+        if (window.baMsg.subscriber_hash.ba_fb_atc_popup_closed){return;}
+        event.preventDefault();
+        window.baMsg.active_atc.classList.remove("ba-click-ready");
+        //var atcModal = document.getElementById("ba-fb-atc-popup");
+        createModal.classList.add("show-pop");
+        createModal.style.display = "block";
+        window.baMsg.active_atc.removeEventListener('click', function(){});
+        window.baMsg.use_stm_callback = 'fb_atc_popup';
+        applyMet('fb_atc_view');
+        window.baMsg.active_fb_atc_shown = true;
+        return false;
+      }
+    }
+
+    window.baMsg.closeFbAtcModal = function(markAsClosed){
+      createModal.classList.remove("show-pop");
+      createModal.style.display = "none";
+      window.baMsg.use_stm_callback = '';
+      window.baMsg.active_atc.removeEventListener('click',function(){});
+      if (markAsClosed){
+        updateSubscriberHash({ba_fb_atc_popup_closed: parseInt(new Date().getTime())});
+        applyMet('fb_atc_close');
+      }
+      setTimeout(function (){
+        window.baMsg.active_atc.click();
+      }, 500);
+    }
+
+    if (!window.baMsg.is_preview){
+      if (!settings.active){return;}
+      if (window.baMsg.subscriber_hash.ba_fb_atc_popup_opted_in){return;}
+      if (window.baMsg.subscriber_hash.ba_fb_opted_in){return;}
+      if (window.baMsg.subscriber_hash.ba_fb_atc_popup_closed){return;}
+    }
+
+    if (window.baMsg.page_url.indexOf('products') !== -1) {
+      if (!settings.active && !window.baMsg.is_preview){
+        return;
+      }
+      var form = getProductForm();
+      if (!form || form.length === 0 || (window.baMsg.subscriber_hash.ba_fb_atc_popup_opted_in && !window.baMsg.is_preview)){
+        return;
+      }
+    }
+
+    var modalShade = document.createElement('div');
+    modalShade.classList = 'ba-modal-shade';
+    modalShade.setAttribute('style', 'position: fixed; z-index: 100000; background: rgba(0,0,0,.42); width:100%; height: 100%; opacity: 0;display:none;');
+    modalShade.style.overflow = 'none';
+    modalShade.style.transition = 'all 0.5s';
+
+    window.fbLoaded.promise.then(function(){
+      var s = document.body.firstChild;
+      s.parentNode.insertBefore(modalShade, s);
+    });
+
+    var createModal = document.createElement('div');
+    createModal.setAttribute('id', 'ba-fb-atc-popup');
+    var appendModal = document.body.appendChild(createModal);
+    var modalClass = appendModal.classList.add("ba-fb-add-tc-popup__overlay");
+    createModal.setAttribute('style','position: fixed;top: 0;left: 0;width: 100%;height: 100%;z-index: 2147483647;display: none;');
+
+    var modalWrapper = document.createElement('div');
+    var modalWrapperMain = createModal.appendChild(modalWrapper);
+    modalWrapperMain.classList.add('ba-fb-add-tc-popup__wrapper');
+    modalWrapper.setAttribute('style','display: block;position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);width: 720px;max-width: 93%;');
+
+    var modalContainer = document.createElement('div');
+    modalWrapperMain.appendChild(modalContainer);
+    modalContainer.classList.add('ba-fb-add-tc-popup__container');
+    modalContainer.setAttribute('style','background: #FFFFFF;border: 1px solid #DADADA;border-radius: 7px;box-shadow: 0 0 40px 0 rgba(0, 0, 0, 0.1);position: relative;');
+
+    if(settings.close_button == "1"){
+      var closeButton = document.createElement('button');
+      modalContainer.appendChild(closeButton);
+      closeButton.classList.add('ba-fb-add-tc-popup__close','ba-fb-tc-modal-close');
+      closeButton.innerHTML = "✖";
+      closeButton.setAttribute('style','width: 30px;height: 30px;line-height: 30px;position: absolute;top: 15px;right: 15px;border: none;background: none;z-index: 10;');
+    }
+
+    var modalHeader = document.createElement('div');
+    modalContainer.appendChild(modalHeader);
+    modalHeader.classList.add('ba-fb-add-tc-pop-head');
+
+    var modalHeaderImage = document.createElement('div');
+    modalHeader.setAttribute('style','background: #F2F5F9;border-bottom: 1px solid #DADADA;border-radius: 7px 7px 0 0;height: 130px;position: relative;');
+    modalHeader.appendChild(modalHeaderImage);
+    modalHeaderImage.setAttribute('style','position: absolute;bottom: 0px;width: 100%;height: 200%;background-image: url("https://cdn.shopify.com/s/files/1/2701/3534/t/1/assets/phone-hand.svg?10344228977754903280");background-size: 260px;background-position: center bottom;background-repeat: no-repeat;');
+    modalHeaderImage.classList.add('ba-fb-add-tc-popup-head-img');
+
+    var modalBody = document.createElement('div');
+    modalContainer.appendChild(modalBody);
+    modalBody.classList.add('ba-fb-add-tc-popup__body');
+    modalBody.setAttribute('style','padding: 30px;text-align: center;background: #ffffff;');
+
+    var modalHeaderTag = document.createElement('h3');
+    modalBody.appendChild(modalHeaderTag);
+    modalHeaderTag.classList.add('ba-fb-add-tc-pop-title');
+    modalHeaderTag.setAttribute('style','margin: 10px 0 25px;font-family: "Roboto", sans-serif;font-size: 25px;text-align: center;');
+    modalHeaderTag.innerHTML = settings.title;
+    modalHeaderTag.style.color = settings.header_text_color;
+
+    var modalParaTag = document.createElement('p');
+    modalParaTag.innerHTML = settings.paragraph;
+    modalBody.appendChild(modalParaTag);
+    modalParaTag.classList.add('ba-fb-add-tc-pop-desc');
+    modalParaTag.setAttribute('style','margin: 0 0 20px;font-family: "Roboto", sans-serif;font-size: 17px;text-align: center;line-height: 25px;');
+    modalParaTag.style.color = settings.paragraph_text_color;
+
+    var optInBoxWrapper = document.createElement('div');
+    optInBoxWrapper.setAttribute('style', 'margin: 10px auto 30px;');
+    modalBody.appendChild(optInBoxWrapper);
+
+    var dataRef = 'OPT_IN_FROM_SEND_TO_MESSENGER:atc_popup';
+    if (window.baMsg.visitor_token !== ''){
+      dataRef += ':' + window.baMsg.visitor_token;
+    }
+
+    var optInBox = document.createElement('div');
+    optInBox.classList = 'fb-send-to-messenger';
+    optInBox.setAttribute('messenger_app_id', window.baMsg.app_id);
+    optInBox.setAttribute('page_id', window.baMsg.fb_page_id);
+    optInBox.setAttribute('data-ref', dataRef);
+    optInBox.setAttribute('color', settings.button_cta_color);
+    optInBox.setAttribute('size', 'xlarge');
+    optInBox.setAttribute('cta_text', settings.button_cta);
+    optInBox.setAttribute('style', 'width:176px !important;margin-top:15px;');
+    modalBody.appendChild(optInBox);
+    optInBoxWrapper.appendChild(optInBox);
+
+    var modalFooter = document.createElement('small');
+    modalFooter.innerHTML = settings.no_thanks_text;
+    modalBody.appendChild(modalFooter);
+    modalFooter.classList.add('ba-fb-add-tc-pop-footer','ba-fb-tc-modal-close');
+    modalFooter.setAttribute('style','display: block;margin: 5px auto 0;font-family: "Roboto", sans-serif;font-size: 12px;text-align: center;cursor: pointer;');
+    modalFooter.style.color = settings.no_thanks_text_color;
+
+    var closePopup = document.querySelector(".ba-fb-tc-modal-close");
+    closePopup.addEventListener("click", function(e) {
+      e.preventDefault();
+      window.baMsg.closeFbAtcModal(true);
+    });
+    modalFooter.addEventListener("click", function(e) {
+      e.preventDefault();
+      window.baMsg.closeFbAtcModal(true);
+    });
+
+    return this;
+
+  };
+
+  function getProductForm() {
+    var form = document.getElementById('add-item-form');
+    if (!form || form.length === 0){
+        form = document.querySelector("form[action='/cart/add']");
+    }
+    if (!form || form.length === 0){
+        form = document.querySelector("form[action^='/cart/add']");
+    }
+    if (!form || form.length === 0){
+        form = document.querySelector("form[action$='/cart/add']");
+    }
+    if (!form || form.length === 0){
+        form = document.querySelector("form[action='/cart/add.js']");
+    }
+    if (!form || form.length === 0){
+        form = document.querySelector("form[action='/cart/add?return=/']");
+    }
+    if (!form || form.length === 0){
+        form = document.getElementsByClassName("form.product-form")[0];
+    }
+    if (!form || form.length === 0){
+        form = document.getElementsByClassName("btn-addtocart")[0];
+    }
+    return form
+  }
+
+  setTimeout(function () {
+    FB.Event.subscribe('send_to_messenger', function (e) {
+      if (window.baMsg.use_stm_callback == 'modal'){
+        if (e.event === 'clicked') {
+          applyMet('ba_fb_modal_click');
+          var fbModalTitle = document.getElementById('ba-fb-modal-title');
+          var fbModalDesc = document.getElementById('ba-fb-modal-desc');
+
+          if (window.baMsg.settings.fb_modal.discount_code === null) {
+            fbModalTitle.innerHTML = window.baMsg.settings.fb_modal.submitted_title;
+            fbModalDesc.innerHTML = window.baMsg.settings.fb_modal.submitted_subtitle;
+          } else {
+            fbModalTitle.innerHTML = window.baMsg.settings.fb_modal.submitted_title.replace('%discountCode', '<b>' + window.baMsg.settings.fb_modal.discount_code + '</b>');
+            fbModalDesc.innerHTML = window.baMsg.settings.fb_modal.submitted_subtitle === null ? null : window.baMsg.settings.fb_modal.submitted_subtitle.replace('%discountCode', '<b>' + window.baMsg.settings.fb_modal.discount_code + '</b>');
+          }
+
+          if (window.baMsg.settings.fb_modal.image_name !== null){
+            //image.parentNode.removeChild(image);
+          }
+        }
+
+        if (e.event === 'opt_in') {
+          if (window.baMsg.subscriber_hash.ba_fb_modal_opted_in){return;}
+
+          baMet.getCartData(function(data){
+            var cartToken = JSON.parse(data).token;
+
+            if (!window.baMsg.subscriber_hash.ba_fb_modal_opted_in){
+              var rightNow = parseInt(new Date().getTime());
+              var updateHash = {
+                ba_fb_modal_opted_in: rightNow,
+                ba_fb_opted_in: rightNow,
+                ba_fb_modal_opt_in_cart_token: cartToken
+              }
+              updateSubscriberHash(updateHash);
+              trackFbOptIn(data, 'ba_fb_modal');
+            }
+          });
+        }
+
+      } else if (window.baMsg.use_stm_callback == 'fb_atc_popup'){
+        // if (e.event === 'clicked') {
+        //   trackClick();
+        // }
+
+        if (e.event === 'opt_in') {
+          if (window.baMsg.subscriber_hash.ba_fb_atc_popup_opted_in === 'true'){return;}
+
+          baMet.getCartData(function(data){
+            var cartToken = JSON.parse(data).token;
+
+            if (!window.baMsg.subscriber_hash.ba_fb_atc_popup_opted_in){
+              var rightNow = parseInt(new Date().getTime());
+              var updateHash = {
+                ba_fb_atc_popup_opted_in: rightNow,
+                ba_fb_opted_in: rightNow,
+                ba_fb_atc_popup_opt_in_cart_token: cartToken
+              }
+              updateSubscriberHash(updateHash);
+              trackFbOptIn(data, 'atc_popup');
+            }
+          });
+          window.baMsg.closeFbAtcModal(false);
+        }
+      }
+    });
+  }, 1000);
+
+
+  return this;
+}
+  
+  
+
+  (function() {
+
+      if (window.baMsg.fb_active && window.baMsg.fb_page_id){
+        //fb
+        var loader = new boosterFBLoader();
+        loader.load();
+        loader.loadChat({
+          "active":1,
+          "minimized":0,
+          "theme_color":'#0084FF',
+          "logged_in_greeting":"Hi there! How can we help you?",
+          "logged_out_greeting":"Hi! We\'re here to answer any questions you may have."
+        });
+        new boosterFbCheckboxes().generate(window.baMsg.settings.fb_base);
+        new boosterFbModal().generate(window.baMsg.settings.fb_modal);
+        new boosterFbAtcModal().generate(window.baMsg.settings.fb_atc_popup);
+      }
+      //push
+      if (window.baMsg.push_active){
+        new boosterPushSession().generate({
+          "active": false
+        });
+      }
+
+      if (window.baMsg.sms_active){
+        new boosterSMSAtcModal().generate({
+           "active":0,
+           "title":"",
+           "paragraph":"",
+           "no_thanks_text":"",
+           "close_button":"",
+           "plugin_type":"send_to_messenger",
+           "button_cta":"",
+           "button_cta_color":"",
+           "header_bg_color":"",
+           "body_bg_color":"",
+           "header_text_color":"",
+           "paragraph_text_color":"",
+           "no_thanks_text_color":"",
+           "disclaimer":""
+        });
+      }
+
+    })();
+
+  listentoAtc();
+
+  });
+}())
+</script>
+
+
+
+<!-- Added by Sticky Cart by Uplinkly -->
+
+  
+ 
+
+<!-- Script on Read More and Show Less -->
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" 
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" 
+        crossorigin="anonymous">
+</script>
+  
+  <!-- Script on pop up terms -->
+<script src="//wpcc.io/lib/1.0.2/cookieconsent.min.js"></script>
+  
+  
+<script>
+  if(typeof(Spurit) === 'undefined'){
+    var Spurit = {};
+  }
+  if(!Spurit.Oneclickcheckout2){
+    Spurit.Oneclickcheckout2 = {};
+  }
+  if(!Spurit.Oneclickcheckout2.snippet){
+    Spurit.Oneclickcheckout2.snippet = {};
+  }
+  Spurit.Oneclickcheckout2.snippet.shopHash = '7dd38b5168b7a1d79874b3179065ee6c';
+  Spurit.Oneclickcheckout2.snippet.cacheTimestamp = 1590732078;
+
+  Spurit.Oneclickcheckout2.product = null; //todo remove after 2.2 version release, if unused
+  Spurit.Oneclickcheckout2.collections = null;
+
+  if(typeof(Spurit.globalSnippet) === 'undefined'){
+    Spurit.globalSnippet = {
+      shop_currency: 'PHP',
+      money_format: '₱{{amount}}',
+      cart: {"note":"","attributes":{},"original_total_price":51950,"total_price":51950,"total_discount":0,"total_weight":0.0,"item_count":2,"items":[{"id":42236301213875,"properties":{},"quantity":2,"variant_id":42236301213875,"key":"42236301213875:f4fd822c87e70f906f7836f1999a7223","title":"Chicken Karaage 450g","price":25975,"original_price":25975,"discounted_price":25975,"line_price":51950,"original_line_price":51950,"total_discount":0,"discounts":[],"sku":"","grams":0,"vendor":"Fresh Options","taxable":true,"product_id":7328077316275,"product_has_only_default_variant":true,"gift_card":false,"final_price":25975,"final_line_price":51950,"url":"\/products\/chicken-karaage-450g?variant=42236301213875","featured_image":{"aspect_ratio":1.471,"alt":"Chicken Karaage 450g","height":544,"url":"\/\/freshoptionfnb.myshopify.com\/cdn\/shop\/products\/Chicken-Karaage-with-Packaging.png?v=1670567450","width":800},"image":"\/\/freshoptionfnb.myshopify.com\/cdn\/shop\/products\/Chicken-Karaage-with-Packaging.png?v=1670567450","handle":"chicken-karaage-450g","requires_shipping":true,"product_type":"","product_title":"Chicken Karaage 450g","product_description":"Fresh Options Chicken Karaage 450g","variant_title":null,"variant_options":["Default Title"],"options_with_values":[{"name":"Title","value":"Default Title"}],"line_level_discount_allocations":[],"line_level_total_discount":0}],"requires_shipping":true,"currency":"PHP","items_subtotal_price":51950,"cart_level_discount_applications":[]},
+      customer_id: ''
+    };
+  }
+</script>
+
+    <script src="https://cdn-spurit.com/shopify-apps/oneclickcheckout2/common.js"></script>
+    <link href="https://cdn-spurit.com/shopify-apps/oneclickcheckout2/common.css" rel="stylesheet" type="text/css" media="all">
+
+<script src="https://www.enormapps.com/faq-v2/frontend/js/embed.js" defer="defer"></script>
+  
+  <!-- Global site tag (gtag.js) - Google Ads: 470455796 --> 
+  <script async src="https://www.googletagmanager.com/gtag/js?id=AW-470455796"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-470455796'); </script>
+  <!-- Event snippet for Purchase conversion page --> 
+  <script> gtag('event', 'conversion', { 'send_to': 'AW-470455796/XDuzCMep4vsCEPSrquAB', 'value': 1.0, 'currency': 'PHP', 'transaction_id': '' }); </script>
+
+  
+ 
+ <noscript>
+  <style type="text/css">
+    .shopify-cli-no-script-message {
+      font-family: -apple-system, BlinkMacSystemFont, San Francisco, Segoe UI, Roboto, Helvetica Neue, sans-serif;
+      text-size-adjust: 100%;
+      text-rendering: optimizeLegibility;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      position: fixed;
+      z-index: 999;
+      font-weight: 500;
+      left: 0;
+      top: 0;
+      width: 100vw;
+      height: 100vh;
+      padding: 10rem 0;
+      color: #202223;
+      text-align: center;
+      background-color: #F6F6F7;
+    }
+  </style>
+  <div class="shopify-cli-no-script-message">
+    Shopify CLI requires JavaScript to work.
+    <br />
+    Activate JavaScript support or try a different browser.
+  </div>
+</noscript>
+<script>
+(() => {
+(() => {
+  window.__SHOPIFY_CLI_ENV__ = {"mode":"hot-reload","section_names_by_type":{}};
+})();
+
+class HotReload {
+  static reloadMode = () => {
+    const namespace = window.__SHOPIFY_CLI_ENV__;
+    return namespace.mode;
+  };
+  static isFullPageReloadMode = () => {
+    return HotReload.reloadMode() === "full-page";
+  };
+  static isReloadModeActive = () => {
+    return HotReload.reloadMode() !== "off";
+  };
+  static setHotReloadCookie = (files) => {
+    const date = new Date();
+
+    // Hot reload cookie expires in 3 seconds
+    date.setSeconds(date.getSeconds() + 3);
+
+    const sections = files.join(",");
+    const expires = date.toUTCString();
+
+    document.cookie = `hot_reload_files=${sections}; expires=${expires}; path=/`;
+  };
+  static refreshPage = (files) => {
+    HotReload.setHotReloadCookie(files);
+    console.log("[HotReload] Refreshing entire page");
+    window.location.reload();
+  };
+  static isCSSFile = (filename) => {
+    return filename.endsWith(".css");
+  };
+  static reloadCssFile = (filename) => {
+    // Find a stylesheet link starting with /assets (locally-served only) containing the filename
+    let links = document.querySelectorAll(
+      `link[href^="/assets"][href*="${filename}"][rel="stylesheet"]`
+    );
+
+    Array.from(links).forEach((link) => {
+      if (!link) {
+        console.log(
+          `[HotReload] Could not find link for stylesheet ${filename}`
+        );
+      } else {
+        link.href = new URL(link.href).pathname + `?v=${Date.now()}`;
+        console.log(`[HotReload] Reloaded stylesheet ${filename}`);
+      }
+    });
+  };
+}
+
+class SSEClient {
+  constructor(eventsUrl, eventHandler) {
+    SSEClient.verifySSE();
+    this.eventsUrl = eventsUrl;
+    this.eventHandler = eventHandler;
+  }
+  static verifySSE() {
+    if (typeof EventSource === "undefined") {
+      console.error(
+        "[HotReload] Error: SSE features are not supported. Try a different browser."
+      );
+    }
+
+    console.log("[HotReload] Initializing...");
+  }
+  connect() {
+    const eventSource = new EventSource(this.eventsUrl);
+    eventSource.onmessage = (msg) => {
+      this.handleMessage(msg);
+    };
+
+    eventSource.onopen = () => console.log("[HotReload] SSE connected.");
+
+    eventSource.onclose = () => {
+      console.log("[HotReload] SSE closed. Attempting to reconnect...");
+
+      setTimeout(this.connect, 5000);
+    };
+
+    eventSource.onerror = () => {
+      console.log("[HotReload] SSE closed.");
+      eventSource.close();
+    };
+  }
+  handleMessage(message) {
+    const data = JSON.parse(message.data);
+    if (data.reload_page) {
+      HotReload.refreshPage([]);
+      return;
+    }
+    this.eventHandler(data);
+  }
+}
+
+(() => {
+  function sectionNamesByType(type) {
+    const namespace = window.__SHOPIFY_CLI_ENV__;
+    return namespace.section_names_by_type[type] || [];
+  }
+
+  function querySelectDOMSections(idSuffix) {
+    const elements = document.querySelectorAll(
+      `[id^='shopify-section'][id$='${idSuffix}']`
+    );
+    return Array.from(elements);
+  }
+
+  function fetchDOMSections(name) {
+    const domSections = sectionNamesByType(name).flatMap((n) =>
+      querySelectDOMSections(n)
+    );
+
+    if (domSections.length > 0) {
+      return domSections;
+    }
+
+    return querySelectDOMSections(name);
+  }
+
+  function isRefreshRequired(files) {
+    if (HotReload.isFullPageReloadMode()) {
+      return true;
+    }
+    return files.some(
+      (file) => !HotReload.isCSSFile(file) && !isSectionFile(file)
+    );
+  }
+
+  function refreshFile(file) {
+    if (HotReload.isCSSFile(file)) {
+      HotReload.reloadCssFile(file);
+      return;
+    }
+
+    if (isSectionFile(file)) {
+      reloadSection(file);
+    }
+  }
+
+  function handleUpdate(data) {
+    const modifiedFiles = data.modified;
+
+    if (modifiedFiles === undefined) {
+      return;
+    }
+
+    if (isRefreshRequired(modifiedFiles)) {
+      HotReload.refreshPage(modifiedFiles);
+    } else {
+      modifiedFiles.forEach(refreshFile);
+    }
+  }
+
+  function isSectionFile(filename) {
+    return new Section(filename).valid();
+  }
+
+  function reloadSection(filename) {
+    new Section(filename).refresh();
+  }
+
+  class Section {
+    constructor(filename) {
+      this.filename = filename;
+      this.name = filename.split("/").pop().replace(".liquid", "");
+      this.elements = fetchDOMSections(this.name);
+    }
+
+    valid() {
+      return this.filename.startsWith("sections/") && this.elements.length > 0;
+    }
+
+    async refreshElement(element) {
+      const sectionId = element.id.replace(/^shopify-section-/, "");
+      const url = new URL(window.location.href);
+
+      url.searchParams.append("section_id", sectionId);
+
+      const response = await fetch(url);
+
+      try {
+        if (response.headers.get("x-templates-from-params") === "1") {
+          element.outerHTML = await response.text();
+        } else {
+          window.location.reload();
+
+          console.log(
+            `[HotReload] Hot-reloading not supported, fully reloading ${this.name} section`
+          );
+        }
+      } catch (e) {
+        console.log(
+          `[HotReload] Failed to reload ${this.name} section: ${e.message}`
+        );
+      }
+    }
+
+    async refresh() {
+      console.log(`[HotReload] Reloaded ${this.name} sections`);
+      this.elements.forEach(this.refreshElement);
+    }
+  }
+
+  if (HotReload.isReloadModeActive()) {
+    let client = new SSEClient("/hot-reload", handleUpdate);
+    client.connect();
+  }
+})();
+
+})();
+</script>
+</body> 
+</html>

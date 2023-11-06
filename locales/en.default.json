@@ -458,7 +458,7 @@
     "checkout": {
       "contact": {
         "address1_label": "Complete Address",
-        "phone_label": "Secondary phone number"
+        "phone_label": "Primary phone number"
       },
       "shipping": {
         "shipping_method_title": "Shipping"

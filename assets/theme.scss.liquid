@@ -4426,6 +4426,8 @@ $color-blankstate-background: rgba($color-body-text, 0.1);
 
 .cart__footer {
   padding-top: $section-spacing-small / 2;
+  display:flex;
+  justify-content:flex-end;
 }
 
 .cart__buttons-container {
@@ -4440,6 +4442,7 @@ $color-blankstate-background: rgba($color-body-text, 0.1);
   }
 }
 
+
 .cart__submit-controls {
   @include display-flexbox();
   @include flex-direction(column);
@@ -4450,6 +4453,8 @@ $color-blankstate-background: rgba($color-body-text, 0.1);
     @include align-items(flex-start);
     @include justify-content(flex-end);
   }
+
+  padding-bottom: 20px;
 }
 
 .cart__submit {
@@ -4476,7 +4481,13 @@ $color-blankstate-background: rgba($color-body-text, 0.1);
 .cart__shipping {
   font-size: em($font-size-base - 2);
   padding: 20px 0 20px;
+  margin: 0;
   margin-bottom: 25px;
+  text-align:justify;
+  
+  @include media-query($small) {
+    text-align:center;
+  }
 }
 
 .cart-note__label,

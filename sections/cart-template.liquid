@@ -311,10 +311,10 @@
             {%- endcapture -%}
      
             <!-- {{ taxes_shipping_checkout }} old code in div below -->
-            <div class="cart__shipping rte" style="text-align:justify">Initial bill and shipping calculated at checkout. Prices may also vary when weighed in the store. Our representative will call you to confirm your total bill.</div>
+            <div class="cart__shipping rte" style="margin-bottom: 0; padding-bottom: 10px;">Initial bill and shipping calculated at checkout. Prices may also vary when weighed in the store. Our representative will call you to confirm your total bill.</div>
             <div class="cart__buttons-container">
               
-              <p id="chk-term" style="float: none; text-align: right; clear: both; margin: 10px 0;">
+              <p id="chk-term" style="float: none; text-align: right; clear: both; margin: 10px auto;">
                 <input style="float:none; vertical-align: middle;" type="checkbox" id="agree" />
                 <label style="display:inline; float:none" for="agree">
                   I agree with the <a href="/pages/terms-of-privacy" style="color: #2cae5d;">terms and conditions</a>.
@@ -332,11 +332,11 @@
                   value="{{ 'cart.general.checkout' | t }}">
               </div>
 
-              <div class="cart__error-message-wrapper hide" role="alert" data-cart-error-message-wrapper>
+              {% comment %} <div class="cart__error-message-wrapper hide" role="alert" data-cart-error-message-wrapper>
                 <span class="visually-hidden">{{ 'general.accessibility.error' | t }} </span>
                 {% include 'icon-error' %}
                 <span class="cart__error-message" data-cart-error-message></span>
-              </div>
+              </div> {% endcomment %}
 
               {%- if additional_checkout_buttons -%}
                 <div class="additional-checkout-buttons">{{ content_for_additional_checkout_buttons }}</div>

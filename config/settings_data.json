@@ -46,8 +46,8 @@
     "checkout_sidebar_background_color": "#fafafa",
     "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
     "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
-    "checkout_accent_color": "#197bbd",
-    "checkout_button_color": "#197bbd",
+    "checkout_accent_color": "#2cae5d",
+    "checkout_button_color": "#2cae5d",
     "checkout_error_color": "#e32c2b",
     "sections": {
       "header": {
@@ -370,6 +370,18 @@
             "settings": {
               "collection": "brown-eggs"
             }
+          },
+          "82308196-2d21-488b-8d81-1e28b8e6055d": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "whats-new"
+            }
+          },
+          "3f0e1a11-d8bc-42ad-9983-febf935a0fd3": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "featured-products"
+            }
           }
         },
         "block_order": [
@@ -382,7 +394,9 @@
           "daedc20f-9dfd-4d40-b866-8f03cf27fa6e",
           "b4235fb5-b2f5-45b1-94b0-b34d2d3f9929",
           "7597887d-2800-4771-9a36-9a5170a306f3",
-          "544a6534-4d81-4645-ba78-1165f8b53dd9"
+          "544a6534-4d81-4645-ba78-1165f8b53dd9",
+          "82308196-2d21-488b-8d81-1e28b8e6055d",
+          "3f0e1a11-d8bc-42ad-9983-febf935a0fd3"
         ],
         "settings": {
           "title": "Shop by Category",
@@ -426,7 +440,7 @@
         "type": "cart-template",
         "settings": {
           "cart_ajax_enable": true,
-          "cart_notes_enable": true
+          "cart_notes_enable": false
         }
       },
       "1588383304827": {
