@@ -478,6 +478,9 @@
       },
       "thank_you": {
         "confirmed_description": "description here"
+      },
+      "general": {
+        "complete_purchase_button_label": "Place Order"
       }
     }
   }
