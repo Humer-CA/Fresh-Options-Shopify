@@ -1564,7 +1564,10 @@ for (var attr in meta) {
               <span class="cart-subtotal__price cust-cart-total" data-cart-subtotal>₱519.50</span>
             </div><!-- Taxes and shipping calculated at checkout
  old code in div below -->
-            <div class="cart__shipping rte">Initial bill and shipping calculated at checkout. Prices may also vary when weighed in the store. Our representative will call you to confirm your total bill.</div>
+            <div class="cart__shipping rte">
+              <!-- Initial bill and shipping calculated at checkout. Prices may also vary when weighed in the store. Our representative will call you to confirm your total bill. -->
+              Prices for fresh products may vary when weighed in the store. Our store representative will call you to confirm your total bill.
+            </div>
             <div class="cart__buttons-container">
               
               <p id="chk-term" style="float: none; text-align: right; clear: both; margin: 10px auto;">

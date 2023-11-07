@@ -311,7 +311,10 @@
             {%- endcapture -%}
      
             <!-- {{ taxes_shipping_checkout }} old code in div below -->
-            <div class="cart__shipping rte" style="margin-bottom: 0; padding-bottom: 10px;">Initial bill and shipping calculated at checkout. Prices may also vary when weighed in the store. Our representative will call you to confirm your total bill.</div>
+            <div class="cart__shipping rte" style="margin-bottom: 0; padding-bottom: 10px;">
+              {% comment %} Initial bill and shipping calculated at checkout. Prices may also vary when weighed in the store. Our representative will call you to confirm your total bill. {% endcomment %}
+              Prices for fresh products may vary when weighed in the store. Our store representative will call you to confirm your total bill.
+            </div>
             <div class="cart__buttons-container">
               
               <p id="chk-term" style="float: none; text-align: right; clear: both; margin: 10px auto;">
