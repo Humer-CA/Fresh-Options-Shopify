@@ -1,4 +1,4 @@
-<div class="page-width" data-section-id="{{ section.id }}" data-section-type="cart-template" data-ajax-enabled="{{ section.settings.cart_ajax_enable }}">
+<div class="page-width" data-section-id="{{ section.id }}" data-section-type="cart-template" data-ajax-enabled="{{ section.settings.cart_ajax_enable }}" style="padding-bottom: 70px;">
 
   <div {% if cart.item_count == 0 %}class="hide" {% endif %}data-cart-wrapper>
     <div class="cart-header">
@@ -260,13 +260,13 @@
               </p>
               
               
-              <h6 class="senior-subtitle">Insert Primary Phone Number</h6>
+              {% comment %} <h6 class="senior-subtitle">Insert Primary Phone Number</h6>
           
           	  <select style = "display:none" id="primaryNumber" name="attributes[Primary Number]">
                   <option value="Primary Number"{% if cart.attributes["Primary Number"] == "Regular Customer" %} selected{% endif %}>Choose. . .</option>
-			  </select>
+			        </select>
 
-				<input onkeypress="return isNumberKey(event);" id="primary-Number" type="text" name="attributes[Primary Number]" value="{{ cart.attributes["Primary Number"] }}"  placeholder="Insert Primary Number">
+				<input onkeypress="return isNumberKey(event);" id="primary-Number" type="text" name="attributes[Primary Number]" value="{{ cart.attributes["Primary Number"] }}"  placeholder="Insert Primary Number"> {% endcomment %}
   
          
                <textarea name="note" id="CartSpecialInstructions" class="cart-note__input" placeholder="Special Instructions" data-cart-notes>{{ cart.note }}</textarea>

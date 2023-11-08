@@ -61,7 +61,7 @@
           "home_page_only": false,
           "message_text": "",
           "message_link": "",
-          "color_bg": "#3FAE49",
+          "color_bg": "#3fae49",
           "color_text": "#ffffff"
         }
       },
@@ -440,7 +440,7 @@
         "type": "cart-template",
         "settings": {
           "cart_ajax_enable": true,
-          "cart_notes_enable": false
+          "cart_notes_enable": true
         }
       },
       "1588383304827": {
